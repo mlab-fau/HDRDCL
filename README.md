@@ -11,19 +11,21 @@ It emphasizes scenarios where HDR preserves semantic content that would be lost 
 
 The dataset is organized into separate directories for detection and segmentation:
 
+```
 HDR_Detection_GT/
 └── All_Detection_Combined/
 ├── <image>.exr or <image>.hdr # HDR input
 ├── <image>.json # bounding box annotations
 └── <image>.png # Drago tone-mapped preview
+```
 
+```
 HDR_Segmentation_GT/
 └── All_Segmentation_Combined/
 ├── <image>.exr or <image>.hdr # HDR input
 ├── <image>.json # polygon segmentation annotations
 └── <image>.png # Drago tone-mapped preview
-
-
+```
 
 - **Detection annotations:** bounding boxes  
 - **Segmentation annotations:** polygons (masks)  
