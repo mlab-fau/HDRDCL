@@ -3,7 +3,7 @@
 HDRDCL is a benchmark dataset for **object detection and segmentation** under challenging illumination.  
 It emphasizes scenarios where HDR preserves semantic content that would be lost in standard LDR imagery, such as deep shadows, bright highlights, and mixed/odd lighting, this git repo will update as label versions release, comments are highly encouraged (please note dataset labels are partly computer generated).
 
-📂 Dataset URL: [Kaggle – HDRDCL](https://www.kaggle.com/datasets/multimedialabfau/hdrdcl-an-hdr-detection-and-segmentation-dataset)
+📂 Dataset URL: [Kaggle – HDRDCL](https://www.kaggle.com/datasets/multimedialabfau/hdrdcl-hdr-detection-and-segmentation-dataset)
 
 ---
 
