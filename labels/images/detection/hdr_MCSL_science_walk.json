@@ -1,0 +1,28 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "bench",
+      "points": [
+        [
+          1568.0521240234375,
+          1118.28564453125
+        ],
+        [
+          1919.4478759765625,
+          1231.166259765625
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    }
+  ],
+  "imagePath": "hdr_MCSL_science_walk.png",
+  "imageData": null,
+  "imageHeight": 1312,
+  "imageWidth": 2000
+}

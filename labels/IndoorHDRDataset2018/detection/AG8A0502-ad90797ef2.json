@@ -1,0 +1,118 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "chair",
+      "points": [
+        [
+          3548.70166015625,
+          2262.034423828125
+        ],
+        [
+          4263.802734375,
+          2995.750732421875
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          2201.1962890625,
+          2279.9619140625
+        ],
+        [
+          2965.332763671875,
+          3024.5751953125
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          55.36722946166992,
+          2347.644287109375
+        ],
+        [
+          1130.0618896484375,
+          3223.018798828125
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "book",
+      "points": [
+        [
+          2276.934326171875,
+          3080.407470703125
+        ],
+        [
+          3269.903076171875,
+          3407.31103515625
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "dining table",
+      "points": [
+        [
+          2023.8270263671875,
+          2928.58984375
+        ],
+        [
+          4291.71875,
+          3411.680419921875
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          5207.52490234375,
+          2374.35302734375
+        ],
+        [
+          6636.94140625,
+          3325.16259765625
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    }
+  ],
+  "imagePath": "AG8A0502-ad90797ef2.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

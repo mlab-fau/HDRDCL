@@ -1,0 +1,46 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          762.3645629882812,
+          450.2650451660156
+        ],
+        [
+          1210.5521240234375,
+          1028.16455078125
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          1502.5103759765625,
+          740.8123168945312
+        ],
+        [
+          1626.65625,
+          1031.6025390625
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    }
+  ],
+  "imagePath": "hdr_MCSL_cis_plant.png",
+  "imageData": null,
+  "imageHeight": 1312,
+  "imageWidth": 2000
+}

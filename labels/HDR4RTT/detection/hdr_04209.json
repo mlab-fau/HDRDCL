@@ -1,0 +1,28 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "car",
+      "points": [
+        [
+          3902.987548828125,
+          1830.4119873046875
+        ],
+        [
+          4031.762451171875,
+          1912.532470703125
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    }
+  ],
+  "imagePath": "hdr_04209.png",
+  "imageData": null,
+  "imageHeight": 3028,
+  "imageWidth": 4080
+}

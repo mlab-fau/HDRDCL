@@ -1,0 +1,100 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "person",
+      "points": [
+        [
+          0.0,
+          262.8951110839844
+        ],
+        [
+          2328.08251953125,
+          2461.19384765625
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "cell phone",
+      "points": [
+        [
+          1886.785888671875,
+          978.5274047851562
+        ],
+        [
+          2418.214111328125,
+          1485.4725341796875
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "cell phone",
+      "points": [
+        [
+          1191.04150390625,
+          696.319580078125
+        ],
+        [
+          1813.9168701171875,
+          1062.70263671875
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "cell phone",
+      "points": [
+        [
+          227.70375061035156,
+          342.6214904785156
+        ],
+        [
+          817.7962646484375,
+          722.8303833007812
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "cell phone",
+      "points": [
+        [
+          1301.3228759765625,
+          1302.8970947265625
+        ],
+        [
+          1732.6771240234375,
+          1729.19189453125
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    }
+  ],
+  "imagePath": "hdr_03224.png",
+  "imageData": null,
+  "imageHeight": 2464,
+  "imageWidth": 3280
+}

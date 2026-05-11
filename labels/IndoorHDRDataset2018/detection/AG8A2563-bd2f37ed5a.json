@@ -1,0 +1,46 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "toilet",
+      "points": [
+        [
+          4035.33447265625,
+          2312.8681640625
+        ],
+        [
+          4521.60302734375,
+          2948.513427734375
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "sink",
+      "points": [
+        [
+          5350.7763671875,
+          2289.58203125
+        ],
+        [
+          5726.71533203125,
+          2543.840087890625
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    }
+  ],
+  "imagePath": "AG8A2563-bd2f37ed5a.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

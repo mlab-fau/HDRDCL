@@ -1,0 +1,82 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "toilet",
+      "points": [
+        [
+          3812.692138671875,
+          2348.866943359375
+        ],
+        [
+          4323.478515625,
+          2977.247802734375
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "toilet",
+      "points": [
+        [
+          4569.89013671875,
+          2295.3720703125
+        ],
+        [
+          4954.00146484375,
+          2832.946533203125
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "toilet",
+      "points": [
+        [
+          3105.197265625,
+          2370.96630859375
+        ],
+        [
+          3509.740234375,
+          2894.011474609375
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "toilet",
+      "points": [
+        [
+          5206.48193359375,
+          2213.2685546875
+        ],
+        [
+          5308.63916015625,
+          2627.34619140625
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    }
+  ],
+  "imagePath": "9C4A8256-455a74db43.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

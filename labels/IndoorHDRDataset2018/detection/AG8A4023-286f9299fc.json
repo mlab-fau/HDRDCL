@@ -1,0 +1,46 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "boat",
+      "points": [
+        [
+          3761.16845703125,
+          1911.2696533203125
+        ],
+        [
+          5689.89794921875,
+          3033.6376953125
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          6723.568359375,
+          2333.025390625
+        ],
+        [
+          6846.15673828125,
+          2529.167236328125
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    }
+  ],
+  "imagePath": "AG8A4023-286f9299fc.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

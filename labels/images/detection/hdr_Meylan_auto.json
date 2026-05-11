@@ -1,0 +1,118 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "car",
+      "points": [
+        [
+          396.10394287109375,
+          304.5771484375
+        ],
+        [
+          664.8533325195312,
+          443.86175537109375
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "bicycle",
+      "points": [
+        [
+          885.6417236328125,
+          320.13836669921875
+        ],
+        [
+          961.692138671875,
+          426.29217529296875
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "bicycle",
+      "points": [
+        [
+          783.1834716796875,
+          310.1134338378906
+        ],
+        [
+          856.3748168945312,
+          412.8865661621094
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "bicycle",
+      "points": [
+        [
+          841.5191650390625,
+          318.8497009277344
+        ],
+        [
+          910.1360473632812,
+          414.8614196777344
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "bicycle",
+      "points": [
+        [
+          809.837646484375,
+          314.8129577636719
+        ],
+        [
+          873.8800659179688,
+          414.8815002441406
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "motorcycle",
+      "points": [
+        [
+          521.0947875976562,
+          272.7785339355469
+        ],
+        [
+          586.8526000976562,
+          344.4492492675781
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    }
+  ],
+  "imagePath": "hdr_Meylan_auto.png",
+  "imageData": null,
+  "imageHeight": 723,
+  "imageWidth": 1087
+}

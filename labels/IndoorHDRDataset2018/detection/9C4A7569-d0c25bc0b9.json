@@ -1,0 +1,118 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "tv",
+      "points": [
+        [
+          191.6106719970703,
+          1968.7744140625
+        ],
+        [
+          714.656005859375,
+          2371.955322265625
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          2791.58447265625,
+          1951.314453125
+        ],
+        [
+          3617.015380859375,
+          2975.611572265625
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "couch",
+      "points": [
+        [
+          3533.974609375,
+          2084.808837890625
+        ],
+        [
+          5589.37939453125,
+          3021.931884765625
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          5701.064453125,
+          2064.1123046875
+        ],
+        [
+          6420.251953125,
+          2823.25439453125
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          4589.73486328125,
+          1344.8349609375
+        ],
+        [
+          5051.48583984375,
+          2107.609375
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          1928.3453369140625,
+          1871.1529541015625
+        ],
+        [
+          2234.817138671875,
+          2379.669189453125
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    }
+  ],
+  "imagePath": "9C4A7569-d0c25bc0b9.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

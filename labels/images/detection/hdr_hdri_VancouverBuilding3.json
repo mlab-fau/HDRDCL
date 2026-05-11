@@ -1,0 +1,46 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          2115.51611328125,
+          894.1740112304688
+        ],
+        [
+          2172.884033203125,
+          980.2260131835938
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          1785.3541259765625,
+          813.4312133789062
+        ],
+        [
+          1845.112548828125,
+          955.2576904296875
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    }
+  ],
+  "imagePath": "hdr_hdri_VancouverBuilding3.png",
+  "imageData": null,
+  "imageHeight": 1704,
+  "imageWidth": 2272
+}

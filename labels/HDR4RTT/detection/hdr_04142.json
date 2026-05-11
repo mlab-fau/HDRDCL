@@ -1,0 +1,100 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "person",
+      "points": [
+        [
+          1830.4251708984375,
+          1061.60888671875
+        ],
+        [
+          3966.533203125,
+          3115.724365234375
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          1072.3934326171875,
+          1270.9522705078125
+        ],
+        [
+          1380.08154296875,
+          1886.6033935546875
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          1764.94921875,
+          1396.1566162109375
+        ],
+        [
+          2517.5673828125,
+          2396.954345703125
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          1920.513671875,
+          1401.1689453125
+        ],
+        [
+          2239.269775390625,
+          1973.0533447265625
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "bed",
+      "points": [
+        [
+          850.6735229492188,
+          1799.792236328125
+        ],
+        [
+          2116.84326171875,
+          2380.429931640625
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    }
+  ],
+  "imagePath": "hdr_04142.png",
+  "imageData": null,
+  "imageHeight": 3120,
+  "imageWidth": 4208
+}

@@ -1,0 +1,334 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "chair",
+      "points": [
+        [
+          880.4192504882812,
+          1813.4681396484375
+        ],
+        [
+          1294.84326171875,
+          2355.941162109375
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          2777.2255859375,
+          1783.577880859375
+        ],
+        [
+          3237.06591796875,
+          2308.388916015625
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "keyboard",
+      "points": [
+        [
+          4431.7041015625,
+          1708.2586669921875
+        ],
+        [
+          4496.98974609375,
+          1804.1375732421875
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          5181.3544921875,
+          1798.7916259765625
+        ],
+        [
+          5394.24365234375,
+          2278.186279296875
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          204.21893310546875,
+          1683.15234375
+        ],
+        [
+          394.3998107910156,
+          1804.2625732421875
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          583.681396484375,
+          1660.5316162109375
+        ],
+        [
+          762.5081787109375,
+          1809.396240234375
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    },
+    {
+      "label": "couch",
+      "points": [
+        [
+          3026.9873046875,
+          1653.799072265625
+        ],
+        [
+          3560.62939453125,
+          2153.378662109375
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 6
+      }
+    },
+    {
+      "label": "cup",
+      "points": [
+        [
+          693.61083984375,
+          2028.0216064453125
+        ],
+        [
+          807.1516723632812,
+          2123.900634765625
+        ]
+      ],
+      "group_id": 7,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 7
+      }
+    },
+    {
+      "label": "dining table",
+      "points": [
+        [
+          0.0,
+          1763.25537109375
+        ],
+        [
+          980.0765991210938,
+          2356.19091796875
+        ]
+      ],
+      "group_id": 8,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 8
+      }
+    },
+    {
+      "label": "mouse",
+      "points": [
+        [
+          4409.20654296875,
+          1813.5306396484375
+        ],
+        [
+          4477.3310546875,
+          1838.761962890625
+        ]
+      ],
+      "group_id": 9,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 9
+      }
+    },
+    {
+      "label": "tv",
+      "points": [
+        [
+          4647.65625,
+          1490.1453857421875
+        ],
+        [
+          4803.77490234375,
+          1742.4583740234375
+        ]
+      ],
+      "group_id": 10,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 10
+      }
+    },
+    {
+      "label": "laptop",
+      "points": [
+        [
+          4551.58203125,
+          1492.506103515625
+        ],
+        [
+          4812.72607421875,
+          1772.573486328125
+        ]
+      ],
+      "group_id": 11,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 11
+      }
+    },
+    {
+      "label": "cup",
+      "points": [
+        [
+          2034.48876953125,
+          1620.973388671875
+        ],
+        [
+          2085.58203125,
+          1686.57470703125
+        ]
+      ],
+      "group_id": 12,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 12
+      }
+    },
+    {
+      "label": "book",
+      "points": [
+        [
+          0.0,
+          1855.26220703125
+        ],
+        [
+          248.55325317382812,
+          2029.358154296875
+        ]
+      ],
+      "group_id": 13,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 13
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          4135.92138671875,
+          1572.584228515625
+        ],
+        [
+          4340.294921875,
+          1824.897216796875
+        ]
+      ],
+      "group_id": 14,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 14
+      }
+    },
+    {
+      "label": "book",
+      "points": [
+        [
+          4444.9267578125,
+          1855.4371337890625
+        ],
+        [
+          4677.685546875,
+          1994.209228515625
+        ]
+      ],
+      "group_id": 15,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 15
+      }
+    },
+    {
+      "label": "book",
+      "points": [
+        [
+          203.93788146972656,
+          1952.75244140625
+        ],
+        [
+          450.8891906738281,
+          2114.232666015625
+        ]
+      ],
+      "group_id": 16,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 16
+      }
+    },
+    {
+      "label": "dining table",
+      "points": [
+        [
+          3887.31201171875,
+          1622.8470458984375
+        ],
+        [
+          4920.53369140625,
+          2319.230712890625
+        ]
+      ],
+      "group_id": 17,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 17
+      }
+    }
+  ],
+  "imagePath": "Scenes_Indoor_scene 82_rep2.png",
+  "imageData": null,
+  "imageHeight": 2698,
+  "imageWidth": 5396
+}

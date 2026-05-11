@@ -1,0 +1,82 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "refrigerator",
+      "points": [
+        [
+          5510.48583984375,
+          1509.994873046875
+        ],
+        [
+          6315.4853515625,
+          3053.705078125
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "refrigerator",
+      "points": [
+        [
+          6299.0390625,
+          1509.7071533203125
+        ],
+        [
+          7181.677734375,
+          3111.533447265625
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "sink",
+      "points": [
+        [
+          2554.640380859375,
+          2160.942626953125
+        ],
+        [
+          3024.56396484375,
+          2248.11669921875
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "cup",
+      "points": [
+        [
+          2382.6923828125,
+          2020.525146484375
+        ],
+        [
+          2443.98681640625,
+          2140.3896484375
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    }
+  ],
+  "imagePath": "AG8A5482-af5d9ded25.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

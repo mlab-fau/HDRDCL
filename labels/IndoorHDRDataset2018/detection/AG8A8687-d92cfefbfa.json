@@ -1,0 +1,136 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "person",
+      "points": [
+        [
+          3049.9716796875,
+          1972.766357421875
+        ],
+        [
+          3168.47412109375,
+          2296.037353515625
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "tv",
+      "points": [
+        [
+          4974.93896484375,
+          1818.7908935546875
+        ],
+        [
+          5265.0654296875,
+          2007.6683349609375
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          2864.126220703125,
+          1926.7696533203125
+        ],
+        [
+          2929.507080078125,
+          2097.48583984375
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "bench",
+      "points": [
+        [
+          1634.2105712890625,
+          2157.78955078125
+        ],
+        [
+          2028.7021484375,
+          2338.437744140625
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "bench",
+      "points": [
+        [
+          4326.91748046875,
+          2215.98388671875
+        ],
+        [
+          5573.236328125,
+          2808.0419921875
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "tv",
+      "points": [
+        [
+          658.7628173828125,
+          1941.424560546875
+        ],
+        [
+          801.7830200195312,
+          2057.656982421875
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    },
+    {
+      "label": "tv",
+      "points": [
+        [
+          6448.59326171875,
+          2024.283203125
+        ],
+        [
+          6542.57763671875,
+          2111.45751953125
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 6
+      }
+    }
+  ],
+  "imagePath": "AG8A8687-d92cfefbfa.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

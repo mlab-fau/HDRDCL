@@ -1,0 +1,136 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "bed",
+      "points": [
+        [
+          0.0,
+          2216.99072265625
+        ],
+        [
+          1841.8858642578125,
+          3332.094482421875
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          6094.5625,
+          2171.1201171875
+        ],
+        [
+          6601.2626953125,
+          3108.242919921875
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "bottle",
+      "points": [
+        [
+          6347.62939453125,
+          1754.2733154296875
+        ],
+        [
+          6404.83740234375,
+          1899.563720703125
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "book",
+      "points": [
+        [
+          5018.24951171875,
+          2351.07861328125
+        ],
+        [
+          5549.46728515625,
+          2532.691650390625
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "book",
+      "points": [
+        [
+          5022.43701171875,
+          2433.79345703125
+        ],
+        [
+          5525.05078125,
+          2615.406494140625
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "book",
+      "points": [
+        [
+          5150.4267578125,
+          2648.3125
+        ],
+        [
+          5951.33984375,
+          3084.18359375
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    },
+    {
+      "label": "book",
+      "points": [
+        [
+          5063.48193359375,
+          2264.767578125
+        ],
+        [
+          5447.59326171875,
+          2446.380615234375
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 6
+      }
+    }
+  ],
+  "imagePath": "9C4A1455-52d738f4cf.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

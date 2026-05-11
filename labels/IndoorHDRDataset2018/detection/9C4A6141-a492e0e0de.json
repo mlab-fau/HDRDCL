@@ -1,0 +1,100 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "toilet",
+      "points": [
+        [
+          1347.9503173828125,
+          2387.25732421875
+        ],
+        [
+          2026.274658203125,
+          3251.735107421875
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "sink",
+      "points": [
+        [
+          5588.87353515625,
+          2286.59716796875
+        ],
+        [
+          6087.4013671875,
+          2417.3583984375
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          4185.798828125,
+          2527.47705078125
+        ],
+        [
+          5334.046875,
+          3399.21923828125
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "bottle",
+      "points": [
+        [
+          5967.32080078125,
+          2146.233642578125
+        ],
+        [
+          6024.52880859375,
+          2298.78857421875
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "bottle",
+      "points": [
+        [
+          4583.56494140625,
+          2041.8331298828125
+        ],
+        [
+          4657.1181640625,
+          2216.181640625
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    }
+  ],
+  "imagePath": "9C4A6141-a492e0e0de.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

@@ -1,0 +1,46 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "sink",
+      "points": [
+        [
+          4093.169677734375,
+          2117.94873046875
+        ],
+        [
+          4338.34716796875,
+          2172.4326171875
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "microwave",
+      "points": [
+        [
+          4684.16455078125,
+          2095.5439453125
+        ],
+        [
+          4868.0478515625,
+          2317.111572265625
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    }
+  ],
+  "imagePath": "9C4A1807-401bbd03ed.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

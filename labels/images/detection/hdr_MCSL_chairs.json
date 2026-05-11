@@ -1,0 +1,262 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "chair",
+      "points": [
+        [
+          535.8645629882812,
+          689.3223876953125
+        ],
+        [
+          655.8020629882812,
+          829.1961669921875
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          961.921875,
+          723.2218017578125
+        ],
+        [
+          1078.703125,
+          886.4078369140625
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          1683.21875,
+          762.9765625
+        ],
+        [
+          1916.78125,
+          993.6456298828125
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          1096.546875,
+          802.7070922851562
+        ],
+        [
+          1373.2447509765625,
+          1105.7669677734375
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          1905.796875,
+          719.9539184570312
+        ],
+        [
+          1997.328125,
+          807.0682983398438
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          1049.7291259765625,
+          269.85894775390625
+        ],
+        [
+          1314.8541259765625,
+          726.2891845703125
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          521.9323120117188,
+          819.5626831054688
+        ],
+        [
+          931.1926879882812,
+          1153.296630859375
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 6
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          1065.3697509765625,
+          683.5762939453125
+        ],
+        [
+          1116.921875,
+          757.194091796875
+        ]
+      ],
+      "group_id": 7,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 7
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          1071.9375,
+          738.9961547851562
+        ],
+        [
+          1269.7291259765625,
+          905.8630981445312
+        ]
+      ],
+      "group_id": 8,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 8
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          722.5573120117188,
+          724.9650268554688
+        ],
+        [
+          795.1510620117188,
+          781.4053344726562
+        ]
+      ],
+      "group_id": 9,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 9
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          1823.0833740234375,
+          753.4524536132812
+        ],
+        [
+          1999.0,
+          944.858642578125
+        ]
+      ],
+      "group_id": 10,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 10
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          656.8073120117188,
+          776.1876831054688
+        ],
+        [
+          965.0676879882812,
+          1037.53076171875
+        ]
+      ],
+      "group_id": 11,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 11
+      }
+    },
+    {
+      "label": "tv",
+      "points": [
+        [
+          76.36978912353516,
+          677.708740234375
+        ],
+        [
+          220.5052032470703,
+          709.6098022460938
+        ]
+      ],
+      "group_id": 12,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 12
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          1274.6353759765625,
+          695.736572265625
+        ],
+        [
+          1348.28125,
+          766.9004516601562
+        ]
+      ],
+      "group_id": 13,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 13
+      }
+    }
+  ],
+  "imagePath": "hdr_MCSL_chairs.png",
+  "imageData": null,
+  "imageHeight": 1312,
+  "imageWidth": 2000
+}

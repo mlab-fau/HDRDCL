@@ -1,0 +1,136 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "toilet",
+      "points": [
+        [
+          2189.46337890625,
+          2441.9931640625
+        ],
+        [
+          2871.8740234375,
+          3146.6513671875
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "sink",
+      "points": [
+        [
+          583.7328491210938,
+          2390.08056640625
+        ],
+        [
+          1172.1588134765625,
+          2684.29345703125
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "bottle",
+      "points": [
+        [
+          6489.07177734375,
+          2361.849609375
+        ],
+        [
+          6578.97021484375,
+          2547.0947265625
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "bottle",
+      "points": [
+        [
+          6432.57177734375,
+          2380.046875
+        ],
+        [
+          6493.86572265625,
+          2521.705078125
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "cup",
+      "points": [
+        [
+          804.7364501953125,
+          2297.52978515625
+        ],
+        [
+          882.3760375976562,
+          2399.233154296875
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "bottle",
+      "points": [
+        [
+          1160.769775390625,
+          2361.759765625
+        ],
+        [
+          1238.4093017578125,
+          2565.166259765625
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    },
+    {
+      "label": "cup",
+      "points": [
+        [
+          6699.41455078125,
+          2556.463134765625
+        ],
+        [
+          6797.4853515625,
+          2658.16650390625
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 6
+      }
+    }
+  ],
+  "imagePath": "9C4A0380-2a79f5a651.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

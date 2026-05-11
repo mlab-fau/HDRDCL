@@ -1,0 +1,82 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          984.53125,
+          130.20993041992188
+        ],
+        [
+          1999.0,
+          1311.0
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          186.3802032470703,
+          684.4813232421875
+        ],
+        [
+          412.578125,
+          820.6741943359375
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "bench",
+      "points": [
+        [
+          1763.03125,
+          740.866943359375
+        ],
+        [
+          1866.1353759765625,
+          775.221923828125
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "bench",
+      "points": [
+        [
+          1906.0572509765625,
+          740.8305053710938
+        ],
+        [
+          1944.984375,
+          782.5472412109375
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    }
+  ],
+  "imagePath": "hdr_MCSL_split_cube_inside.png",
+  "imageData": null,
+  "imageHeight": 1312,
+  "imageWidth": 2000
+}

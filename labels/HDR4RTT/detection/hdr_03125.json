@@ -1,0 +1,136 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "person",
+      "points": [
+        [
+          3237.4091796875,
+          995.1333618164062
+        ],
+        [
+          3437.57421875,
+          1562.977783203125
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          3081.518798828125,
+          1063.5838623046875
+        ],
+        [
+          3256.131103515625,
+          1432.6827392578125
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "sheep",
+      "points": [
+        [
+          0.0,
+          510.37127685546875
+        ],
+        [
+          3305.445068359375,
+          3034.43994140625
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          451.3836364746094,
+          1023.5677490234375
+        ],
+        [
+          836.8080444335938,
+          2093.95458984375
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          3906.161865234375,
+          1109.4893798828125
+        ],
+        [
+          4023.27978515625,
+          1291.1995849609375
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          3410.56640625,
+          1108.814697265625
+        ],
+        [
+          3555.366943359375,
+          1426.8074951171875
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    },
+    {
+      "label": "sheep",
+      "points": [
+        [
+          2087.935302734375,
+          2439.946044921875
+        ],
+        [
+          3653.056396484375,
+          3027.6650390625
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 6
+      }
+    }
+  ],
+  "imagePath": "hdr_03125.png",
+  "imageData": null,
+  "imageHeight": 3036,
+  "imageWidth": 4048
+}

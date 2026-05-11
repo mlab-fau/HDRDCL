@@ -1,0 +1,226 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "person",
+      "points": [
+        [
+          537.701416015625,
+          345.25
+        ],
+        [
+          872.3985595703125,
+          900.75
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          489.8868408203125,
+          404.6600036621094
+        ],
+        [
+          650.7798461914062,
+          675.3400268554688
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          19.219249725341797,
+          316.6650085449219
+        ],
+        [
+          506.86407470703125,
+          990.3350219726562
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "laptop",
+      "points": [
+        [
+          461.7340087890625,
+          699.405029296875
+        ],
+        [
+          943.0,
+          1021.594970703125
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          141.6073760986328,
+          208.08999633789062
+        ],
+        [
+          338.7509460449219,
+          593.9099731445312
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "laptop",
+      "points": [
+        [
+          0.0,
+          753.4000244140625
+        ],
+        [
+          240.63641357421875,
+          1076.5999755859375
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    },
+    {
+      "label": "umbrella",
+      "points": [
+        [
+          469.47283935546875,
+          305.4150085449219
+        ],
+        [
+          582.69384765625,
+          423.5849914550781
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 6
+      }
+    },
+    {
+      "label": "bottle",
+      "points": [
+        [
+          361.3602600097656,
+          646.010009765625
+        ],
+        [
+          463.6564025878906,
+          1047.989990234375
+        ]
+      ],
+      "group_id": 7,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 7
+      }
+    },
+    {
+      "label": "wine glass",
+      "points": [
+        [
+          367.8333435058594,
+          877.155029296875
+        ],
+        [
+          482.91253662109375,
+          1076.8055419921875
+        ]
+      ],
+      "group_id": 8,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 8
+      }
+    },
+    {
+      "label": "laptop",
+      "points": [
+        [
+          792.4532470703125,
+          496.7591247558594
+        ],
+        [
+          935.9658203125,
+          604.8291015625
+        ]
+      ],
+      "group_id": 9,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 9
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          542.9302978515625,
+          546.6300048828125
+        ],
+        [
+          615.9280395507812,
+          621.3699951171875
+        ]
+      ],
+      "group_id": 10,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 10
+      }
+    },
+    {
+      "label": "mouse",
+      "points": [
+        [
+          462.6632385253906,
+          976.6599731445312
+        ],
+        [
+          560.9867553710938,
+          1045.3399658203125
+        ]
+      ],
+      "group_id": 11,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 11
+      }
+    }
+  ],
+  "imagePath": "images_korshunov_16_i16.png",
+  "imageData": null,
+  "imageHeight": 1080,
+  "imageWidth": 944
+}

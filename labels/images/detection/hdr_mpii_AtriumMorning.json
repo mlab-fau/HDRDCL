@@ -1,0 +1,118 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          188.867919921875,
+          743.3309936523438
+        ],
+        [
+          257.632080078125,
+          903.9060668945312
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "bench",
+      "points": [
+        [
+          351.9789733886719,
+          812.4942626953125
+        ],
+        [
+          415.1460266113281,
+          874.25390625
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          427.7850036621094,
+          784.337890625
+        ],
+        [
+          450.17333984375,
+          832.7954711914062
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          317.68487548828125,
+          774.6727905273438
+        ],
+        [
+          334.0540466308594,
+          836.3783569335938
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          259.4964599609375,
+          773.7498779296875
+        ],
+        [
+          293.8785400390625,
+          870.6649780273438
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          301.9436340332031,
+          779.5636596679688
+        ],
+        [
+          317.5355224609375,
+          842.2734375
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    }
+  ],
+  "imagePath": "hdr_mpii_AtriumMorning.png",
+  "imageData": null,
+  "imageHeight": 1016,
+  "imageWidth": 760
+}

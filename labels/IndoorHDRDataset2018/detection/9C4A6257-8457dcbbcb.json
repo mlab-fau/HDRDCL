@@ -1,0 +1,172 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "keyboard",
+      "points": [
+        [
+          1590.6597900390625,
+          2329.48291015625
+        ],
+        [
+          2277.15673828125,
+          2514.728271484375
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          5441.14013671875,
+          2441.093994140625
+        ],
+        [
+          6360.5556640625,
+          3327.365234375
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          1317.7076416015625,
+          2585.647216796875
+        ],
+        [
+          2384.229736328125,
+          3330.26025390625
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "refrigerator",
+      "points": [
+        [
+          6591.28955078125,
+          1644.3704833984375
+        ],
+        [
+          7281.873046875,
+          2922.92578125
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "tv",
+      "points": [
+        [
+          1603.748046875,
+          1936.3358154296875
+        ],
+        [
+          2098.189453125,
+          2354.045654296875
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "mouse",
+      "points": [
+        [
+          2441.324951171875,
+          2353.465087890625
+        ],
+        [
+          2579.54150390625,
+          2447.095458984375
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    },
+    {
+      "label": "tv",
+      "points": [
+        [
+          3215.790283203125,
+          1840.4586181640625
+        ],
+        [
+          3346.551513671875,
+          2011.1748046875
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 6
+      }
+    },
+    {
+      "label": "tv",
+      "points": [
+        [
+          3005.20458984375,
+          1837.2578125
+        ],
+        [
+          3176.828857421875,
+          1928.0643310546875
+        ]
+      ],
+      "group_id": 7,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 7
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          3277.737548828125,
+          2207.686279296875
+        ],
+        [
+          3625.176513671875,
+          2725.333251953125
+        ]
+      ],
+      "group_id": 8,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 8
+      }
+    }
+  ],
+  "imagePath": "9C4A6257-8457dcbbcb.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

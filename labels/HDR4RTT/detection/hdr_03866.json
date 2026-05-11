@@ -1,0 +1,28 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "person",
+      "points": [
+        [
+          0.0,
+          899.0655517578125
+        ],
+        [
+          4207.0,
+          3107.8232421875
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    }
+  ],
+  "imagePath": "hdr_03866.png",
+  "imageData": null,
+  "imageHeight": 3120,
+  "imageWidth": 4208
+}

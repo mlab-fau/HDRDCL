@@ -1,0 +1,46 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "person",
+      "points": [
+        [
+          1056.8646240234375,
+          675.4795532226562
+        ],
+        [
+          1143.1353759765625,
+          912.2833862304688
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          970.4166870117188,
+          666.933349609375
+        ],
+        [
+          1054.5833740234375,
+          912.325927734375
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    }
+  ],
+  "imagePath": "hdr_MCSL_green_slats.png",
+  "imageData": null,
+  "imageHeight": 1312,
+  "imageWidth": 2000
+}

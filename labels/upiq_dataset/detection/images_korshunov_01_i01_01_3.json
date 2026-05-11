@@ -1,0 +1,46 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "car",
+      "points": [
+        [
+          138.1853790283203,
+          525.5
+        ],
+        [
+          728.6229858398438,
+          828.5
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          185.7147979736328,
+          474.260009765625
+        ],
+        [
+          411.66021728515625,
+          623.739990234375
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    }
+  ],
+  "imagePath": "images_korshunov_01_i01_01_3.png",
+  "imageData": null,
+  "imageHeight": 1080,
+  "imageWidth": 944
+}

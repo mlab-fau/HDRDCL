@@ -1,0 +1,100 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          1738.49462890625,
+          1808.2357177734375
+        ],
+        [
+          1983.672119140625,
+          1949.8939208984375
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "toilet",
+      "points": [
+        [
+          4009.5625,
+          2885.0029296875
+        ],
+        [
+          5615.47509765625,
+          3455.267578125
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "bowl",
+      "points": [
+        [
+          1705.966064453125,
+          2117.53515625
+        ],
+        [
+          1983.8338623046875,
+          2255.56103515625
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "bowl",
+      "points": [
+        [
+          852.5380249023438,
+          2063.7705078125
+        ],
+        [
+          1081.370361328125,
+          2165.473876953125
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "bottle",
+      "points": [
+        [
+          4021.15380859375,
+          1552.5211181640625
+        ],
+        [
+          4102.87939453125,
+          1770.4566650390625
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    }
+  ],
+  "imagePath": "AG8A8735-b5d4e1e434.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

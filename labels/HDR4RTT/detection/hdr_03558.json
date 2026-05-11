@@ -1,0 +1,64 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "bird",
+      "points": [
+        [
+          951.7750854492188,
+          1196.072265625
+        ],
+        [
+          2160.3916015625,
+          2348.594482421875
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "bird",
+      "points": [
+        [
+          0.0,
+          1938.6466064453125
+        ],
+        [
+          1350.2091064453125,
+          3064.908935546875
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "bird",
+      "points": [
+        [
+          3769.6884765625,
+          859.14111328125
+        ],
+        [
+          4207.0,
+          1212.1922607421875
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    }
+  ],
+  "imagePath": "hdr_03558.png",
+  "imageData": null,
+  "imageHeight": 3120,
+  "imageWidth": 4208
+}

@@ -1,0 +1,154 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "wine glass",
+      "points": [
+        [
+          147.71499633789062,
+          360.666259765625
+        ],
+        [
+          314.70166015625,
+          768.1170654296875
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "wine glass",
+      "points": [
+        [
+          777.5962524414062,
+          305.4530029296875
+        ],
+        [
+          905.4454345703125,
+          631.4136962890625
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "knife",
+      "points": [
+        [
+          719.78125,
+          589.5562744140625
+        ],
+        [
+          1176.3853759765625,
+          648.8937377929688
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "dining table",
+      "points": [
+        [
+          0.0,
+          428.781005859375
+        ],
+        [
+          1239.0,
+          843.3523559570312
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "bowl",
+      "points": [
+        [
+          454.72479248046875,
+          643.3712768554688
+        ],
+        [
+          703.9002075195312,
+          750.1787719726562
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "bottle",
+      "points": [
+        [
+          306.0055236816406,
+          563.4869384765625
+        ],
+        [
+          460.5986328125,
+          825.3630981445312
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    },
+    {
+      "label": "vase",
+      "points": [
+        [
+          292.42041015625,
+          160.99066162109375
+        ],
+        [
+          451.57958984375,
+          553.4093627929688
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 6
+      }
+    },
+    {
+      "label": "vase",
+      "points": [
+        [
+          740.7837524414062,
+          140.73757934570312
+        ],
+        [
+          868.6329345703125,
+          510.21240234375
+        ]
+      ],
+      "group_id": 7,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 7
+      }
+    }
+  ],
+  "imagePath": "hdr_OpenEXR_ScanLines_StillLife.png",
+  "imageData": null,
+  "imageHeight": 846,
+  "imageWidth": 1240
+}

@@ -1,0 +1,226 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "person",
+      "points": [
+        [
+          964.8350219726562,
+          164.65499877929688
+        ],
+        [
+          1200.1650390625,
+          638.344970703125
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          907.02001953125,
+          528.280029296875
+        ],
+        [
+          1306.97998046875,
+          1077.719970703125
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          1619.3199462890625,
+          212.92999267578125
+        ],
+        [
+          1756.6800537109375,
+          429.07000732421875
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          127.98500061035156,
+          525.27001953125
+        ],
+        [
+          535.0150146484375,
+          1076.72998046875
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          1509.0050048828125,
+          361.4549865722656
+        ],
+        [
+          1911.9949951171875,
+          673.5449829101562
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "vase",
+      "points": [
+        [
+          1505.780029296875,
+          981.5250244140625
+        ],
+        [
+          1752.219970703125,
+          1077.4749755859375
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    },
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          115.66500091552734,
+          509.69500732421875
+        ],
+        [
+          183.3350067138672,
+          571.3049926757812
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 6
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          26.204999923706055,
+          570.5750122070312
+        ],
+        [
+          186.7949981689453,
+          656.4249877929688
+        ]
+      ],
+      "group_id": 7,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 7
+      }
+    },
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          1183.614990234375,
+          548.6799926757812
+        ],
+        [
+          1261.385009765625,
+          613.3200073242188
+        ]
+      ],
+      "group_id": 8,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 8
+      }
+    },
+    {
+      "label": "vase",
+      "points": [
+        [
+          581.635009765625,
+          579.1900024414062
+        ],
+        [
+          857.364990234375,
+          944.8099975585938
+        ]
+      ],
+      "group_id": 9,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 9
+      }
+    },
+    {
+      "label": "vase",
+      "points": [
+        [
+          1256.800048828125,
+          987.5549926757812
+        ],
+        [
+          1499.199951171875,
+          1077.4449462890625
+        ]
+      ],
+      "group_id": 10,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 10
+      }
+    },
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          0.0,
+          393.614990234375
+        ],
+        [
+          105.5250015258789,
+          673.385009765625
+        ]
+      ],
+      "group_id": 11,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 11
+      }
+    }
+  ],
+  "imagePath": "hdr_00151.png",
+  "imageData": null,
+  "imageHeight": 1080,
+  "imageWidth": 1920
+}

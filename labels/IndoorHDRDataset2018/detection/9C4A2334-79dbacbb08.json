@@ -1,0 +1,28 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "refrigerator",
+      "points": [
+        [
+          2673.83056640625,
+          1527.74267578125
+        ],
+        [
+          3585.073486328125,
+          3118.672119140625
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    }
+  ],
+  "imagePath": "9C4A2334-79dbacbb08.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

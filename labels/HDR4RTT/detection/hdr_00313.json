@@ -1,0 +1,118 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "car",
+      "points": [
+        [
+          1024.550048828125,
+          529.2849731445312
+        ],
+        [
+          1919.0,
+          1077.7149658203125
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          0.0,
+          362.45001220703125
+        ],
+        [
+          258.2850036621094,
+          1079.0
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          772.4650268554688,
+          525.5050048828125
+        ],
+        [
+          880.5349731445312,
+          827.4949951171875
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          816.6199951171875,
+          538.6799926757812
+        ],
+        [
+          893.3800048828125,
+          805.3200073242188
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          1252.800048828125,
+          510.8299865722656
+        ],
+        [
+          1293.199951171875,
+          545.1699829101562
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          678.5399780273438,
+          679.52001953125
+        ],
+        [
+          771.4600219726562,
+          776.47998046875
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    }
+  ],
+  "imagePath": "hdr_00313.png",
+  "imageData": null,
+  "imageHeight": 1080,
+  "imageWidth": 1920
+}

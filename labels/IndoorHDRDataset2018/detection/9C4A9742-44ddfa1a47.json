@@ -1,0 +1,64 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "bench",
+      "points": [
+        [
+          4393.7548828125,
+          2311.59130859375
+        ],
+        [
+          6032.35791015625,
+          3205.127197265625
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "backpack",
+      "points": [
+        [
+          5354.033203125,
+          2431.869384765625
+        ],
+        [
+          5889.33740234375,
+          3002.13427734375
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "book",
+      "points": [
+        [
+          4715.7626953125,
+          2829.78173828125
+        ],
+        [
+          5054.9248046875,
+          2931.48486328125
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    }
+  ],
+  "imagePath": "9C4A9742-44ddfa1a47.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

@@ -1,0 +1,226 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "car",
+      "points": [
+        [
+          1809.030029296875,
+          1386.9921875
+        ],
+        [
+          2282.711669921875,
+          1578.60791015625
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          5012.060546875,
+          1379.95263671875
+        ],
+        [
+          5176.57275390625,
+          1480.802978515625
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          2490.35986328125,
+          1360.2069091796875
+        ],
+        [
+          2617.99853515625,
+          1415.674560546875
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          460.74920654296875,
+          1359.383056640625
+        ],
+        [
+          991.1591186523438,
+          1581.25390625
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          5273.47412109375,
+          1367.508544921875
+        ],
+        [
+          5389.767578125,
+          1460.795166015625
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          0.0,
+          1375.034912109375
+        ],
+        [
+          95.96074676513672,
+          1460.7576904296875
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          2009.531005859375,
+          1372.513671875
+        ],
+        [
+          2259.1357421875,
+          1463.2789306640625
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 6
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          2009.643310546875,
+          1335.1566162109375
+        ],
+        [
+          2236.556640625,
+          1408.2730712890625
+        ]
+      ],
+      "group_id": 7,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 7
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          373.12921142578125,
+          1360.2193603515625
+        ],
+        [
+          449.71246337890625,
+          1413.165771484375
+        ]
+      ],
+      "group_id": 8,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 8
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          2622.3935546875,
+          1355.2767333984375
+        ],
+        [
+          2741.523193359375,
+          1398.1380615234375
+        ]
+      ],
+      "group_id": 9,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 9
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          552.9046630859375,
+          1345.3414306640625
+        ],
+        [
+          620.9786376953125,
+          1378.1177978515625
+        ]
+      ],
+      "group_id": 10,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 10
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          448.81378173828125,
+          1360.269287109375
+        ],
+        [
+          553.76123046875,
+          1403.1307373046875
+        ]
+      ],
+      "group_id": 11,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 11
+      }
+    }
+  ],
+  "imagePath": "Scenes_Outdoor_scene 40_rep1.png",
+  "imageData": null,
+  "imageHeight": 2696,
+  "imageWidth": 5392
+}

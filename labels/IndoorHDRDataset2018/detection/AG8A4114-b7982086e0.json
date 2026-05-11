@@ -1,0 +1,118 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "tv",
+      "points": [
+        [
+          3849.79248046875,
+          2012.5953369140625
+        ],
+        [
+          4221.64501953125,
+          2281.382568359375
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          2522.941162109375,
+          2202.44384765625
+        ],
+        [
+          2858.01708984375,
+          2623.785888671875
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          4635.857421875,
+          2227.9775390625
+        ],
+        [
+          4770.705078125,
+          2576.67431640625
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          3425.0810546875,
+          883.3942260742188
+        ],
+        [
+          3776.502197265625,
+          1144.9168701171875
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          3648.289794921875,
+          2034.4248046875
+        ],
+        [
+          3860.77685546875,
+          2252.3603515625
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          3526.158935546875,
+          1996.3046875
+        ],
+        [
+          3602.31787109375,
+          2097.629150390625
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    }
+  ],
+  "imagePath": "AG8A4114-b7982086e0.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

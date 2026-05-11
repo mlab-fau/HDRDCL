@@ -1,0 +1,118 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "boat",
+      "points": [
+        [
+          1895.0015869140625,
+          1234.6119384765625
+        ],
+        [
+          2399.67333984375,
+          1694.56591796875
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          3300.16357421875,
+          1371.9346923828125
+        ],
+        [
+          3600.411376953125,
+          1917.0653076171875
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "bench",
+      "points": [
+        [
+          3085.95703125,
+          1627.0570068359375
+        ],
+        [
+          3215.851318359375,
+          1743.4652099609375
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          2386.781005859375,
+          1307.05419921875
+        ],
+        [
+          2782.852294921875,
+          1897.6124267578125
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "boat",
+      "points": [
+        [
+          2376.8505859375,
+          1514.682861328125
+        ],
+        [
+          2649.416015625,
+          1616.8948974609375
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "boat",
+      "points": [
+        [
+          1727.916259765625,
+          1508.709228515625
+        ],
+        [
+          1913.1754150390625,
+          1681.90185546875
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    }
+  ],
+  "imagePath": "hdr_02964.png",
+  "imageData": null,
+  "imageHeight": 3036,
+  "imageWidth": 4048
+}

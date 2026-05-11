@@ -1,0 +1,136 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "sink",
+      "points": [
+        [
+          1397.97705078125,
+          2311.7890625
+        ],
+        [
+          1778.002197265625,
+          2438.918212890625
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "sink",
+      "points": [
+        [
+          645.4115600585938,
+          2318.9638671875
+        ],
+        [
+          1033.6092529296875,
+          2449.72509765625
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "sink",
+      "points": [
+        [
+          132.1773681640625,
+          2232.850341796875
+        ],
+        [
+          401.87261962890625,
+          2323.656982421875
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "toilet",
+      "points": [
+        [
+          6293.0107421875,
+          2198.128173828125
+        ],
+        [
+          6758.84765625,
+          2764.7607421875
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "toilet",
+      "points": [
+        [
+          5868.7646484375,
+          2133.98828125
+        ],
+        [
+          6220.185546875,
+          2580.756103515625
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "toilet",
+      "points": [
+        [
+          3110.072509765625,
+          2411.6044921875
+        ],
+        [
+          3347.077392578125,
+          2716.714111328125
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    },
+    {
+      "label": "toilet",
+      "points": [
+        [
+          2175.626708984375,
+          2073.6064453125
+        ],
+        [
+          2384.027587890625,
+          2367.819580078125
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 6
+      }
+    }
+  ],
+  "imagePath": "9C4A8252-058aedff65.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

@@ -1,0 +1,64 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "person",
+      "points": [
+        [
+          2047.9190673828125,
+          1694.5799560546875
+        ],
+        [
+          2326.87255859375,
+          2367.4755859375
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "backpack",
+      "points": [
+        [
+          2128.60498046875,
+          1749.972900390625
+        ],
+        [
+          2292.570068359375,
+          2022.5382080078125
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "dog",
+      "points": [
+        [
+          1991.7108154296875,
+          2042.736083984375
+        ],
+        [
+          2125.864013671875,
+          2232.9638671875
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    }
+  ],
+  "imagePath": "hdr_03290.png",
+  "imageData": null,
+  "imageHeight": 3036,
+  "imageWidth": 4048
+}

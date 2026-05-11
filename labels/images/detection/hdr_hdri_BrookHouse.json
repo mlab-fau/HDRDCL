@@ -1,0 +1,82 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "car",
+      "points": [
+        [
+          505.9034423828125,
+          816.6550903320312
+        ],
+        [
+          752.1304321289062,
+          1049.0504150390625
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          1184.70166015625,
+          850.697998046875
+        ],
+        [
+          1244.959716796875,
+          926.2964477539062
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          1282.23681640625,
+          1320.6842041015625
+        ],
+        [
+          1351.0164794921875,
+          1460.8836669921875
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          425.5816345214844,
+          2048.10400390625
+        ],
+        [
+          481.6839904785156,
+          2162.901611328125
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    }
+  ],
+  "imagePath": "hdr_hdri_BrookHouse.png",
+  "imageData": null,
+  "imageHeight": 2994,
+  "imageWidth": 1975
+}

@@ -1,0 +1,64 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "dog",
+      "points": [
+        [
+          988.7324829101562,
+          987.8400268554688
+        ],
+        [
+          3608.16748046875,
+          2232.159912109375
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "fire hydrant",
+      "points": [
+        [
+          1259.674560546875,
+          688.197998046875
+        ],
+        [
+          1325.425537109375,
+          809.802001953125
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          3520.712890625,
+          789.2360229492188
+        ],
+        [
+          3720.0869140625,
+          862.7639770507812
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    }
+  ],
+  "imagePath": "hdr_03359.png",
+  "imageData": null,
+  "imageHeight": 3024,
+  "imageWidth": 4032
+}

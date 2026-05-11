@@ -1,0 +1,100 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "person",
+      "points": [
+        [
+          1611.844482421875,
+          1369.43798828125
+        ],
+        [
+          3077.45556640625,
+          3018.162109375
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          3082.590087890625,
+          1001.7839965820312
+        ],
+        [
+          3125.010009765625,
+          1126.2159423828125
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "bird",
+      "points": [
+        [
+          1326.717041015625,
+          1273.6920166015625
+        ],
+        [
+          1422.6666259765625,
+          1354.6666259765625
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          3206.41650390625,
+          1018.8499755859375
+        ],
+        [
+          3263.68359375,
+          1089.550048828125
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "backpack",
+      "points": [
+        [
+          1977.4754638671875,
+          2047.6820068359375
+        ],
+        [
+          2972.224609375,
+          3000.718017578125
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    }
+  ],
+  "imagePath": "hdr_03893.png",
+  "imageData": null,
+  "imageHeight": 3024,
+  "imageWidth": 4032
+}

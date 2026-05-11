@@ -1,0 +1,46 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "person",
+      "points": [
+        [
+          951.0679931640625,
+          799.7724609375
+        ],
+        [
+          977.7319946289062,
+          893.6201782226562
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          979.0640258789062,
+          854.9546508789062
+        ],
+        [
+          1006.5360107421875,
+          910.4971923828125
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    }
+  ],
+  "imagePath": "hdr_hdri_Mistaya1.png",
+  "imageData": null,
+  "imageHeight": 2048,
+  "imageWidth": 1536
+}

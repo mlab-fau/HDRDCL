@@ -1,0 +1,136 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "motorcycle",
+      "points": [
+        [
+          619.6199951171875,
+          138.80999755859375
+        ],
+        [
+          1302.3800048828125,
+          783.1900024414062
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "bicycle",
+      "points": [
+        [
+          1219.2249755859375,
+          241.8249969482422
+        ],
+        [
+          1577.7750244140625,
+          681.1749877929688
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "bicycle",
+      "points": [
+        [
+          1744.35498046875,
+          181.89500427246094
+        ],
+        [
+          1874.64501953125,
+          405.1050109863281
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "bicycle",
+      "points": [
+        [
+          1857.6949462890625,
+          174.90499877929688
+        ],
+        [
+          1919.0,
+          396.0950012207031
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "bicycle",
+      "points": [
+        [
+          1601.2049560546875,
+          199.8800048828125
+        ],
+        [
+          1761.7950439453125,
+          426.1199951171875
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "bicycle",
+      "points": [
+        [
+          1505.050048828125,
+          189.6649932861328
+        ],
+        [
+          1696.949951171875,
+          459.3349914550781
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    },
+    {
+      "label": "bicycle",
+      "points": [
+        [
+          1675.52001953125,
+          196.9250030517578
+        ],
+        [
+          1772.47998046875,
+          414.07501220703125
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 6
+      }
+    }
+  ],
+  "imagePath": "images_narwaria_08_i08_01_2.png",
+  "imageData": null,
+  "imageHeight": 1080,
+  "imageWidth": 1920
+}

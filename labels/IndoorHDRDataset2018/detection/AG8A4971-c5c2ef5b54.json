@@ -1,0 +1,118 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "couch",
+      "points": [
+        [
+          827.737060546875,
+          2077.688232421875
+        ],
+        [
+          2797.32958984375,
+          3000.2822265625
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          6782.900390625,
+          1975.1038818359375
+        ],
+        [
+          7179.2705078125,
+          2552.633056640625
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "tv",
+      "points": [
+        [
+          3002.57470703125,
+          1850.0247802734375
+        ],
+        [
+          3705.4169921875,
+          2267.734619140625
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          0.0,
+          1997.149169921875
+        ],
+        [
+          784.7500610351562,
+          3206.691650390625
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          5857.21337890625,
+          2829.404052734375
+        ],
+        [
+          6090.13232421875,
+          3007.384765625
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          5675.2724609375,
+          2649.15771484375
+        ],
+        [
+          5883.67333984375,
+          2914.312744140625
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    }
+  ],
+  "imagePath": "AG8A4971-c5c2ef5b54.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

@@ -1,0 +1,100 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "chair",
+      "points": [
+        [
+          6708.0927734375,
+          2408.925048828125
+        ],
+        [
+          7504.919921875,
+          3255.241455078125
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "bed",
+      "points": [
+        [
+          3733.211669921875,
+          2122.749755859375
+        ],
+        [
+          6405.646484375,
+          3386.776123046875
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          3748.0,
+          2160.0
+        ],
+        [
+          4144.3896484375,
+          2764.74267578125
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "bottle",
+      "points": [
+        [
+          7097.849609375,
+          2128.126220703125
+        ],
+        [
+          7147.31201171875,
+          2282.258056640625
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "teddy bear",
+      "points": [
+        [
+          6710.7529296875,
+          2138.87890625
+        ],
+        [
+          6805.9140625,
+          2275.268798828125
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    }
+  ],
+  "imagePath": "AG8A1954-b9e052c349.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

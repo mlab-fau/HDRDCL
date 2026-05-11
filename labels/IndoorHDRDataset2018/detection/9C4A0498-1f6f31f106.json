@@ -1,0 +1,190 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "bed",
+      "points": [
+        [
+          5970.8408203125,
+          2169.717529296875
+        ],
+        [
+          7767.0,
+          3390.156494140625
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          1504.32177734375,
+          2164.1611328125
+        ],
+        [
+          1651.42822265625,
+          2327.61279296875
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          1636.68115234375,
+          2374.5625
+        ],
+        [
+          2016.706298828125,
+          2897.60791015625
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          1658.205078125,
+          2149.758056640625
+        ],
+        [
+          1776.70751953125,
+          2316.842041015625
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "bottle",
+      "points": [
+        [
+          1452.1708984375,
+          2131.72265625
+        ],
+        [
+          1509.3790283203125,
+          2309.703369140625
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "bed",
+      "points": [
+        [
+          0.0,
+          2513.145751953125
+        ],
+        [
+          565.1826782226562,
+          3373.9912109375
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    },
+    {
+      "label": "clock",
+      "points": [
+        [
+          1512.3729248046875,
+          1473.7982177734375
+        ],
+        [
+          1667.652099609375,
+          1611.8240966796875
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 6
+      }
+    },
+    {
+      "label": "cup",
+      "points": [
+        [
+          1358.9346923828125,
+          2182.304443359375
+        ],
+        [
+          1452.91943359375,
+          2313.06591796875
+        ]
+      ],
+      "group_id": 7,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 7
+      }
+    },
+    {
+      "label": "cup",
+      "points": [
+        [
+          1921.3662109375,
+          2200.411865234375
+        ],
+        [
+          2003.092041015625,
+          2305.747314453125
+        ]
+      ],
+      "group_id": 8,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 8
+      }
+    },
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          1201.147216796875,
+          2110.19873046875
+        ],
+        [
+          1295.1319580078125,
+          2277.28271484375
+        ]
+      ],
+      "group_id": 9,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 9
+      }
+    }
+  ],
+  "imagePath": "9C4A0498-1f6f31f106.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

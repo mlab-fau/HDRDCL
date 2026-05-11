@@ -1,0 +1,82 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "person",
+      "points": [
+        [
+          241.2584991455078,
+          1654.0860595703125
+        ],
+        [
+          290.04150390625,
+          1798.31396484375
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "vase",
+      "points": [
+        [
+          1301.85302734375,
+          693.1959838867188
+        ],
+        [
+          2179.947021484375,
+          2067.60400390625
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          3405.95849609375,
+          1615.0400390625
+        ],
+        [
+          3454.741455078125,
+          1728.1600341796875
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          319.0215148925781,
+          1699.1519775390625
+        ],
+        [
+          355.0784912109375,
+          1789.64794921875
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    }
+  ],
+  "imagePath": "hdr_03492.png",
+  "imageData": null,
+  "imageHeight": 3024,
+  "imageWidth": 4032
+}

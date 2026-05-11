@@ -1,0 +1,28 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "tv",
+      "points": [
+        [
+          84.6329116821289,
+          1898.0712890625
+        ],
+        [
+          190.96202087402344,
+          2059.49365234375
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    }
+  ],
+  "imagePath": "9C4A4115-bfbb897f0b.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

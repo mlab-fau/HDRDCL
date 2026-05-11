@@ -1,0 +1,100 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "person",
+      "points": [
+        [
+          109.35774993896484,
+          1999.296875
+        ],
+        [
+          249.19224548339844,
+          2267.01416015625
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          332.0669860839844,
+          2011.982177734375
+        ],
+        [
+          482.6579895019531,
+          2266.951171875
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          832.8388671875,
+          2033.1243896484375
+        ],
+        [
+          938.6111450195312,
+          2266.845947265625
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          0.45262500643730164,
+          2022.5533447265625
+        ],
+        [
+          88.29737854003906,
+          2266.8984375
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          255.0630645751953,
+          2050.038330078125
+        ],
+        [
+          363.5244445800781,
+          2266.76171875
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    }
+  ],
+  "imagePath": "hdr_hdri_Alhambra3.png",
+  "imageData": null,
+  "imageHeight": 2272,
+  "imageWidth": 1704
+}

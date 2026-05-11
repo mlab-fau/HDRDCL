@@ -1,0 +1,100 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "car",
+      "points": [
+        [
+          0.0,
+          503.82666015625
+        ],
+        [
+          180.22999572753906,
+          673.5066528320312
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          1183.760009765625,
+          627.5499877929688
+        ],
+        [
+          1232.239990234375,
+          718.4500122070312
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          474.5299987792969,
+          438.9533386230469
+        ],
+        [
+          502.13665771484375,
+          515.7133178710938
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "truck",
+      "points": [
+        [
+          772.010009765625,
+          530.4299926757812
+        ],
+        [
+          1173.989990234375,
+          712.9033203125
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          767.3099975585938,
+          527.0900268554688
+        ],
+        [
+          1176.0233154296875,
+          710.9099731445312
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    }
+  ],
+  "imagePath": "hdr_00830.png",
+  "imageData": null,
+  "imageHeight": 720,
+  "imageWidth": 1280
+}

@@ -1,0 +1,118 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "chair",
+      "points": [
+        [
+          4916.8203125,
+          2337.412841796875
+        ],
+        [
+          5505.24609375,
+          3100.187255859375
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          5803.2421875,
+          2226.287109375
+        ],
+        [
+          6314.02880859375,
+          2916.41650390625
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          5426.5751953125,
+          2305.046142578125
+        ],
+        [
+          6019.08740234375,
+          3067.820556640625
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          3784.937744140625,
+          2169.26806640625
+        ],
+        [
+          4181.30810546875,
+          2754.061767578125
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          3974.56591796875,
+          2233.5517578125
+        ],
+        [
+          4477.1796875,
+          2909.15185546875
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "dining table",
+      "points": [
+        [
+          4216.12255859375,
+          2536.108154296875
+        ],
+        [
+          4959.82763671875,
+          3117.26953125
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    }
+  ],
+  "imagePath": "9C4A9295-4a0dcd60c3.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

@@ -1,0 +1,100 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          2721.400390625,
+          1805.0479736328125
+        ],
+        [
+          3185.8994140625,
+          2562.951904296875
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          1225.4129638671875,
+          2135.0419921875
+        ],
+        [
+          2273.18701171875,
+          2974.9580078125
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "bicycle",
+      "points": [
+        [
+          407.5679931640625,
+          2044.8680419921875
+        ],
+        [
+          797.8319702148438,
+          2435.132080078125
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "bicycle",
+      "points": [
+        [
+          1.5015000104904175,
+          2309.300048828125
+        ],
+        [
+          546.5985107421875,
+          3016.300048828125
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "dining table",
+      "points": [
+        [
+          1111.3304443359375,
+          2351.258056640625
+        ],
+        [
+          1448.5694580078125,
+          2501.14208984375
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    }
+  ],
+  "imagePath": "hdr_02868.png",
+  "imageData": null,
+  "imageHeight": 3024,
+  "imageWidth": 4032
+}

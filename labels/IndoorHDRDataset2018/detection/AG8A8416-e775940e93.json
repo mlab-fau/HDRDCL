@@ -1,0 +1,208 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "sink",
+      "points": [
+        [
+          6530.88525390625,
+          2217.871826171875
+        ],
+        [
+          7164.2607421875,
+          2428.54296875
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "microwave",
+      "points": [
+        [
+          5220.94580078125,
+          1426.0213623046875
+        ],
+        [
+          5670.4375,
+          1771.0860595703125
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "microwave",
+      "points": [
+        [
+          5224.951171875,
+          1828.9144287109375
+        ],
+        [
+          5682.61572265625,
+          2152.185546875
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "microwave",
+      "points": [
+        [
+          4930.7783203125,
+          1577.5513916015625
+        ],
+        [
+          5151.43798828125,
+          1824.544921875
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "refrigerator",
+      "points": [
+        [
+          3286.9765625,
+          1485.55810546875
+        ],
+        [
+          3748.7275390625,
+          2880.345703125
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "microwave",
+      "points": [
+        [
+          4938.91064453125,
+          1865.39892578125
+        ],
+        [
+          5151.39794921875,
+          2083.33447265625
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    },
+    {
+      "label": "refrigerator",
+      "points": [
+        [
+          7166.56640625,
+          1634.01318359375
+        ],
+        [
+          7701.87109375,
+          2825.394287109375
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 6
+      }
+    },
+    {
+      "label": "microwave",
+      "points": [
+        [
+          4781.58837890625,
+          1880.0538330078125
+        ],
+        [
+          4900.0908203125,
+          2043.5054931640625
+        ]
+      ],
+      "group_id": 7,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 7
+      }
+    },
+    {
+      "label": "refrigerator",
+      "points": [
+        [
+          1326.385986328125,
+          1358.2491455078125
+        ],
+        [
+          2274.40576171875,
+          3043.617431640625
+        ]
+      ],
+      "group_id": 8,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 8
+      }
+    },
+    {
+      "label": "refrigerator",
+      "points": [
+        [
+          2329.671630859375,
+          1347.2265625
+        ],
+        [
+          3294.03662109375,
+          3079.814208984375
+        ]
+      ],
+      "group_id": 9,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 9
+      }
+    },
+    {
+      "label": "microwave",
+      "points": [
+        [
+          4777.5224609375,
+          1678.6072998046875
+        ],
+        [
+          4900.11083984375,
+          1852.9556884765625
+        ]
+      ],
+      "group_id": 10,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 10
+      }
+    }
+  ],
+  "imagePath": "AG8A8416-e775940e93.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

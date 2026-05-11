@@ -1,0 +1,226 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "person",
+      "points": [
+        [
+          1216.6400146484375,
+          189.60499572753906
+        ],
+        [
+          1895.3599853515625,
+          1077.39501953125
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          0.0,
+          49.90999984741211
+        ],
+        [
+          903.4749755859375,
+          1078.0899658203125
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          554.8049926757812,
+          209.03500366210938
+        ],
+        [
+          998.1950073242188,
+          807.9650268554688
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "tie",
+      "points": [
+        [
+          1439.239990234375,
+          506.1650085449219
+        ],
+        [
+          1592.760009765625,
+          876.8350219726562
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "cup",
+      "points": [
+        [
+          1198.43994140625,
+          838.2650146484375
+        ],
+        [
+          1311.56005859375,
+          986.7349853515625
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "dining table",
+      "points": [
+        [
+          773.1400146484375,
+          790.594970703125
+        ],
+        [
+          1552.8599853515625,
+          1074.405029296875
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    },
+    {
+      "label": "bottle",
+      "points": [
+        [
+          1652.7249755859375,
+          199.84500122070312
+        ],
+        [
+          1708.2750244140625,
+          433.1549987792969
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 6
+      }
+    },
+    {
+      "label": "cup",
+      "points": [
+        [
+          1286.4749755859375,
+          819.2899780273438
+        ],
+        [
+          1392.5250244140625,
+          962.7100219726562
+        ]
+      ],
+      "group_id": 7,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 7
+      }
+    },
+    {
+      "label": "bottle",
+      "points": [
+        [
+          1735.7099609375,
+          155.6300048828125
+        ],
+        [
+          1794.2900390625,
+          432.3699951171875
+        ]
+      ],
+      "group_id": 8,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 8
+      }
+    },
+    {
+      "label": "bottle",
+      "points": [
+        [
+          1792.7049560546875,
+          122.45500183105469
+        ],
+        [
+          1852.2950439453125,
+          434.5450134277344
+        ]
+      ],
+      "group_id": 9,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 9
+      }
+    },
+    {
+      "label": "bottle",
+      "points": [
+        [
+          1884.864990234375,
+          239.03500366210938
+        ],
+        [
+          1912.135009765625,
+          433.9649963378906
+        ]
+      ],
+      "group_id": 10,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 10
+      }
+    },
+    {
+      "label": "bottle",
+      "points": [
+        [
+          1176.4649658203125,
+          788.3099975585938
+        ],
+        [
+          1284.5350341796875,
+          927.6900024414062
+        ]
+      ],
+      "group_id": 11,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 11
+      }
+    }
+  ],
+  "imagePath": "hdr_02461.png",
+  "imageData": null,
+  "imageHeight": 1080,
+  "imageWidth": 1920
+}

@@ -1,0 +1,82 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "person",
+      "points": [
+        [
+          535.3597412109375,
+          572.5296020507812
+        ],
+        [
+          821.240234375,
+          1587.7667236328125
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          146.2456817626953,
+          751.12890625
+        ],
+        [
+          351.6418151855469,
+          1136.5748291015625
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "dining table",
+      "points": [
+        [
+          0.0,
+          1485.62109375
+        ],
+        [
+          1223.0,
+          1831.489990234375
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          813.5743408203125,
+          761.4192504882812
+        ],
+        [
+          1046.01318359375,
+          1133.0992431640625
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    }
+  ],
+  "imagePath": "hdr_hdri_philosopherC.png",
+  "imageData": null,
+  "imageHeight": 1840,
+  "imageWidth": 1224
+}

@@ -1,0 +1,118 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "tv",
+      "points": [
+        [
+          211.18499755859375,
+          684.155029296875
+        ],
+        [
+          842.0,
+          1079.0
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "keyboard",
+      "points": [
+        [
+          759.9249877929688,
+          799.5
+        ],
+        [
+          977.0750122070312,
+          900.5
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "cup",
+      "points": [
+        [
+          996.4949951171875,
+          923.3900146484375
+        ],
+        [
+          1098.5050048828125,
+          1046.6099853515625
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "mouse",
+      "points": [
+        [
+          781.6099853515625,
+          783.8400268554688
+        ],
+        [
+          860.3900146484375,
+          816.1599731445312
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "tv",
+      "points": [
+        [
+          545.1199951171875,
+          399.6050109863281
+        ],
+        [
+          722.8800048828125,
+          681.39501953125
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "cup",
+      "points": [
+        [
+          777.3049926757812,
+          849.1699829101562
+        ],
+        [
+          917.6950073242188,
+          1016.8300170898438
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    }
+  ],
+  "imagePath": "images_narwaria_09_i09.png",
+  "imageData": null,
+  "imageHeight": 1080,
+  "imageWidth": 1920
+}

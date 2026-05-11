@@ -1,0 +1,46 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "person",
+      "points": [
+        [
+          1995.801025390625,
+          1309.977783203125
+        ],
+        [
+          2155.50732421875,
+          1877.822265625
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "backpack",
+      "points": [
+        [
+          1926.3525390625,
+          1334.125244140625
+        ],
+        [
+          2060.505859375,
+          1566.94140625
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    }
+  ],
+  "imagePath": "hdr_03201.png",
+  "imageData": null,
+  "imageHeight": 3036,
+  "imageWidth": 4048
+}

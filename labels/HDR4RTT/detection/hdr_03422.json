@@ -1,0 +1,64 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "bicycle",
+      "points": [
+        [
+          729.5294799804688,
+          917.9099731445312
+        ],
+        [
+          3531.37060546875,
+          2713.68994140625
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "bottle",
+      "points": [
+        [
+          1833.79345703125,
+          1608.4599609375
+        ],
+        [
+          2158.306396484375,
+          1919.5400390625
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "handbag",
+      "points": [
+        [
+          2499.251953125,
+          1062.614013671875
+        ],
+        [
+          2872.548095703125,
+          1342.5860595703125
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    }
+  ],
+  "imagePath": "hdr_03422.png",
+  "imageData": null,
+  "imageHeight": 3024,
+  "imageWidth": 4032
+}

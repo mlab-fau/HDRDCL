@@ -1,0 +1,28 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "tv",
+      "points": [
+        [
+          2673.142822265625,
+          1742.9630126953125
+        ],
+        [
+          2906.061279296875,
+          1993.5888671875
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    }
+  ],
+  "imagePath": "AG8A2546-a819c04605.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

@@ -1,0 +1,100 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "person",
+      "points": [
+        [
+          2124.010009765625,
+          1433.264404296875
+        ],
+        [
+          2509.17333984375,
+          3108.06884765625
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          2427.5009765625,
+          1838.70556640625
+        ],
+        [
+          2602.3740234375,
+          2145.072265625
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "fire hydrant",
+      "points": [
+        [
+          1757.0262451171875,
+          1980.04443359375
+        ],
+        [
+          1896.4820556640625,
+          2330.177734375
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          2649.4072265625,
+          1781.4622802734375
+        ],
+        [
+          2713.60107421875,
+          1979.87109375
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "truck",
+      "points": [
+        [
+          0.0,
+          1951.7332763671875
+        ],
+        [
+          784.134521484375,
+          2768.711181640625
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    }
+  ],
+  "imagePath": "hdr_03652.png",
+  "imageData": null,
+  "imageHeight": 3120,
+  "imageWidth": 4208
+}

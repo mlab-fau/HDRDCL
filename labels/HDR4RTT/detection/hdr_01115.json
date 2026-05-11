@@ -1,0 +1,118 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "person",
+      "points": [
+        [
+          250.89999389648438,
+          66.09333038330078
+        ],
+        [
+          473.1000061035156,
+          719.0
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          630.5066528320312,
+          176.00999450683594
+        ],
+        [
+          797.4933471679688,
+          712.6566772460938
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          118.5566635131836,
+          156.55999755859375
+        ],
+        [
+          275.4433288574219,
+          716.7733154296875
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          476.4333190917969,
+          202.77333068847656
+        ],
+        [
+          658.2333374023438,
+          719.0
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          457.49334716796875,
+          162.77000427246094
+        ],
+        [
+          559.8400268554688,
+          680.5633544921875
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "handbag",
+      "points": [
+        [
+          75.3499984741211,
+          389.239990234375
+        ],
+        [
+          206.64999389648438,
+          542.760009765625
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    }
+  ],
+  "imagePath": "hdr_01115.png",
+  "imageData": null,
+  "imageHeight": 720,
+  "imageWidth": 1280
+}

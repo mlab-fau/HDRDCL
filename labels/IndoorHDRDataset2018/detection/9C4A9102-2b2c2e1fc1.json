@@ -1,0 +1,82 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "sink",
+      "points": [
+        [
+          6433.31982421875,
+          2390.0625
+        ],
+        [
+          7160.68017578125,
+          2687.90771484375
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "toilet",
+      "points": [
+        [
+          5097.34521484375,
+          2552.974853515625
+        ],
+        [
+          5996.32958984375,
+          3359.33642578125
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "bottle",
+      "points": [
+        [
+          6942.16455078125,
+          2131.363037109375
+        ],
+        [
+          7040.2353515625,
+          2381.98876953125
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "cup",
+      "points": [
+        [
+          6258.3984375,
+          2329.6806640625
+        ],
+        [
+          6360.5556640625,
+          2474.97119140625
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    }
+  ],
+  "imagePath": "9C4A9102-2b2c2e1fc1.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

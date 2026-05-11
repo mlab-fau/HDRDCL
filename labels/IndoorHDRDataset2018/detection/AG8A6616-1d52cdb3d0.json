@@ -1,0 +1,136 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "toilet",
+      "points": [
+        [
+          2088.337890625,
+          2577.8251953125
+        ],
+        [
+          3583.920654296875,
+          3449.5673828125
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "bottle",
+      "points": [
+        [
+          3753.7646484375,
+          2357.677978515625
+        ],
+        [
+          3909.043701171875,
+          2659.155517578125
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "sink",
+      "points": [
+        [
+          4106.703125,
+          2602.0283203125
+        ],
+        [
+          4887.1845703125,
+          2943.460693359375
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "toothbrush",
+      "points": [
+        [
+          4773.86083984375,
+          2200.23193359375
+        ],
+        [
+          4818.81005859375,
+          2341.89013671875
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "cup",
+      "points": [
+        [
+          4729.033203125,
+          2336.765380859375
+        ],
+        [
+          4839.36279296875,
+          2503.849365234375
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "bottle",
+      "points": [
+        [
+          3381.7705078125,
+          970.0289916992188
+        ],
+        [
+          3492.100341796875,
+          1166.1710205078125
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    },
+    {
+      "label": "toothbrush",
+      "points": [
+        [
+          4737.46875,
+          2250.83203125
+        ],
+        [
+          4778.33154296875,
+          2341.638427734375
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 6
+      }
+    }
+  ],
+  "imagePath": "AG8A6616-1d52cdb3d0.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

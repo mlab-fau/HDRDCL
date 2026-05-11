@@ -1,0 +1,118 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "dog",
+      "points": [
+        [
+          1424.057373046875,
+          289.3222351074219
+        ],
+        [
+          4186.609375,
+          3119.0
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          96.83879089355469,
+          0.0
+        ],
+        [
+          1343.086181640625,
+          1625.8521728515625
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          1676.362060546875,
+          0.0
+        ],
+        [
+          2172.20458984375,
+          667.7666625976562
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          3474.7998046875,
+          0.0
+        ],
+        [
+          4156.58349609375,
+          923.260009765625
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          2066.89501953125,
+          0.0
+        ],
+        [
+          2478.62158203125,
+          656.1533203125
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          3351.672119140625,
+          0.0
+        ],
+        [
+          3670.427978515625,
+          551.6333618164062
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    }
+  ],
+  "imagePath": "hdr_04202.png",
+  "imageData": null,
+  "imageHeight": 3120,
+  "imageWidth": 4208
+}

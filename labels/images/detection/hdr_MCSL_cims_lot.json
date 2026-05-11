@@ -1,0 +1,352 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "car",
+      "points": [
+        [
+          38.171875,
+          703.900146484375
+        ],
+        [
+          323.2864685058594,
+          843.77392578125
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          398.1822814941406,
+          706.5909423828125
+        ],
+        [
+          554.9426879882812,
+          793.705322265625
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          516.2395629882812,
+          693.2523193359375
+        ],
+        [
+          602.5104370117188,
+          775.4588012695312
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          600.578125,
+          681.1649169921875
+        ],
+        [
+          694.2135620117188,
+          751.101806640625
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          275.5625,
+          683.6856079101562
+        ],
+        [
+          372.3541564941406,
+          735.2180786132812
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          375.515625,
+          682.4708251953125
+        ],
+        [
+          481.7760314941406,
+          734.0032348632812
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          732.9479370117188,
+          671.5071411132812
+        ],
+        [
+          810.8020629882812,
+          729.1743774414062
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 6
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          675.734375,
+          683.6795654296875
+        ],
+        [
+          737.8073120117188,
+          736.43896484375
+        ]
+      ],
+      "group_id": 7,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 7
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          1042.2135009765625,
+          675.2548217773438
+        ],
+        [
+          1142.1614990234375,
+          712.063720703125
+        ]
+      ],
+      "group_id": 8,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 8
+      }
+    },
+    {
+      "label": "stop sign",
+      "points": [
+        [
+          886.3801879882812,
+          643.7607421875
+        ],
+        [
+          902.1614379882812,
+          662.1651611328125
+        ]
+      ],
+      "group_id": 9,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 9
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          845.4739379882812,
+          686.2367553710938
+        ],
+        [
+          918.0676879882812,
+          713.2299194335938
+        ]
+      ],
+      "group_id": 10,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 10
+      }
+    },
+    {
+      "label": "stop sign",
+      "points": [
+        [
+          1166.5833740234375,
+          644.9755859375
+        ],
+        [
+          1183.4166259765625,
+          663.3800048828125
+        ]
+      ],
+      "group_id": 11,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 11
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          0.0,
+          680.7639770507812
+        ],
+        [
+          71.1875,
+          831.680419921875
+        ]
+      ],
+      "group_id": 12,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 12
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          148.4479217529297,
+          678.9296264648438
+        ],
+        [
+          251.5520782470703,
+          709.6036987304688
+        ]
+      ],
+      "group_id": 13,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 13
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          481.9739685058594,
+          681.3592529296875
+        ],
+        [
+          546.1510620117188,
+          712.0333251953125
+        ]
+      ],
+      "group_id": 14,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 14
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          352.90625,
+          681.3349609375
+        ],
+        [
+          397.09375,
+          716.9168701171875
+        ]
+      ],
+      "group_id": 15,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 15
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          936.1770629882812,
+          695.997802734375
+        ],
+        [
+          992.9895629882812,
+          714.4022216796875
+        ]
+      ],
+      "group_id": 16,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 16
+      }
+    },
+    {
+      "label": "truck",
+      "points": [
+        [
+          23.36979103088379,
+          673.8759765625
+        ],
+        [
+          142.2552032470703,
+          743.8128662109375
+        ]
+      ],
+      "group_id": 17,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 17
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          806.0416870117188,
+          691.1384887695312
+        ],
+        [
+          848.125,
+          709.54296875
+        ]
+      ],
+      "group_id": 18,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 18
+      }
+    }
+  ],
+  "imagePath": "hdr_MCSL_cims_lot.png",
+  "imageData": null,
+  "imageHeight": 1312,
+  "imageWidth": 2000
+}

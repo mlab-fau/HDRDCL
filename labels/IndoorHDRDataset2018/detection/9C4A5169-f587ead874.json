@@ -1,0 +1,118 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "sink",
+      "points": [
+        [
+          6823.9248046875,
+          2193.273193359375
+        ],
+        [
+          7105.87890625,
+          2287.7119140625
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "sink",
+      "points": [
+        [
+          6569.32080078125,
+          2300.8564453125
+        ],
+        [
+          6794.06689453125,
+          2457.04345703125
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "toilet",
+      "points": [
+        [
+          5548.6376953125,
+          2205.3388671875
+        ],
+        [
+          6002.21630859375,
+          2768.3388671875
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "toilet",
+      "points": [
+        [
+          5018.998046875,
+          2191.007568359375
+        ],
+        [
+          5399.02294921875,
+          2743.111083984375
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "sink",
+      "points": [
+        [
+          7054.90185546875,
+          2125.10546875
+        ],
+        [
+          7263.302734375,
+          2186.853759765625
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "toilet",
+      "points": [
+        [
+          4664.05712890625,
+          2165.8515625
+        ],
+        [
+          4823.42236328125,
+          2714.322509765625
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    }
+  ],
+  "imagePath": "9C4A5169-f587ead874.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

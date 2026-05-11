@@ -1,0 +1,82 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "person",
+      "points": [
+        [
+          6010.955078125,
+          1719.1015625
+        ],
+        [
+          6243.8740234375,
+          2431.0244140625
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "bicycle",
+      "points": [
+        [
+          5807.55078125,
+          2055.12158203125
+        ],
+        [
+          6265.2158203125,
+          2451.037841796875
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          1256.5953369140625,
+          1413.7220458984375
+        ],
+        [
+          1591.6712646484375,
+          2063.896484375
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          872.3626098632812,
+          1473.9599609375
+        ],
+        [
+          1182.9207763671875,
+          2305.747314453125
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    }
+  ],
+  "imagePath": "9C4A0088-5162e36ae6.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

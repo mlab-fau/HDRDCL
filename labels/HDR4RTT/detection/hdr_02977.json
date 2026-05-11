@@ -1,0 +1,460 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "bottle",
+      "points": [
+        [
+          3331.4619140625,
+          733.80126953125
+        ],
+        [
+          3697.721435546875,
+          1673.2135009765625
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "boat",
+      "points": [
+        [
+          2158.469482421875,
+          819.4279174804688
+        ],
+        [
+          2678.047119140625,
+          973.14990234375
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          2608.387939453125,
+          1127.8583984375
+        ],
+        [
+          2957.612060546875,
+          1606.1046142578125
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          2958.50830078125,
+          1144.924560546875
+        ],
+        [
+          3280.050048828125,
+          1591.85693359375
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "knife",
+      "points": [
+        [
+          410.8614501953125,
+          2296.23291015625
+        ],
+        [
+          889.980224609375,
+          3039.22265625
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "vase",
+      "points": [
+        [
+          320.5088195800781,
+          1135.538818359375
+        ],
+        [
+          737.87451171875,
+          1770.353759765625
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          1519.35986328125,
+          2214.707275390625
+        ],
+        [
+          1670.5484619140625,
+          2345.65576171875
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 6
+      }
+    },
+    {
+      "label": "teddy bear",
+      "points": [
+        [
+          3444.131103515625,
+          1208.763916015625
+        ],
+        [
+          4047.0,
+          1854.9656982421875
+        ]
+      ],
+      "group_id": 7,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 7
+      }
+    },
+    {
+      "label": "fork",
+      "points": [
+        [
+          136.71487426757812,
+          2283.6904296875
+        ],
+        [
+          628.610107421875,
+          2713.542724609375
+        ]
+      ],
+      "group_id": 8,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 8
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          2732.537109375,
+          1393.9969482421875
+        ],
+        [
+          3130.738037109375,
+          1630.2734375
+        ]
+      ],
+      "group_id": 9,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 9
+      }
+    },
+    {
+      "label": "spoon",
+      "points": [
+        [
+          132.46658325195312,
+          2280.88623046875
+        ],
+        [
+          630.7500610351562,
+          2707.8916015625
+        ]
+      ],
+      "group_id": 10,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 10
+      }
+    },
+    {
+      "label": "banana",
+      "points": [
+        [
+          0.0,
+          2282.661865234375
+        ],
+        [
+          247.9083709716797,
+          2920.323486328125
+        ]
+      ],
+      "group_id": 11,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 11
+      }
+    },
+    {
+      "label": "laptop",
+      "points": [
+        [
+          1684.7586669921875,
+          1009.043701171875
+        ],
+        [
+          2496.06640625,
+          1575.5377197265625
+        ]
+      ],
+      "group_id": 12,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 12
+      }
+    },
+    {
+      "label": "apple",
+      "points": [
+        [
+          63.73491668701172,
+          1974.2877197265625
+        ],
+        [
+          391.6650695800781,
+          2276.038330078125
+        ]
+      ],
+      "group_id": 13,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 13
+      }
+    },
+    {
+      "label": "cup",
+      "points": [
+        [
+          567.363037109375,
+          1914.732421875
+        ],
+        [
+          948.5286254882812,
+          2290.497314453125
+        ]
+      ],
+      "group_id": 14,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 14
+      }
+    },
+    {
+      "label": "bowl",
+      "points": [
+        [
+          567.3524780273438,
+          1914.732421875
+        ],
+        [
+          950.6475219726562,
+          2290.497314453125
+        ]
+      ],
+      "group_id": 15,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 15
+      }
+    },
+    {
+      "label": "fork",
+      "points": [
+        [
+          1919.616455078125,
+          1706.0069580078125
+        ],
+        [
+          2136.81689453125,
+          2113.085693359375
+        ]
+      ],
+      "group_id": 16,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 16
+      }
+    },
+    {
+      "label": "dining table",
+      "points": [
+        [
+          0.0,
+          1531.4561767578125
+        ],
+        [
+          4047.0,
+          3037.3623046875
+        ]
+      ],
+      "group_id": 17,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 17
+      }
+    },
+    {
+      "label": "apple",
+      "points": [
+        [
+          1113.8536376953125,
+          2132.110595703125
+        ],
+        [
+          1407.713134765625,
+          2436.7080078125
+        ]
+      ],
+      "group_id": 18,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 18
+      }
+    },
+    {
+      "label": "apple",
+      "points": [
+        [
+          0.0,
+          1715.4207763671875
+        ],
+        [
+          260.6216125488281,
+          1928.923583984375
+        ]
+      ],
+      "group_id": 19,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 19
+      }
+    },
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          0.0,
+          288.6022033691406
+        ],
+        [
+          1226.818115234375,
+          1771.73486328125
+        ]
+      ],
+      "group_id": 20,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 20
+      }
+    },
+    {
+      "label": "book",
+      "points": [
+        [
+          1315.7581787109375,
+          2036.1400146484375
+        ],
+        [
+          2987.35009765625,
+          2938.545166015625
+        ]
+      ],
+      "group_id": 21,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 21
+      }
+    },
+    {
+      "label": "apple",
+      "points": [
+        [
+          0.0,
+          1861.4342041015625
+        ],
+        [
+          209.7686309814453,
+          2185.95849609375
+        ]
+      ],
+      "group_id": 22,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 22
+      }
+    },
+    {
+      "label": "boat",
+      "points": [
+        [
+          3216.989990234375,
+          887.241455078125
+        ],
+        [
+          3708.885009765625,
+          1006.802978515625
+        ]
+      ],
+      "group_id": 23,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 23
+      }
+    },
+    {
+      "label": "apple",
+      "points": [
+        [
+          363.4028625488281,
+          1788.5050048828125
+        ],
+        [
+          633.8388061523438,
+          2041.8616943359375
+        ]
+      ],
+      "group_id": 24,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 24
+      }
+    }
+  ],
+  "imagePath": "hdr_02977.png",
+  "imageData": null,
+  "imageHeight": 3044,
+  "imageWidth": 4048
+}

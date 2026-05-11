@@ -1,0 +1,172 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "refrigerator",
+      "points": [
+        [
+          7093.3369140625,
+          1645.0538330078125
+        ],
+        [
+          7710.3671875,
+          2785.583251953125
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          3967.101318359375,
+          1267.71240234375
+        ],
+        [
+          4343.0400390625,
+          1627.30615234375
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "sink",
+      "points": [
+        [
+          3435.07421875,
+          2239.431640625
+        ],
+        [
+          4219.64208984375,
+          2453.73486328125
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "refrigerator",
+      "points": [
+        [
+          0.0,
+          1670.2998046875
+        ],
+        [
+          512.3238525390625,
+          2796.30029296875
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "cup",
+      "points": [
+        [
+          3317.1181640625,
+          2034.7664794921875
+        ],
+        [
+          3411.102783203125,
+          2183.689208984375
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "bottle",
+      "points": [
+        [
+          4142.48828125,
+          2070.62158203125
+        ],
+        [
+          4232.38671875,
+          2241.337646484375
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    },
+    {
+      "label": "bottle",
+      "points": [
+        [
+          2876.223388671875,
+          1610.349609375
+        ],
+        [
+          2949.776611328125,
+          1770.1689453125
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 6
+      }
+    },
+    {
+      "label": "refrigerator",
+      "points": [
+        [
+          1417.6600341796875,
+          1844.4864501953125
+        ],
+        [
+          1908.0150146484375,
+          2654.480224609375
+        ]
+      ],
+      "group_id": 7,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 7
+      }
+    },
+    {
+      "label": "bottle",
+      "points": [
+        [
+          2204.554443359375,
+          1923.227294921875
+        ],
+        [
+          2290.366455078125,
+          2083.046630859375
+        ]
+      ],
+      "group_id": 8,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 8
+      }
+    }
+  ],
+  "imagePath": "AG8A5524-6e87e15d72.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

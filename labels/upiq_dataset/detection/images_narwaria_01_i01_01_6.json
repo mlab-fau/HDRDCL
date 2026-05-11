@@ -1,0 +1,64 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          215.84500122070312,
+          9.085000038146973
+        ],
+        [
+          449.1549987792969,
+          395.9150085449219
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "suitcase",
+      "points": [
+        [
+          1393.9150390625,
+          829.0900268554688
+        ],
+        [
+          1613.0849609375,
+          1012.9099731445312
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "vase",
+      "points": [
+        [
+          228.52999877929688,
+          295.510009765625
+        ],
+        [
+          323.4700012207031,
+          394.489990234375
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    }
+  ],
+  "imagePath": "images_narwaria_01_i01_01_6.png",
+  "imageData": null,
+  "imageHeight": 1080,
+  "imageWidth": 1920
+}

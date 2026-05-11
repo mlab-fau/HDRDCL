@@ -1,0 +1,118 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "sink",
+      "points": [
+        [
+          2653.41943359375,
+          2320.420166015625
+        ],
+        [
+          3601.43896484375,
+          2883.42041015625
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          3943.898681640625,
+          1102.7503662109375
+        ],
+        [
+          4103.26416015625,
+          1367.9052734375
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "tv",
+      "points": [
+        [
+          7038.29345703125,
+          1984.1126708984375
+        ],
+        [
+          7332.50634765625,
+          2194.78369140625
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "refrigerator",
+      "points": [
+        [
+          4116.4736328125,
+          1574.7822265625
+        ],
+        [
+          4557.79296875,
+          2381.143798828125
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          371.0838317871094,
+          660.1001586914062
+        ],
+        [
+          599.9161376953125,
+          987.0035400390625
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "sink",
+      "points": [
+        [
+          3485.080810546875,
+          2224.794677734375
+        ],
+        [
+          3975.435791015625,
+          2489.94970703125
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    }
+  ],
+  "imagePath": "AG8A0806-814907c850.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

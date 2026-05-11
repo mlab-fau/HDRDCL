@@ -1,0 +1,100 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "person",
+      "points": [
+        [
+          965.9990234375,
+          1363.5411376953125
+        ],
+        [
+          2400.40087890625,
+          3117.12548828125
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          136.00387573242188,
+          1018.0588989257812
+        ],
+        [
+          1439.804443359375,
+          3115.941162109375
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "laptop",
+      "points": [
+        [
+          0.0,
+          1696.8177490234375
+        ],
+        [
+          365.6357421875,
+          2070.293212890625
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "umbrella",
+      "points": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          3499.97119140625,
+          728.7222290039062
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "boat",
+      "points": [
+        [
+          3534.5556640625,
+          1308.449951171875
+        ],
+        [
+          3656.302734375,
+          1352.2166748046875
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    }
+  ],
+  "imagePath": "hdr_03563.png",
+  "imageData": null,
+  "imageHeight": 3120,
+  "imageWidth": 4208
+}

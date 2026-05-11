@@ -1,0 +1,172 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "chair",
+      "points": [
+        [
+          5598.5029296875,
+          2121.131591796875
+        ],
+        [
+          5786.47216796875,
+          2259.157470703125
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          4084.4306640625,
+          2198.541748046875
+        ],
+        [
+          4460.36962890625,
+          2681.63232421875
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          6678.517578125,
+          2066.18017578125
+        ],
+        [
+          6911.4365234375,
+          2407.612548828125
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "sink",
+      "points": [
+        [
+          0.0,
+          2206.417724609375
+        ],
+        [
+          390.3420104980469,
+          2551.482421875
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "tv",
+      "points": [
+        [
+          4772.80908203125,
+          1847.5252685546875
+        ],
+        [
+          5030.2451171875,
+          2043.667236328125
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "refrigerator",
+      "points": [
+        [
+          1465.3603515625,
+          1676.8271484375
+        ],
+        [
+          2127.339599609375,
+          2937.220947265625
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    },
+    {
+      "label": "sink",
+      "points": [
+        [
+          7251.63037109375,
+          2178.096923828125
+        ],
+        [
+          7766.5029296875,
+          2432.35498046875
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 6
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          6023.41650390625,
+          2127.78466796875
+        ],
+        [
+          6190.95458984375,
+          2374.7783203125
+        ]
+      ],
+      "group_id": 7,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 7
+      }
+    },
+    {
+      "label": "bottle",
+      "points": [
+        [
+          3572.126953125,
+          2059.77880859375
+        ],
+        [
+          3647.636474609375,
+          2263.5908203125
+        ]
+      ],
+      "group_id": 8,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 8
+      }
+    }
+  ],
+  "imagePath": "9C4A6593-cc89f63f32.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

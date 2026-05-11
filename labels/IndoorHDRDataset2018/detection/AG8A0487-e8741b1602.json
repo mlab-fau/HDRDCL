@@ -1,0 +1,46 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "chair",
+      "points": [
+        [
+          1062.92138671875,
+          2127.65869140625
+        ],
+        [
+          1291.753662109375,
+          2400.078125
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "tv",
+      "points": [
+        [
+          7144.27392578125,
+          1969.92529296875
+        ],
+        [
+          7279.12158203125,
+          2140.641357421875
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    }
+  ],
+  "imagePath": "AG8A0487-e8741b1602.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

@@ -1,0 +1,64 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "refrigerator",
+      "points": [
+        [
+          3702.281494140625,
+          1552.9346923828125
+        ],
+        [
+          4450.07275390625,
+          3140.23193359375
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "tv",
+      "points": [
+        [
+          4869.3876953125,
+          2395.91845703125
+        ],
+        [
+          5291.8369140625,
+          2726.530517578125
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          5357.27001953125,
+          2340.81640625
+        ],
+        [
+          5769.3876953125,
+          2863.39599609375
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    }
+  ],
+  "imagePath": "9C4A2158-dbb5e3d29e.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

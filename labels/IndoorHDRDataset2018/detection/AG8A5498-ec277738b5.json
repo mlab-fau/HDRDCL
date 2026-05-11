@@ -1,0 +1,190 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "couch",
+      "points": [
+        [
+          4208.90087890625,
+          2227.617919921875
+        ],
+        [
+          6411.41162109375,
+          3375.411865234375
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "tv",
+      "points": [
+        [
+          2121.351806640625,
+          2242.14697265625
+        ],
+        [
+          2668.914794921875,
+          2634.430908203125
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          6314.45361328125,
+          2246.048828125
+        ],
+        [
+          6535.11328125,
+          2576.58447265625
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "remote",
+      "points": [
+        [
+          7156.63427734375,
+          2912.19091796875
+        ],
+        [
+          7246.53271484375,
+          3075.642578125
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "couch",
+      "points": [
+        [
+          6536.93359375,
+          2165.168212890625
+        ],
+        [
+          7583.0244140625,
+          2851.665283203125
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "remote",
+      "points": [
+        [
+          7500.55029296875,
+          2840.588623046875
+        ],
+        [
+          7586.3623046875,
+          2938.65966796875
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    },
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          589.8825073242188,
+          2024.1033935546875
+        ],
+        [
+          753.3341674804688,
+          2147.600341796875
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 6
+      }
+    },
+    {
+      "label": "book",
+      "points": [
+        [
+          7507.7919921875,
+          3181.751220703125
+        ],
+        [
+          7765.228515625,
+          3377.893310546875
+        ]
+      ],
+      "group_id": 7,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 7
+      }
+    },
+    {
+      "label": "bowl",
+      "points": [
+        [
+          7354.35400390625,
+          2962.574951171875
+        ],
+        [
+          7550.49609375,
+          3118.76220703125
+        ]
+      ],
+      "group_id": 8,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 8
+      }
+    },
+    {
+      "label": "dining table",
+      "points": [
+        [
+          7027.9970703125,
+          2711.643310546875
+        ],
+        [
+          7767.0,
+          3430.830810546875
+        ]
+      ],
+      "group_id": 9,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 9
+      }
+    }
+  ],
+  "imagePath": "AG8A5498-ec277738b5.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

@@ -1,0 +1,154 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "car",
+      "points": [
+        [
+          3677.556640625,
+          1363.4892578125
+        ],
+        [
+          3935.862060546875,
+          1464.4144287109375
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          448.7392272949219,
+          1346.1021728515625
+        ],
+        [
+          636.0816040039062,
+          1426.84228515625
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          3866.37451171875,
+          1366.099853515625
+        ],
+        [
+          4019.654541015625,
+          1444.31689453125
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          3998.6748046875,
+          1358.7303466796875
+        ],
+        [
+          4109.37744140625,
+          1411.716064453125
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          4526.9208984375,
+          1351.248291015625
+        ],
+        [
+          4660.3310546875,
+          1401.7109375
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          4500.57958984375,
+          1345.5072021484375
+        ],
+        [
+          4583.76806640625,
+          1392.4637451171875
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          4119.63525390625,
+          1346.3270263671875
+        ],
+        [
+          4207.62939453125,
+          1381.6507568359375
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 6
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          4423.28662109375,
+          1348.85009765625
+        ],
+        [
+          4485.734375,
+          1379.127685546875
+        ]
+      ],
+      "group_id": 7,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 7
+      }
+    }
+  ],
+  "imagePath": "Scenes_Outdoor_scene 35_rep1.png",
+  "imageData": null,
+  "imageHeight": 2698,
+  "imageWidth": 5396
+}

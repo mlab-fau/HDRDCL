@@ -1,0 +1,64 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "person",
+      "points": [
+        [
+          1160.911376953125,
+          1919.9007568359375
+        ],
+        [
+          1209.9468994140625,
+          2025.236328125
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "bird",
+      "points": [
+        [
+          3282.8701171875,
+          1907.78125
+        ],
+        [
+          3756.8798828125,
+          2281.904052734375
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "bird",
+      "points": [
+        [
+          3542.2080078125,
+          1493.056396484375
+        ],
+        [
+          3934.491943359375,
+          2099.6435546875
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    }
+  ],
+  "imagePath": "9C4A8934-d0ab81136d.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

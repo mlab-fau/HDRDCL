@@ -1,0 +1,136 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "tv",
+      "points": [
+        [
+          5951.86572265625,
+          2159.09033203125
+        ],
+        [
+          6679.2255859375,
+          2620.387451171875
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "remote",
+      "points": [
+        [
+          1200.3785400390625,
+          2686.181640625
+        ],
+        [
+          1449.642333984375,
+          2737.033203125
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "couch",
+      "points": [
+        [
+          2553.2041015625,
+          2128.791748046875
+        ],
+        [
+          4947.77099609375,
+          2898.83056640625
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          1938.7835693359375,
+          2067.852294921875
+        ],
+        [
+          2588.50390625,
+          2797.9365234375
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "couch",
+      "points": [
+        [
+          0.0,
+          2170.814453125
+        ],
+        [
+          2045.209228515625,
+          3169.685546875
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "remote",
+      "points": [
+        [
+          1135.9688720703125,
+          2725.7587890625
+        ],
+        [
+          1319.8519287109375,
+          2772.978271484375
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    },
+    {
+      "label": "backpack",
+      "points": [
+        [
+          7190.65966796875,
+          2766.576904296875
+        ],
+        [
+          7762.740234375,
+          3285.989990234375
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 6
+      }
+    }
+  ],
+  "imagePath": "9C4A0069-8ccc2075f2.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

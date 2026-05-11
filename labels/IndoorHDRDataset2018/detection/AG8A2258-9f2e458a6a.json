@@ -1,0 +1,28 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "chair",
+      "points": [
+        [
+          3059.884033203125,
+          2337.412841796875
+        ],
+        [
+          3627.87841796875,
+          3100.187255859375
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    }
+  ],
+  "imagePath": "AG8A2258-9f2e458a6a.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

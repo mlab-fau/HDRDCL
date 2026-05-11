@@ -1,0 +1,28 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "dog",
+      "points": [
+        [
+          1040.560546875,
+          715.8759765625
+        ],
+        [
+          3795.739501953125,
+          2599.323974609375
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    }
+  ],
+  "imagePath": "hdr_03905.png",
+  "imageData": null,
+  "imageHeight": 3024,
+  "imageWidth": 4032
+}

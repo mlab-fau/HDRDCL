@@ -1,0 +1,28 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "car",
+      "points": [
+        [
+          517.890625,
+          132.76710510253906
+        ],
+        [
+          1533.1510009765625,
+          1288.566162109375
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    }
+  ],
+  "imagePath": "hdr_MCSL_red_space_car.png",
+  "imageData": null,
+  "imageHeight": 1312,
+  "imageWidth": 2000
+}

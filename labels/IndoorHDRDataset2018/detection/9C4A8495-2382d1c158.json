@@ -1,0 +1,100 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "bed",
+      "points": [
+        [
+          0.0,
+          1996.1422119140625
+        ],
+        [
+          1988.3045654296875,
+          3409.091064453125
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "bed",
+      "points": [
+        [
+          6674.24951171875,
+          2379.23779296875
+        ],
+        [
+          7767.0,
+          3410.79931640625
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          4105.9951171875,
+          2448.0888671875
+        ],
+        [
+          5029.49658203125,
+          3374.31494140625
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          4424.8876953125,
+          1572.750244140625
+        ],
+        [
+          4678.2373046875,
+          2063.105224609375
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "book",
+      "points": [
+        [
+          5557.39697265625,
+          2876.31787109375
+        ],
+        [
+          5876.1279296875,
+          3021.608154296875
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    }
+  ],
+  "imagePath": "9C4A8495-2382d1c158.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

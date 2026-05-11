@@ -1,0 +1,28 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "bird",
+      "points": [
+        [
+          952.3449096679688,
+          121.49222564697266
+        ],
+        [
+          2931.288330078125,
+          1840.0633544921875
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    }
+  ],
+  "imagePath": "hdr_03771.png",
+  "imageData": null,
+  "imageHeight": 3120,
+  "imageWidth": 4208
+}

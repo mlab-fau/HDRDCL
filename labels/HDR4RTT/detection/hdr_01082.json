@@ -1,0 +1,154 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "person",
+      "points": [
+        [
+          598.02001953125,
+          213.98333740234375
+        ],
+        [
+          728.6466674804688,
+          621.3499755859375
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          213.24667358398438,
+          211.9499969482422
+        ],
+        [
+          365.4200134277344,
+          626.0499877929688
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          357.97332763671875,
+          145.4566650390625
+        ],
+        [
+          498.02667236328125,
+          659.2100219726562
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          481.38665771484375,
+          235.35333251953125
+        ],
+        [
+          605.280029296875,
+          635.3133544921875
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          466.3466796875,
+          216.2133331298828
+        ],
+        [
+          530.9866943359375,
+          577.1199951171875
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "handbag",
+      "points": [
+        [
+          186.92333984375,
+          391.49334716796875
+        ],
+        [
+          269.74334716796875,
+          493.8399963378906
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    },
+    {
+      "label": "handbag",
+      "points": [
+        [
+          583.1099853515625,
+          392.32000732421875
+        ],
+        [
+          628.2233276367188,
+          462.3466796875
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 6
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          0.0,
+          273.836669921875
+        ],
+        [
+          83.75,
+          441.4966735839844
+        ]
+      ],
+      "group_id": 7,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 7
+      }
+    }
+  ],
+  "imagePath": "hdr_01082.png",
+  "imageData": null,
+  "imageHeight": 720,
+  "imageWidth": 1280
+}

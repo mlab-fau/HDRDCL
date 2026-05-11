@@ -1,0 +1,28 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "bench",
+      "points": [
+        [
+          4121.7939453125,
+          2142.27783203125
+        ],
+        [
+          4305.6767578125,
+          2367.477783203125
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    }
+  ],
+  "imagePath": "AG8A0251-ece968a2a4.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

@@ -1,0 +1,136 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "bench",
+      "points": [
+        [
+          4565.82421875,
+          2331.586669921875
+        ],
+        [
+          6588.53857421875,
+          2818.3095703125
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "cup",
+      "points": [
+        [
+          4992.27490234375,
+          2175.36376953125
+        ],
+        [
+          5049.4833984375,
+          2255.2734375
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "cup",
+      "points": [
+        [
+          5578.90087890625,
+          2189.712890625
+        ],
+        [
+          5640.1953125,
+          2276.88720703125
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "dining table",
+      "points": [
+        [
+          4652.162109375,
+          2134.49169921875
+        ],
+        [
+          6397.0087890625,
+          2479.556396484375
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "cup",
+      "points": [
+        [
+          5307.830078125,
+          2193.291259765625
+        ],
+        [
+          5369.12451171875,
+          2284.09765625
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "cup",
+      "points": [
+        [
+          5850.01220703125,
+          2175.417724609375
+        ],
+        [
+          5903.1337890625,
+          2244.430419921875
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    },
+    {
+      "label": "cup",
+      "points": [
+        [
+          6044.17138671875,
+          2161.032470703125
+        ],
+        [
+          6105.4658203125,
+          2230.04541015625
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 6
+      }
+    }
+  ],
+  "imagePath": "AG8A3813-645184c229.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

@@ -1,0 +1,82 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "chair",
+      "points": [
+        [
+          1999.1878662109375,
+          2095.43603515625
+        ],
+        [
+          2706.1162109375,
+          3065.249267578125
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          5891.0771484375,
+          2387.760986328125
+        ],
+        [
+          6638.86865234375,
+          3150.535400390625
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "keyboard",
+      "points": [
+        [
+          872.7266845703125,
+          2250.346435546875
+        ],
+        [
+          1109.7315673828125,
+          2439.223876953125
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "tv",
+      "points": [
+        [
+          1224.7344970703125,
+          1926.3741455078125
+        ],
+        [
+          1457.653076171875,
+          2177.0
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    }
+  ],
+  "imagePath": "AG8A8919-eef95c5eaf.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

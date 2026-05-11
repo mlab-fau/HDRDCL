@@ -1,0 +1,136 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "bench",
+      "points": [
+        [
+          687.989990234375,
+          1396.1400146484375
+        ],
+        [
+          801.5308227539062,
+          1461.741455078125
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "bench",
+      "points": [
+        [
+          1190.85791015625,
+          1426.0928955078125
+        ],
+        [
+          1344.137939453125,
+          1496.740478515625
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "bench",
+      "points": [
+        [
+          929.4188232421875,
+          1445.9031982421875
+        ],
+        [
+          1096.8916015625,
+          1551.8746337890625
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          3425.729248046875,
+          1333.5614013671875
+        ],
+        [
+          3459.79150390625,
+          1424.3941650390625
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          2751.201171875,
+          1338.4952392578125
+        ],
+        [
+          2790.9404296875,
+          1441.943603515625
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          4091.624267578125,
+          1349.6678466796875
+        ],
+        [
+          4108.263671875,
+          1454.4256591796875
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          4107.6318359375,
+          1346.2779541015625
+        ],
+        [
+          4124.27099609375,
+          1451.0357666015625
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 6
+      }
+    }
+  ],
+  "imagePath": "Scenes_Outdoor_scene 17_rep2.png",
+  "imageData": null,
+  "imageHeight": 2698,
+  "imageWidth": 5396
+}

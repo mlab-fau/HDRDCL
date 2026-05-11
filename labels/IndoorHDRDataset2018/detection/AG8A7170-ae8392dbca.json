@@ -1,0 +1,100 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "sink",
+      "points": [
+        [
+          2809.831298828125,
+          2300.83837890625
+        ],
+        [
+          3218.46044921875,
+          2460.657958984375
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "sink",
+      "points": [
+        [
+          1433.0341796875,
+          2444.22265625
+        ],
+        [
+          2086.8408203125,
+          2698.48095703125
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "toilet",
+      "points": [
+        [
+          5819.9716796875,
+          2187.680908203125
+        ],
+        [
+          6220.42822265625,
+          2685.300537109375
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "sink",
+      "points": [
+        [
+          2579.74462890625,
+          2218.483154296875
+        ],
+        [
+          2882.13037109375,
+          2305.657470703125
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "sink",
+      "points": [
+        [
+          1648.717529296875,
+          2290.53515625
+        ],
+        [
+          2049.174072265625,
+          2352.283447265625
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    }
+  ],
+  "imagePath": "AG8A7170-ae8392dbca.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

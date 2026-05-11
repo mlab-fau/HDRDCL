@@ -1,0 +1,82 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "chair",
+      "points": [
+        [
+          6431.43896484375,
+          2141.23486328125
+        ],
+        [
+          6721.5654296875,
+          2577.10595703125
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          479.1480407714844,
+          2049.708984375
+        ],
+        [
+          944.9852905273438,
+          2812.4833984375
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          91.71903991699219,
+          2012.055908203125
+        ],
+        [
+          361.414306640625,
+          2389.810791015625
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "vase",
+      "points": [
+        [
+          4401.56298828125,
+          2164.143310546875
+        ],
+        [
+          4462.857421875,
+          2331.22705078125
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    }
+  ],
+  "imagePath": "9C4A6225-ccf0d2da77.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

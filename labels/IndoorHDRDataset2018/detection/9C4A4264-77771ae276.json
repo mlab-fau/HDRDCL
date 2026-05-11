@@ -1,0 +1,46 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "couch",
+      "points": [
+        [
+          6443.798828125,
+          2232.09521484375
+        ],
+        [
+          7506.234375,
+          3201.908447265625
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "truck",
+      "points": [
+        [
+          3748.148681640625,
+          1734.1575927734375
+        ],
+        [
+          5181.72705078125,
+          2488.5908203125
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    }
+  ],
+  "imagePath": "9C4A4264-77771ae276.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

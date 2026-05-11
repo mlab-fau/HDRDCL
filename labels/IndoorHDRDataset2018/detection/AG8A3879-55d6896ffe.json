@@ -1,0 +1,46 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "couch",
+      "points": [
+        [
+          5124.6142578125,
+          2083.658203125
+        ],
+        [
+          7053.34423828125,
+          3253.24560546875
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "book",
+      "points": [
+        [
+          6528.7412109375,
+          2469.990234375
+        ],
+        [
+          6778.0048828125,
+          2604.3837890625
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    }
+  ],
+  "imagePath": "AG8A3879-55d6896ffe.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

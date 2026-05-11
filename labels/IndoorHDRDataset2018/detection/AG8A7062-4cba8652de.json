@@ -1,0 +1,28 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "sink",
+      "points": [
+        [
+          4638.95263671875,
+          1987.3673095703125
+        ],
+        [
+          4965.85595703125,
+          2267.05126953125
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    }
+  ],
+  "imagePath": "AG8A7062-4cba8652de.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

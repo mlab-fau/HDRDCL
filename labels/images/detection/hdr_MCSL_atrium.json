@@ -1,0 +1,64 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          423.125,
+          343.76220703125
+        ],
+        [
+          591.4583129882812,
+          595.2896118164062
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          882.0416870117188,
+          323.116455078125
+        ],
+        [
+          1142.9583740234375,
+          573.4168701171875
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          1920.0,
+          397.84576416015625
+        ],
+        [
+          1994.8206787109375,
+          527.4900512695312
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    }
+  ],
+  "imagePath": "hdr_MCSL_atrium.png",
+  "imageData": null,
+  "imageHeight": 1312,
+  "imageWidth": 2000
+}

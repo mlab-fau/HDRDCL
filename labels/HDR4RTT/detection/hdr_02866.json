@@ -1,0 +1,136 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "car",
+      "points": [
+        [
+          2930.6865234375,
+          2023.9100341796875
+        ],
+        [
+          3115.21337890625,
+          2122.889892578125
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          3638.41796875,
+          2043.635986328125
+        ],
+        [
+          3816.58203125,
+          2117.1640625
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          3636.212890625,
+          2082.555908203125
+        ],
+        [
+          4031.0,
+          2239.0
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          3537.922607421875,
+          2018.407958984375
+        ],
+        [
+          3654.577392578125,
+          2097.592041015625
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          3178.81201171875,
+          2010.14794921875
+        ],
+        [
+          3297.587890625,
+          2061.052001953125
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "bicycle",
+      "points": [
+        [
+          2554.7548828125,
+          2088.114013671875
+        ],
+        [
+          2745.64501953125,
+          2226.68603515625
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    },
+    {
+      "label": "bicycle",
+      "points": [
+        [
+          2832.27001953125,
+          2121.924072265625
+        ],
+        [
+          2959.530029296875,
+          2218.075927734375
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 6
+      }
+    }
+  ],
+  "imagePath": "hdr_02866.png",
+  "imageData": null,
+  "imageHeight": 3024,
+  "imageWidth": 4032
+}

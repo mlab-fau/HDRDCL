@@ -1,0 +1,64 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "person",
+      "points": [
+        [
+          995.4966430664062,
+          592.0399780273438
+        ],
+        [
+          1097.1700439453125,
+          718.6266479492188
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          56.689998626708984,
+          519.760009765625
+        ],
+        [
+          455.9766540527344,
+          702.9066772460938
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          88.55333709716797,
+          423.60333251953125
+        ],
+        [
+          111.44666290283203,
+          503.7300109863281
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    }
+  ],
+  "imagePath": "hdr_00935.png",
+  "imageData": null,
+  "imageHeight": 720,
+  "imageWidth": 1280
+}

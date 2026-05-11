@@ -1,0 +1,64 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "person",
+      "points": [
+        [
+          1543.26904296875,
+          1406.02001953125
+        ],
+        [
+          2862.531005859375,
+          3017.97998046875
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "backpack",
+      "points": [
+        [
+          1534.0185546875,
+          1658.14599609375
+        ],
+        [
+          2176.681396484375,
+          2113.4541015625
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "handbag",
+      "points": [
+        [
+          1781.8604736328125,
+          2255.58203125
+        ],
+        [
+          1991.8394775390625,
+          2501.617919921875
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    }
+  ],
+  "imagePath": "hdr_03471.png",
+  "imageData": null,
+  "imageHeight": 3024,
+  "imageWidth": 4032
+}

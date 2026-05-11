@@ -1,0 +1,46 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "refrigerator",
+      "points": [
+        [
+          4754.4814453125,
+          1514.652099609375
+        ],
+        [
+          5445.064453125,
+          2844.05908203125
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "bed",
+      "points": [
+        [
+          518.979248046875,
+          1969.2958984375
+        ],
+        [
+          1111.4915771484375,
+          2267.14111328125
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    }
+  ],
+  "imagePath": "AG8A5013-ad4e1b1b14.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

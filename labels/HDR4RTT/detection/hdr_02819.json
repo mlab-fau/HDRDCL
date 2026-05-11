@@ -1,0 +1,28 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          2360.616455078125,
+          1257.6536865234375
+        ],
+        [
+          3035.0,
+          3120.183349609375
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    }
+  ],
+  "imagePath": "hdr_02819.png",
+  "imageData": null,
+  "imageHeight": 4048,
+  "imageWidth": 3036
+}

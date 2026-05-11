@@ -1,0 +1,280 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "person",
+      "points": [
+        [
+          449.3833312988281,
+          412.7149963378906
+        ],
+        [
+          943.0,
+          1076.2850341796875
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "bottle",
+      "points": [
+        [
+          366.515380859375,
+          655.0549926757812
+        ],
+        [
+          420.6429443359375,
+          845.9450073242188
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "mouse",
+      "points": [
+        [
+          158.38058471679688,
+          837.7999877929688
+        ],
+        [
+          244.7860870361328,
+          878.2000122070312
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "book",
+      "points": [
+        [
+          268.6491394042969,
+          635.094970703125
+        ],
+        [
+          327.7425537109375,
+          817.905029296875
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "book",
+      "points": [
+        [
+          171.48350524902344,
+          627.0499877929688
+        ],
+        [
+          292.64984130859375,
+          818.9500122070312
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "book",
+      "points": [
+        [
+          239.8054962158203,
+          601.9299926757812
+        ],
+        [
+          364.9444885253906,
+          818.0700073242188
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    },
+    {
+      "label": "book",
+      "points": [
+        [
+          124.12124633789062,
+          29.709999084472656
+        ],
+        [
+          178.74542236328125,
+          290.2900085449219
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 6
+      }
+    },
+    {
+      "label": "book",
+      "points": [
+        [
+          176.2477569580078,
+          54.80500030517578
+        ],
+        [
+          228.88558959960938,
+          296.19500732421875
+        ]
+      ],
+      "group_id": 7,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 7
+      }
+    },
+    {
+      "label": "book",
+      "points": [
+        [
+          5.944250106811523,
+          11.675000190734863
+        ],
+        [
+          96.32241821289062,
+          279.32501220703125
+        ]
+      ],
+      "group_id": 8,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 8
+      }
+    },
+    {
+      "label": "book",
+      "points": [
+        [
+          88.2910385131836,
+          24.719999313354492
+        ],
+        [
+          130.50062561035156,
+          283.2799987792969
+        ]
+      ],
+      "group_id": 9,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 9
+      }
+    },
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          281.76678466796875,
+          110.56999969482422
+        ],
+        [
+          471.9582214355469,
+          399.42999267578125
+        ]
+      ],
+      "group_id": 10,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 10
+      }
+    },
+    {
+      "label": "book",
+      "points": [
+        [
+          223.07162475585938,
+          60.81999969482422
+        ],
+        [
+          252.3700408935547,
+          299.17999267578125
+        ]
+      ],
+      "group_id": 11,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 11
+      }
+    },
+    {
+      "label": "book",
+      "points": [
+        [
+          2.099416732788086,
+          614.9550170898438
+        ],
+        [
+          173.91725158691406,
+          826.0449829101562
+        ]
+      ],
+      "group_id": 12,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 12
+      }
+    },
+    {
+      "label": "book",
+      "points": [
+        [
+          249.58966064453125,
+          71.86499786376953
+        ],
+        [
+          285.3436584472656,
+          301.135009765625
+        ]
+      ],
+      "group_id": 13,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 13
+      }
+    },
+    {
+      "label": "vase",
+      "points": [
+        [
+          283.2442626953125,
+          121.08999633789062
+        ],
+        [
+          373.6224060058594,
+          304.9100036621094
+        ]
+      ],
+      "group_id": 14,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 14
+      }
+    }
+  ],
+  "imagePath": "images_korshunov_20_i20.png",
+  "imageData": null,
+  "imageHeight": 1080,
+  "imageWidth": 944
+}

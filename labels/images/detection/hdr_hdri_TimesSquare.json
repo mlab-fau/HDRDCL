@@ -1,0 +1,100 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "person",
+      "points": [
+        [
+          2008.5130615234375,
+          997.2423095703125
+        ],
+        [
+          2167.47021484375,
+          1298.42431640625
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          1975.521728515625,
+          1349.023681640625
+        ],
+        [
+          2105.794921875,
+          1662.9541015625
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "traffic light",
+      "points": [
+        [
+          734.5068359375,
+          1621.576904296875
+        ],
+        [
+          803.8264770507812,
+          1698.0675048828125
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          1644.3599853515625,
+          1545.4490966796875
+        ],
+        [
+          1739.973388671875,
+          1701.6175537109375
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          206.7934112548828,
+          0.0
+        ],
+        [
+          504.3899230957031,
+          469.3573303222656
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    }
+  ],
+  "imagePath": "hdr_hdri_TimesSquare.png",
+  "imageData": null,
+  "imageHeight": 1704,
+  "imageWidth": 2272
+}

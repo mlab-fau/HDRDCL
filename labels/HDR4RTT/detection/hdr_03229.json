@@ -1,0 +1,118 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "person",
+      "points": [
+        [
+          1212.4498291015625,
+          415.42144775390625
+        ],
+        [
+          3309.92529296875,
+          3040.082275390625
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "wine glass",
+      "points": [
+        [
+          99.22870635986328,
+          2355.7177734375
+        ],
+        [
+          923.31298828125,
+          3038.9267578125
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          3235.511474609375,
+          1639.067138671875
+        ],
+        [
+          3393.08837890625,
+          2473.1513671875
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          3272.9345703125,
+          1606.8514404296875
+        ],
+        [
+          3536.982177734375,
+          2116.411376953125
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "dining table",
+      "points": [
+        [
+          3567.036376953125,
+          1646.6912841796875
+        ],
+        [
+          4046.1552734375,
+          2079.39013671875
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "dining table",
+      "points": [
+        [
+          0.0,
+          2327.3916015625
+        ],
+        [
+          1336.9996337890625,
+          3039.067626953125
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    }
+  ],
+  "imagePath": "hdr_03229.png",
+  "imageData": null,
+  "imageHeight": 3044,
+  "imageWidth": 4048
+}

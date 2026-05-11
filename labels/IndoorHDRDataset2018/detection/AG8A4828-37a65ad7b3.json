@@ -1,0 +1,136 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "chair",
+      "points": [
+        [
+          288.3465270996094,
+          2535.8564453125
+        ],
+        [
+          884.9451293945312,
+          3167.86962890625
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          7304.4892578125,
+          2683.232666015625
+        ],
+        [
+          7766.240234375,
+          3329.774658203125
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "refrigerator",
+      "points": [
+        [
+          2497.43212890625,
+          1515.0477294921875
+        ],
+        [
+          3081.77197265625,
+          2764.544921875
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          0.0,
+          2709.341796875
+        ],
+        [
+          199.237060546875,
+          3167.00634765625
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "dining table",
+      "points": [
+        [
+          0.0,
+          2338.132080078125
+        ],
+        [
+          1199.46826171875,
+          2955.6162109375
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "dining table",
+      "points": [
+        [
+          3460.42138671875,
+          2259.39111328125
+        ],
+        [
+          4845.67431640625,
+          2800.59765625
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    },
+    {
+      "label": "refrigerator",
+      "points": [
+        [
+          1342.4322509765625,
+          1510.0477294921875
+        ],
+        [
+          2349.0,
+          2914.5
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 6
+      }
+    }
+  ],
+  "imagePath": "AG8A4828-37a65ad7b3.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

@@ -1,0 +1,28 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "bottle",
+      "points": [
+        [
+          6088.35205078125,
+          1879.2806396484375
+        ],
+        [
+          6215.02734375,
+          2198.91943359375
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    }
+  ],
+  "imagePath": "9C4A4829-d460199b9e.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

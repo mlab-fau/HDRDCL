@@ -1,0 +1,64 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "person",
+      "points": [
+        [
+          0.0,
+          47.195556640625
+        ],
+        [
+          613.6530151367188,
+          1825.693359375
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          1213.7982177734375,
+          368.760009765625
+        ],
+        [
+          1274.751708984375,
+          454.64739990234375
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          1276.3480224609375,
+          403.81976318359375
+        ],
+        [
+          1337.301513671875,
+          489.7071533203125
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    }
+  ],
+  "imagePath": "hdr_hdri_FribourgTower.png",
+  "imageData": null,
+  "imageHeight": 2240,
+  "imageWidth": 1704
+}

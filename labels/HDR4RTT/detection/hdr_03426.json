@@ -1,0 +1,334 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "sheep",
+      "points": [
+        [
+          2059.952880859375,
+          1412.5159912109375
+        ],
+        [
+          2513.846923828125,
+          1712.2840576171875
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "sheep",
+      "points": [
+        [
+          2882.533447265625,
+          1462.887939453125
+        ],
+        [
+          3037.366455078125,
+          1768.31201171875
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "sheep",
+      "points": [
+        [
+          1262.89794921875,
+          1399.0340576171875
+        ],
+        [
+          1525.9019775390625,
+          1594.166015625
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "sheep",
+      "points": [
+        [
+          3686.9384765625,
+          1175.510009765625
+        ],
+        [
+          3820.5615234375,
+          1274.489990234375
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "sheep",
+      "points": [
+        [
+          1489.467041015625,
+          1404.52197265625
+        ],
+        [
+          1799.133056640625,
+          1622.2779541015625
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "sheep",
+      "points": [
+        [
+          1727.08203125,
+          1378.916015625
+        ],
+        [
+          1973.1180419921875,
+          1678.6839599609375
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    },
+    {
+      "label": "sheep",
+      "points": [
+        [
+          3206.08056640625,
+          1245.5799560546875
+        ],
+        [
+          3331.219482421875,
+          1330.4200439453125
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 6
+      }
+    },
+    {
+      "label": "sheep",
+      "points": [
+        [
+          506.25750732421875,
+          1493.89794921875
+        ],
+        [
+          898.6425170898438,
+          1756.9019775390625
+        ]
+      ],
+      "group_id": 7,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 7
+      }
+    },
+    {
+      "label": "sheep",
+      "points": [
+        [
+          846.3944702148438,
+          1507.7159423828125
+        ],
+        [
+          1251.5054931640625,
+          1807.4840087890625
+        ]
+      ],
+      "group_id": 8,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 8
+      }
+    },
+    {
+      "label": "sheep",
+      "points": [
+        [
+          2708.401611328125,
+          1415.498046875
+        ],
+        [
+          2829.298583984375,
+          1678.501953125
+        ]
+      ],
+      "group_id": 9,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 9
+      }
+    },
+    {
+      "label": "sheep",
+      "points": [
+        [
+          834.634521484375,
+          1463.4339599609375
+        ],
+        [
+          1070.0655517578125,
+          1658.5660400390625
+        ]
+      ],
+      "group_id": 10,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 10
+      }
+    },
+    {
+      "label": "sheep",
+      "points": [
+        [
+          2523.349609375,
+          1334.4940185546875
+        ],
+        [
+          2695.150390625,
+          1557.906005859375
+        ]
+      ],
+      "group_id": 11,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 11
+      }
+    },
+    {
+      "label": "sheep",
+      "points": [
+        [
+          3036.400390625,
+          1080.52001953125
+        ],
+        [
+          3076.699462890625,
+          1137.0799560546875
+        ]
+      ],
+      "group_id": 12,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 12
+      }
+    },
+    {
+      "label": "sheep",
+      "points": [
+        [
+          3857.33251953125,
+          1030.0780029296875
+        ],
+        [
+          3931.5673828125,
+          1095.1219482421875
+        ]
+      ],
+      "group_id": 13,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 13
+      }
+    },
+    {
+      "label": "sheep",
+      "points": [
+        [
+          2964.6435546875,
+          1430.3800048828125
+        ],
+        [
+          3077.056396484375,
+          1515.219970703125
+        ]
+      ],
+      "group_id": 14,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 14
+      }
+    },
+    {
+      "label": "sheep",
+      "points": [
+        [
+          2994.431884765625,
+          1128.10595703125
+        ],
+        [
+          3028.367919921875,
+          1187.4940185546875
+        ]
+      ],
+      "group_id": 15,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 15
+      }
+    },
+    {
+      "label": "sheep",
+      "points": [
+        [
+          3153.4755859375,
+          1217.593994140625
+        ],
+        [
+          3299.824462890625,
+          1299.60595703125
+        ]
+      ],
+      "group_id": 16,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 16
+      }
+    },
+    {
+      "label": "sheep",
+      "points": [
+        [
+          2032.033447265625,
+          1463.64404296875
+        ],
+        [
+          2186.866455078125,
+          1616.35595703125
+        ]
+      ],
+      "group_id": 17,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 17
+      }
+    }
+  ],
+  "imagePath": "hdr_03426.png",
+  "imageData": null,
+  "imageHeight": 3024,
+  "imageWidth": 4032
+}

@@ -1,0 +1,46 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          476.65985107421875,
+          1651.185546875
+        ],
+        [
+          627.8526611328125,
+          2279.56640625
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "couch",
+      "points": [
+        [
+          6118.75634765625,
+          2048.540283203125
+        ],
+        [
+          6641.8017578125,
+          2320.959716796875
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    }
+  ],
+  "imagePath": "9C4A3614-b7a70ee631.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

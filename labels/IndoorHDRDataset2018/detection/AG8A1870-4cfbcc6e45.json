@@ -1,0 +1,136 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "chair",
+      "points": [
+        [
+          6961.1396484375,
+          1974.312744140625
+        ],
+        [
+          7312.560546875,
+          2711.661376953125
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          3769.806396484375,
+          2009.052978515625
+        ],
+        [
+          3953.689453125,
+          2266.943359375
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          2123.132080078125,
+          2069.920166015625
+        ],
+        [
+          2311.101318359375,
+          2382.29443359375
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "couch",
+      "points": [
+        [
+          3502.0732421875,
+          2055.966552734375
+        ],
+        [
+          3828.9765625,
+          2281.166748046875
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "bed",
+      "points": [
+        [
+          1534.7666015625,
+          2098.22314453125
+        ],
+        [
+          2070.07080078125,
+          2505.0361328125
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "couch",
+      "points": [
+        [
+          4109.04931640625,
+          2116.51025390625
+        ],
+        [
+          4415.521484375,
+          2461.574951171875
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    },
+    {
+      "label": "bed",
+      "points": [
+        [
+          0.0,
+          2170.49072265625
+        ],
+        [
+          215.50131225585938,
+          2508.290771484375
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 6
+      }
+    }
+  ],
+  "imagePath": "AG8A1870-4cfbcc6e45.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

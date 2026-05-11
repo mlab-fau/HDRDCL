@@ -1,0 +1,28 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "person",
+      "points": [
+        [
+          324.9713439941406,
+          1000.5360107421875
+        ],
+        [
+          435.9661560058594,
+          1430.9306640625
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    }
+  ],
+  "imagePath": "hdr_hdri_BoyScoutTrail1.png",
+  "imageData": null,
+  "imageHeight": 1504,
+  "imageWidth": 1000
+}

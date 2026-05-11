@@ -1,0 +1,28 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "chair",
+      "points": [
+        [
+          2097.2119140625,
+          1936.180908203125
+        ],
+        [
+          2214.329833984375,
+          2072.463623046875
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    }
+  ],
+  "imagePath": "hdr_03146.png",
+  "imageData": null,
+  "imageHeight": 3036,
+  "imageWidth": 4048
+}

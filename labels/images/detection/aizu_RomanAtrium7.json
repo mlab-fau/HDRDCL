@@ -1,0 +1,46 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          1590.3524169921875,
+          1243.6287841796875
+        ],
+        [
+          1827.22265625,
+          1575.97119140625
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "couch",
+      "points": [
+        [
+          1322.4112548828125,
+          1569.0452880859375
+        ],
+        [
+          2052.388671875,
+          1839.6954345703125
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    }
+  ],
+  "imagePath": "aizu_RomanAtrium7.png",
+  "imageData": null,
+  "imageHeight": 2128,
+  "imageWidth": 2832
+}

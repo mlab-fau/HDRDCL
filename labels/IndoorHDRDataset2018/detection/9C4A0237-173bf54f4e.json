@@ -1,0 +1,82 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "bed",
+      "points": [
+        [
+          6743.37255859375,
+          2178.5283203125
+        ],
+        [
+          7767.0,
+          3072.064208984375
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "bed",
+      "points": [
+        [
+          0.0,
+          2203.79248046875
+        ],
+        [
+          833.5427856445312,
+          3079.1669921875
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "bottle",
+      "points": [
+        [
+          6420.3330078125,
+          2131.326904296875
+        ],
+        [
+          6502.05859375,
+          2389.217529296875
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "bottle",
+      "points": [
+        [
+          6569.88720703125,
+          2156.51904296875
+        ],
+        [
+          6680.216796875,
+          2410.77734375
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    }
+  ],
+  "imagePath": "9C4A0237-173bf54f4e.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

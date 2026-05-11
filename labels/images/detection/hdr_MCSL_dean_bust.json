@@ -1,0 +1,46 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          195.4166717529297,
+          1114.2342529296875
+        ],
+        [
+          700.4166870117188,
+          1309.3212890625
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          818.65625,
+          399.0119934082031
+        ],
+        [
+          1048.0103759765625,
+          778.1435546875
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    }
+  ],
+  "imagePath": "hdr_MCSL_dean_bust.png",
+  "imageData": null,
+  "imageHeight": 1312,
+  "imageWidth": 2000
+}

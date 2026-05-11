@@ -1,0 +1,316 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "person",
+      "points": [
+        [
+          57.33000183105469,
+          64.98500061035156
+        ],
+        [
+          798.6699829101562,
+          1078.0150146484375
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          913.2449951171875,
+          93.29000091552734
+        ],
+        [
+          1671.7550048828125,
+          842.7100219726562
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "tie",
+      "points": [
+        [
+          1226.4449462890625,
+          422.2550048828125
+        ],
+        [
+          1338.5550537109375,
+          774.7449951171875
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "cup",
+      "points": [
+        [
+          1066.3199462890625,
+          859.0900268554688
+        ],
+        [
+          1203.6800537109375,
+          1042.9100341796875
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "cup",
+      "points": [
+        [
+          1741.3800048828125,
+          781.27001953125
+        ],
+        [
+          1866.6199951171875,
+          928.72998046875
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "cup",
+      "points": [
+        [
+          1682.4200439453125,
+          750.280029296875
+        ],
+        [
+          1799.5799560546875,
+          895.719970703125
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    },
+    {
+      "label": "dining table",
+      "points": [
+        [
+          761.4749755859375,
+          773.5150146484375
+        ],
+        [
+          1877.5250244140625,
+          1073.4849853515625
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 6
+      }
+    },
+    {
+      "label": "bottle",
+      "points": [
+        [
+          1582.7099609375,
+          743.35498046875
+        ],
+        [
+          1641.2900390625,
+          873.64501953125
+        ]
+      ],
+      "group_id": 7,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 7
+      }
+    },
+    {
+      "label": "bottle",
+      "points": [
+        [
+          649.6749877929688,
+          36.525001525878906
+        ],
+        [
+          715.3250122070312,
+          334.4750061035156
+        ]
+      ],
+      "group_id": 8,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 8
+      }
+    },
+    {
+      "label": "bowl",
+      "points": [
+        [
+          1468.4599609375,
+          807.6699829101562
+        ],
+        [
+          1577.5400390625,
+          874.3300170898438
+        ]
+      ],
+      "group_id": 9,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 9
+      }
+    },
+    {
+      "label": "bottle",
+      "points": [
+        [
+          547.6849975585938,
+          41.529998779296875
+        ],
+        [
+          611.3150024414062,
+          338.4700012207031
+        ]
+      ],
+      "group_id": 10,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 10
+      }
+    },
+    {
+      "label": "bottle",
+      "points": [
+        [
+          521.7849731445312,
+          86.73999786376953
+        ],
+        [
+          565.2150268554688,
+          341.260009765625
+        ]
+      ],
+      "group_id": 11,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 11
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          1769.280029296875,
+          872.0900268554688
+        ],
+        [
+          1914.719970703125,
+          1055.9100341796875
+        ]
+      ],
+      "group_id": 12,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 12
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          1329.0849609375,
+          872.0150146484375
+        ],
+        [
+          1917.9150390625,
+          1070.9849853515625
+        ]
+      ],
+      "group_id": 13,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 13
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          4.59499979019165,
+          787.5700073242188
+        ],
+        [
+          86.40499877929688,
+          1076.4300537109375
+        ]
+      ],
+      "group_id": 14,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 14
+      }
+    },
+    {
+      "label": "bottle",
+      "points": [
+        [
+          700.7550048828125,
+          9.430000305175781
+        ],
+        [
+          750.2449951171875,
+          326.57000732421875
+        ]
+      ],
+      "group_id": 15,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 15
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          755.22998046875,
+          89.12000274658203
+        ],
+        [
+          1919.0,
+          1074.8800048828125
+        ]
+      ],
+      "group_id": 16,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 16
+      }
+    }
+  ],
+  "imagePath": "hdr_01678.png",
+  "imageData": null,
+  "imageHeight": 1080,
+  "imageWidth": 1920
+}

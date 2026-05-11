@@ -1,0 +1,46 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "tv",
+      "points": [
+        [
+          7240.8076171875,
+          1390.0045166015625
+        ],
+        [
+          7490.0712890625,
+          1745.9659423828125
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "sink",
+      "points": [
+        [
+          6180.49609375,
+          2132.280029296875
+        ],
+        [
+          6491.05419921875,
+          2197.66064453125
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    }
+  ],
+  "imagePath": "AG8A2643-52f5e6de78.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

@@ -1,0 +1,118 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "car",
+      "points": [
+        [
+          30.228958129882812,
+          1509.71337890625
+        ],
+        [
+          135.4793701171875,
+          1636.4495849609375
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "apple",
+      "points": [
+        [
+          2770.25048828125,
+          453.0451965332031
+        ],
+        [
+          2904.8330078125,
+          648.910400390625
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          303.5366516113281,
+          1484.87939453125
+        ],
+        [
+          413.9633483886719,
+          1558.616943359375
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "apple",
+      "points": [
+        [
+          547.4951782226562,
+          567.1535034179688
+        ],
+        [
+          725.213134765625,
+          756.1057739257812
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          119.02812194824219,
+          1500.8497314453125
+        ],
+        [
+          231.18020629882812,
+          1574.5872802734375
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "traffic light",
+      "points": [
+        [
+          623.37939453125,
+          1316.1409912109375
+        ],
+        [
+          656.1622924804688,
+          1371.444091796875
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    }
+  ],
+  "imagePath": "hdr_03970.png",
+  "imageData": null,
+  "imageHeight": 2464,
+  "imageWidth": 3280
+}

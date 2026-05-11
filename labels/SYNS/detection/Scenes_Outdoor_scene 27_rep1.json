@@ -1,0 +1,28 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "car",
+      "points": [
+        [
+          3268.05078125,
+          1321.2205810546875
+        ],
+        [
+          3361.72216796875,
+          1381.7757568359375
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    }
+  ],
+  "imagePath": "Scenes_Outdoor_scene 27_rep1.png",
+  "imageData": null,
+  "imageHeight": 2698,
+  "imageWidth": 5396
+}

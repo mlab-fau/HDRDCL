@@ -1,0 +1,154 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "sink",
+      "points": [
+        [
+          2550.18994140625,
+          2340.25390625
+        ],
+        [
+          3101.83935546875,
+          2529.13134765625
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "sink",
+      "points": [
+        [
+          3310.62451171875,
+          2354.549072265625
+        ],
+        [
+          3899.050537109375,
+          2561.587890625
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "sink",
+      "points": [
+        [
+          2097.966796875,
+          2243.513427734375
+        ],
+        [
+          2465.733154296875,
+          2359.745849609375
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "sink",
+      "points": [
+        [
+          1876.012451171875,
+          2164.628662109375
+        ],
+        [
+          2129.362548828125,
+          2233.6416015625
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "toilet",
+      "points": [
+        [
+          5355.36865234375,
+          2080.63720703125
+        ],
+        [
+          5620.9775390625,
+          2407.54052734375
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "toilet",
+      "points": [
+        [
+          4995.572265625,
+          2080.475341796875
+        ],
+        [
+          5203.97314453125,
+          2440.069091796875
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    },
+    {
+      "label": "toilet",
+      "points": [
+        [
+          5756.18896484375,
+          2062.74560546875
+        ],
+        [
+          5964.58984375,
+          2371.48779296875
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 6
+      }
+    },
+    {
+      "label": "toilet",
+      "points": [
+        [
+          6100.48974609375,
+          2041.4195556640625
+        ],
+        [
+          6227.16455078125,
+          2299.31005859375
+        ]
+      ],
+      "group_id": 7,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 7
+      }
+    }
+  ],
+  "imagePath": "9C4A4385-6d23a718e2.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

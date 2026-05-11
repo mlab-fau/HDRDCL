@@ -1,0 +1,118 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "person",
+      "points": [
+        [
+          1378.85546875,
+          2162.092041015625
+        ],
+        [
+          1443.39453125,
+          2266.204345703125
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          1452.451416015625,
+          2172.6630859375
+        ],
+        [
+          1530.43603515625,
+          2266.151611328125
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "bird",
+      "points": [
+        [
+          556.378173828125,
+          1011.7763061523438
+        ],
+        [
+          573.4093017578125,
+          1033.023681640625
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "bird",
+      "points": [
+        [
+          288.2955017089844,
+          832.9825439453125
+        ],
+        [
+          316.9794921875,
+          849.98046875
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "bird",
+      "points": [
+        [
+          426.7677001953125,
+          933.9287109375
+        ],
+        [
+          450.9698181152344,
+          957.3009033203125
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "bird",
+      "points": [
+        [
+          444.57537841796875,
+          662.6035766601562
+        ],
+        [
+          457.1246337890625,
+          675.3519897460938
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    }
+  ],
+  "imagePath": "hdr_hdri_StPaulCathBrighton.png",
+  "imageData": null,
+  "imageHeight": 2272,
+  "imageWidth": 1704
+}

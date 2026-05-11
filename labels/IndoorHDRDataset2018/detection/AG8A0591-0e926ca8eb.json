@@ -1,0 +1,154 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "tv",
+      "points": [
+        [
+          5010.7646484375,
+          2029.767578125
+        ],
+        [
+          5419.3935546875,
+          2462.00634765625
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          1566.162353515625,
+          2435.0341796875
+        ],
+        [
+          2297.608642578125,
+          3092.47314453125
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "laptop",
+      "points": [
+        [
+          1984.7239990234375,
+          2117.0498046875
+        ],
+        [
+          2344.317626953125,
+          2353.146484375
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "bed",
+      "points": [
+        [
+          0.0,
+          2285.15869140625
+        ],
+        [
+          1085.638671875,
+          3432.95263671875
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "bed",
+      "points": [
+        [
+          6214.7841796875,
+          2151.286376953125
+        ],
+        [
+          7767.0,
+          3462.531982421875
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "tv",
+      "points": [
+        [
+          1790.9285888671875,
+          2012.61328125
+        ],
+        [
+          2068.79638671875,
+          2277.768310546875
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    },
+    {
+      "label": "backpack",
+      "points": [
+        [
+          1272.718017578125,
+          2526.092529296875
+        ],
+        [
+          1620.0528564453125,
+          2951.06689453125
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 6
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          5918.06298828125,
+          1590.3001708984375
+        ],
+        [
+          6118.291015625,
+          2167.829345703125
+        ]
+      ],
+      "group_id": 7,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 7
+      }
+    }
+  ],
+  "imagePath": "AG8A0591-0e926ca8eb.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

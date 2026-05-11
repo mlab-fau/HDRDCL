@@ -1,0 +1,172 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "person",
+      "points": [
+        [
+          201.28533935546875,
+          728.5759887695312
+        ],
+        [
+          264.8479919433594,
+          935.4240112304688
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          1317.8507080078125,
+          695.6231079101562
+        ],
+        [
+          1428.8160400390625,
+          951.3102416992188
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          1612.2987060546875,
+          649.841796875
+        ],
+        [
+          1929.03466796875,
+          1534.6915283203125
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          337.76531982421875,
+          652.245361328125
+        ],
+        [
+          412.101318359375,
+          764.2880249023438
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "handbag",
+      "points": [
+        [
+          1634.650634765625,
+          774.8408813476562
+        ],
+        [
+          1745.615966796875,
+          1116.7147216796875
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "dining table",
+      "points": [
+        [
+          1661.5146484375,
+          1157.255126953125
+        ],
+        [
+          1948.0853271484375,
+          1532.1671142578125
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    },
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          0.0,
+          650.9724731445312
+        ],
+        [
+          82.54399871826172,
+          732.8497924804688
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 6
+      }
+    },
+    {
+      "label": "handbag",
+      "points": [
+        [
+          215.3280029296875,
+          806.158203125
+        ],
+        [
+          243.3386688232422,
+          854.997314453125
+        ]
+      ],
+      "group_id": 7,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 7
+      }
+    },
+    {
+      "label": "vase",
+      "points": [
+        [
+          353.95733642578125,
+          740.8568725585938
+        ],
+        [
+          389.50933837890625,
+          765.2764282226562
+        ]
+      ],
+      "group_id": 8,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 8
+      }
+    }
+  ],
+  "imagePath": "hdr_hdri_DyrhamChurch.png",
+  "imageData": null,
+  "imageHeight": 1536,
+  "imageWidth": 2048
+}

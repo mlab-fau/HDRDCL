@@ -1,0 +1,46 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "bench",
+      "points": [
+        [
+          2865.9267578125,
+          2189.137451171875
+        ],
+        [
+          3384.8857421875,
+          2392.5439453125
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "tv",
+      "points": [
+        [
+          7073.95751953125,
+          1300.9241943359375
+        ],
+        [
+          7519.36328125,
+          2216.253662109375
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    }
+  ],
+  "imagePath": "9C4A6436-19040d41c8.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

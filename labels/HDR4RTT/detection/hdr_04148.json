@@ -1,0 +1,550 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "person",
+      "points": [
+        [
+          1761.398681640625,
+          1644.239990234375
+        ],
+        [
+          1903.0679931640625,
+          2134.4267578125
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          2044.1456298828125,
+          1699.3599853515625
+        ],
+        [
+          2181.3876953125,
+          2142.8623046875
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          0.0,
+          2015.9677734375
+        ],
+        [
+          667.3953857421875,
+          2695.81005859375
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          0.0,
+          1771.25
+        ],
+        [
+          1255.474365234375,
+          2281.861083984375
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          814.335693359375,
+          1777.9522705078125
+        ],
+        [
+          1451.84765625,
+          2101.825439453125
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          2984.42529296875,
+          1680.00439453125
+        ],
+        [
+          3110.599609375,
+          1948.43994140625
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          0.0,
+          1677.4044189453125
+        ],
+        [
+          255.50450134277344,
+          1887.4844970703125
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 6
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          1935.0006103515625,
+          1730.0111083984375
+        ],
+        [
+          1983.699462890625,
+          1817.54443359375
+        ]
+      ],
+      "group_id": 7,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 7
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          888.4030151367188,
+          1688.4832763671875
+        ],
+        [
+          1616.6719970703125,
+          1994.8499755859375
+        ]
+      ],
+      "group_id": 8,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 8
+      }
+    },
+    {
+      "label": "book",
+      "points": [
+        [
+          2653.47265625,
+          1963.548828125
+        ],
+        [
+          2781.860595703125,
+          2144.451171875
+        ]
+      ],
+      "group_id": 9,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 9
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          814.8726196289062,
+          1692.4844970703125
+        ],
+        [
+          901.202392578125,
+          1774.1822509765625
+        ]
+      ],
+      "group_id": 10,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 10
+      }
+    },
+    {
+      "label": "book",
+      "points": [
+        [
+          2791.6025390625,
+          2506.674560546875
+        ],
+        [
+          2908.92236328125,
+          2684.658935546875
+        ]
+      ],
+      "group_id": 11,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 11
+      }
+    },
+    {
+      "label": "book",
+      "points": [
+        [
+          2774.135009765625,
+          1975.20556640625
+        ],
+        [
+          2878.17333984375,
+          2135.683349609375
+        ]
+      ],
+      "group_id": 12,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 12
+      }
+    },
+    {
+      "label": "book",
+      "points": [
+        [
+          2872.683349609375,
+          1981.026611328125
+        ],
+        [
+          2992.216796875,
+          2132.751220703125
+        ]
+      ],
+      "group_id": 13,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 13
+      }
+    },
+    {
+      "label": "book",
+      "points": [
+        [
+          2579.065673828125,
+          2503.77099609375
+        ],
+        [
+          2685.317626953125,
+          2684.67333984375
+        ]
+      ],
+      "group_id": 14,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 14
+      }
+    },
+    {
+      "label": "book",
+      "points": [
+        [
+          2903.3994140625,
+          2232.244384765625
+        ],
+        [
+          3016.292236328125,
+          2407.31103515625
+        ]
+      ],
+      "group_id": 15,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 15
+      }
+    },
+    {
+      "label": "book",
+      "points": [
+        [
+          2984.359619140625,
+          1969.39892578125
+        ],
+        [
+          3123.8154296875,
+          2135.712158203125
+        ]
+      ],
+      "group_id": 16,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 16
+      }
+    },
+    {
+      "label": "book",
+      "points": [
+        [
+          2901.185791015625,
+          2500.86767578125
+        ],
+        [
+          3018.505859375,
+          2684.687744140625
+        ]
+      ],
+      "group_id": 17,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 17
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          1502.2998046875,
+          1688.772216796875
+        ],
+        [
+          1741.3668212890625,
+          1936.7833251953125
+        ]
+      ],
+      "group_id": 18,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 18
+      }
+    },
+    {
+      "label": "book",
+      "points": [
+        [
+          2679.82763671875,
+          2506.659912109375
+        ],
+        [
+          2797.1474609375,
+          2687.562255859375
+        ]
+      ],
+      "group_id": 19,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 19
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          324.8159484863281,
+          1712.75
+        ],
+        [
+          676.7756958007812,
+          1785.6944580078125
+        ]
+      ],
+      "group_id": 20,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 20
+      }
+    },
+    {
+      "label": "book",
+      "points": [
+        [
+          3010.75830078125,
+          2240.968994140625
+        ],
+        [
+          3130.291748046875,
+          2404.364501953125
+        ]
+      ],
+      "group_id": 21,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 21
+      }
+    },
+    {
+      "label": "book",
+      "points": [
+        [
+          3015.1962890625,
+          2524.094482421875
+        ],
+        [
+          3123.661865234375,
+          2684.572265625
+        ]
+      ],
+      "group_id": 22,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 22
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          261.4110412597656,
+          1660.6922607421875
+        ],
+        [
+          582.380615234375,
+          1745.3077392578125
+        ]
+      ],
+      "group_id": 23,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 23
+      }
+    },
+    {
+      "label": "book",
+      "points": [
+        [
+          2798.1337890625,
+          2223.534423828125
+        ],
+        [
+          2924.307861328125,
+          2407.3544921875
+        ]
+      ],
+      "group_id": 24,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 24
+      }
+    },
+    {
+      "label": "book",
+      "points": [
+        [
+          2688.605224609375,
+          2226.42333984375
+        ],
+        [
+          2803.71142578125,
+          2410.243408203125
+        ]
+      ],
+      "group_id": 25,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 25
+      }
+    },
+    {
+      "label": "book",
+      "points": [
+        [
+          2576.819091796875,
+          2226.42333984375
+        ],
+        [
+          2694.13916015625,
+          2410.243408203125
+        ]
+      ],
+      "group_id": 26,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 26
+      }
+    },
+    {
+      "label": "book",
+      "points": [
+        [
+          2546.125,
+          1943.2689208984375
+        ],
+        [
+          2665.658447265625,
+          2135.84228515625
+        ]
+      ],
+      "group_id": 27,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 27
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          0.0,
+          1677.9388427734375
+        ],
+        [
+          253.3018798828125,
+          1780.0611572265625
+        ]
+      ],
+      "group_id": 28,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 28
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          1209.306884765625,
+          1665.5311279296875
+        ],
+        [
+          1751.634765625,
+          1939.80224609375
+        ]
+      ],
+      "group_id": 29,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 29
+      }
+    }
+  ],
+  "imagePath": "hdr_04148.png",
+  "imageData": null,
+  "imageHeight": 3120,
+  "imageWidth": 4208
+}

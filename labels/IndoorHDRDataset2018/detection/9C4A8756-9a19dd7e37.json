@@ -1,0 +1,82 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "bed",
+      "points": [
+        [
+          3972.80615234375,
+          2098.3310546875
+        ],
+        [
+          5648.185546875,
+          3209.80224609375
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          2323.03662109375,
+          2369.743408203125
+        ],
+        [
+          2993.1884765625,
+          3139.782470703125
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "laptop",
+      "points": [
+        [
+          4234.369140625,
+          2300.496826171875
+        ],
+        [
+          4561.2724609375,
+          2529.3291015625
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "handbag",
+      "points": [
+        [
+          6763.541015625,
+          2374.094970703125
+        ],
+        [
+          6984.20068359375,
+          2991.5791015625
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    }
+  ],
+  "imagePath": "9C4A8756-9a19dd7e37.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

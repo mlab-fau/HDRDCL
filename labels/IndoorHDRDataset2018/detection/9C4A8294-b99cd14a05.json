@@ -1,0 +1,28 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "couch",
+      "points": [
+        [
+          4562.16259765625,
+          2157.202392578125
+        ],
+        [
+          7324.49560546875,
+          2999.886474609375
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    }
+  ],
+  "imagePath": "9C4A8294-b99cd14a05.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

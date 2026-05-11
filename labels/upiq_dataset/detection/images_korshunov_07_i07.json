@@ -1,0 +1,28 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "book",
+      "points": [
+        [
+          429.12420654296875,
+          645.4450073242188
+        ],
+        [
+          943.0,
+          959.5549926757812
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    }
+  ],
+  "imagePath": "images_korshunov_07_i07.png",
+  "imageData": null,
+  "imageHeight": 1080,
+  "imageWidth": 944
+}

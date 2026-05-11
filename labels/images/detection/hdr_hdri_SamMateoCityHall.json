@@ -1,0 +1,46 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          179.81637573242188,
+          1018.1820678710938
+        ],
+        [
+          608.2836303710938,
+          1870.203125
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          1362.9781494140625,
+          1857.896484375
+        ],
+        [
+          1587.0718994140625,
+          2216.9775390625
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    }
+  ],
+  "imagePath": "hdr_hdri_SamMateoCityHall.png",
+  "imageData": null,
+  "imageHeight": 2272,
+  "imageWidth": 1704
+}

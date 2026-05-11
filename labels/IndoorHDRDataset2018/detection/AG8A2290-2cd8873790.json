@@ -1,0 +1,118 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "sink",
+      "points": [
+        [
+          4867.0361328125,
+          2357.69580078125
+        ],
+        [
+          5704.72607421875,
+          2655.541259765625
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "toilet",
+      "points": [
+        [
+          1031.970703125,
+          2473.58642578125
+        ],
+        [
+          1792.02099609375,
+          3334.431884765625
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "sink",
+      "points": [
+        [
+          4949.6318359375,
+          2222.133544921875
+        ],
+        [
+          5448.15966796875,
+          2298.410888671875
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          7036.12890625,
+          2394.7197265625
+        ],
+        [
+          7767.0,
+          3204.713623046875
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "bottle",
+      "points": [
+        [
+          4502.68896484375,
+          2152.940673828125
+        ],
+        [
+          4568.0693359375,
+          2403.566650390625
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "bottle",
+      "points": [
+        [
+          4567.4423828125,
+          2145.730224609375
+        ],
+        [
+          4628.73681640625,
+          2399.98828125
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    }
+  ],
+  "imagePath": "AG8A2290-2cd8873790.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

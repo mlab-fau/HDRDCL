@@ -1,0 +1,118 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "person",
+      "points": [
+        [
+          2337.71923828125,
+          2516.3955078125
+        ],
+        [
+          2497.097412109375,
+          3064.937744140625
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          2931.5185546875,
+          2574.216552734375
+        ],
+        [
+          3119.673095703125,
+          3114.005615234375
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          239.7573699951172,
+          2539.376708984375
+        ],
+        [
+          507.6009521484375,
+          3114.178955078125
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          2009.5281982421875,
+          2449.0556640625
+        ],
+        [
+          2056.013427734375,
+          2594.9443359375
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "backpack",
+      "points": [
+        [
+          2866.228759765625,
+          2697.384521484375
+        ],
+        [
+          2961.412841796875,
+          2866.615478515625
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "handbag",
+      "points": [
+        [
+          2416.969970703125,
+          2605.0556640625
+        ],
+        [
+          2505.513427734375,
+          2750.9443359375
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    }
+  ],
+  "imagePath": "hdr_03584.png",
+  "imageData": null,
+  "imageHeight": 3120,
+  "imageWidth": 4208
+}

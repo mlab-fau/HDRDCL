@@ -1,0 +1,46 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "couch",
+      "points": [
+        [
+          4112.2255859375,
+          2267.087158203125
+        ],
+        [
+          5411.666015625,
+          3433.04248046875
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "couch",
+      "points": [
+        [
+          291.1728210449219,
+          2249.894775390625
+        ],
+        [
+          1420.8421630859375,
+          3218.315673828125
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    }
+  ],
+  "imagePath": "9C4A2353-d5d28ed5ca.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

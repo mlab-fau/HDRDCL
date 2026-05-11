@@ -1,0 +1,100 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "person",
+      "points": [
+        [
+          391.3978576660156,
+          1875.71630859375
+        ],
+        [
+          468.21466064453125,
+          2146.24658203125
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "clock",
+      "points": [
+        [
+          809.9061889648438,
+          1026.667724609375
+        ],
+        [
+          846.5281982421875,
+          1187.295166015625
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          1239.07568359375,
+          1991.415771484375
+        ],
+        [
+          1404.3211669921875,
+          2139.362060546875
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          339.27276611328125,
+          1882.3707275390625
+        ],
+        [
+          405.3709716796875,
+          2076.814453125
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "bench",
+      "points": [
+        [
+          168.28329467773438,
+          2010.46875
+        ],
+        [
+          296.0135803222656,
+          2114.03125
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    }
+  ],
+  "imagePath": "hdr_hdri_FribourgStreet2.png",
+  "imageData": null,
+  "imageHeight": 2260,
+  "imageWidth": 1698
+}

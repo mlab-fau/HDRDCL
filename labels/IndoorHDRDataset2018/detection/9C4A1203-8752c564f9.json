@@ -1,0 +1,100 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "chair",
+      "points": [
+        [
+          6400.64990234375,
+          2434.31494140625
+        ],
+        [
+          7189.30419921875,
+          3237.044189453125
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          5849.34423828125,
+          1324.9114990234375
+        ],
+        [
+          6037.31396484375,
+          1753.51806640625
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "bed",
+      "points": [
+        [
+          207.4703369140625,
+          2183.8330078125
+        ],
+        [
+          2430.4130859375,
+          3458.755859375
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "teddy bear",
+      "points": [
+        [
+          6463.78515625,
+          2246.750244140625
+        ],
+        [
+          6757.998046875,
+          2435.627685546875
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "vase",
+      "points": [
+        [
+          2524.0537109375,
+          2415.38037109375
+        ],
+        [
+          2634.3837890625,
+          2684.167724609375
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    }
+  ],
+  "imagePath": "9C4A1203-8752c564f9.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

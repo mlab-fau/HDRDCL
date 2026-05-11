@@ -1,0 +1,172 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          2075.77978515625,
+          1.388444423675537
+        ],
+        [
+          2271.0,
+          358.3448791503906
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          611.2271728515625,
+          1599.36962890625
+        ],
+        [
+          723.5728149414062,
+          1699.763671875
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          924.4140625,
+          0.0
+        ],
+        [
+          1116.8359375,
+          153.80966186523438
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          1464.505126953125,
+          1192.6973876953125
+        ],
+        [
+          1796.761474609375,
+          1532.124755859375
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          1666.3818359375,
+          989.5980224609375
+        ],
+        [
+          1855.2181396484375,
+          1241.3797607421875
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          1715.768310546875,
+          175.51988220214844
+        ],
+        [
+          1967.9483642578125,
+          416.14678955078125
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    },
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          1233.7669677734375,
+          1243.099609375
+        ],
+        [
+          1563.633056640625,
+          1600.0560302734375
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 6
+      }
+    },
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          581.66748046875,
+          409.84356689453125
+        ],
+        [
+          689.2324829101562,
+          486.334228515625
+        ]
+      ],
+      "group_id": 7,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 7
+      }
+    },
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          1660.607177734375,
+          683.7457885742188
+        ],
+        [
+          1820.759521484375,
+          887.7208862304688
+        ]
+      ],
+      "group_id": 8,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 8
+      }
+    }
+  ],
+  "imagePath": "hdr_hdri_ClaridgeHotel.png",
+  "imageData": null,
+  "imageHeight": 1704,
+  "imageWidth": 2272
+}

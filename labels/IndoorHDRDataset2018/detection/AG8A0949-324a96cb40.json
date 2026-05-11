@@ -1,0 +1,64 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          1180.81689453125,
+          2103.114013671875
+        ],
+        [
+          1295.2330322265625,
+          2248.404541015625
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          68.23297882080078,
+          2124.817626953125
+        ],
+        [
+          178.56285095214844,
+          2244.682373046875
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          165.4138946533203,
+          2114.13671875
+        ],
+        [
+          259.3985900878906,
+          2212.207763671875
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    }
+  ],
+  "imagePath": "AG8A0949-324a96cb40.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

@@ -1,0 +1,100 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "bed",
+      "points": [
+        [
+          2852.231689453125,
+          2104.49853515625
+        ],
+        [
+          4503.09326171875,
+          3423.0087890625
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          4541.4072265625,
+          1923.8927001953125
+        ],
+        [
+          4958.208984375,
+          2675.770263671875
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          3161.87939453125,
+          1486.8707275390625
+        ],
+        [
+          3558.249755859375,
+          1890.051513671875
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "bottle",
+      "points": [
+        [
+          5336.1103515625,
+          2005.79833984375
+        ],
+        [
+          5405.5771484375,
+          2194.67578125
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "bottle",
+      "points": [
+        [
+          5404.8896484375,
+          2048.935791015625
+        ],
+        [
+          5474.3564453125,
+          2241.445556640625
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    }
+  ],
+  "imagePath": "AG8A7253-00c2b8a682.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

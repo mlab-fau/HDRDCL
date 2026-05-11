@@ -1,0 +1,136 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "chair",
+      "points": [
+        [
+          4529.53271484375,
+          2205.662353515625
+        ],
+        [
+          4893.212890625,
+          2703.281982421875
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          5145.34912109375,
+          2134.599609375
+        ],
+        [
+          5337.40478515625,
+          2457.87060546875
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "dining table",
+      "points": [
+        [
+          4755.14892578125,
+          2155.99755859375
+        ],
+        [
+          5310.88427734375,
+          2515.59130859375
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          4695.8974609375,
+          2116.22265625
+        ],
+        [
+          4961.50634765625,
+          2519.4033203125
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          6629.1787109375,
+          2426.13330078125
+        ],
+        [
+          7021.462890625,
+          2702.18505859375
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "wine glass",
+      "points": [
+        [
+          6918.03125,
+          2218.33935546875
+        ],
+        [
+          6987.498046875,
+          2334.57177734375
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    },
+    {
+      "label": "wine glass",
+      "points": [
+        [
+          6816.9052734375,
+          2225.56787109375
+        ],
+        [
+          6882.2861328125,
+          2334.53564453125
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 6
+      }
+    }
+  ],
+  "imagePath": "AG8A0571-a7cbdae9c3.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

@@ -1,0 +1,226 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "car",
+      "points": [
+        [
+          0.0,
+          1645.3460693359375
+        ],
+        [
+          348.4443359375,
+          1701.12060546875
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "traffic light",
+      "points": [
+        [
+          869.6671752929688,
+          1568.1138916015625
+        ],
+        [
+          886.3994750976562,
+          1607.9527587890625
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "traffic light",
+      "points": [
+        [
+          667.311279296875,
+          1468.7218017578125
+        ],
+        [
+          685.23876953125,
+          1506.9671630859375
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "traffic light",
+      "points": [
+        [
+          784.4612426757812,
+          1489.2486572265625
+        ],
+        [
+          802.3887329101562,
+          1524.306884765625
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          535.2647094726562,
+          1619.8529052734375
+        ],
+        [
+          729.38232421875,
+          1691.9117431640625
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "traffic light",
+      "points": [
+        [
+          1077.9219970703125,
+          1355.0902099609375
+        ],
+        [
+          1097.044677734375,
+          1399.709716796875
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    },
+    {
+      "label": "traffic light",
+      "points": [
+        [
+          202.24349975585938,
+          1522.3031005859375
+        ],
+        [
+          223.75650024414062,
+          1573.296875
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 6
+      }
+    },
+    {
+      "label": "traffic light",
+      "points": [
+        [
+          157.29458618164062,
+          1574.4881591796875
+        ],
+        [
+          175.22207641601562,
+          1601.57861328125
+        ]
+      ],
+      "group_id": 7,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 7
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          262.56390380859375,
+          1616.938232421875
+        ],
+        [
+          290.0527648925781,
+          1674.3062744140625
+        ]
+      ],
+      "group_id": 8,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 8
+      }
+    },
+    {
+      "label": "traffic light",
+      "points": [
+        [
+          176.24566650390625,
+          1531.8092041015625
+        ],
+        [
+          190.58766174316406,
+          1574.835205078125
+        ]
+      ],
+      "group_id": 9,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 9
+      }
+    },
+    {
+      "label": "traffic light",
+      "points": [
+        [
+          889.795654296875,
+          1577.6436767578125
+        ],
+        [
+          904.1376953125,
+          1604.734130859375
+        ]
+      ],
+      "group_id": 10,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 10
+      }
+    },
+    {
+      "label": "traffic light",
+      "points": [
+        [
+          519.3768310546875,
+          1332.890869140625
+        ],
+        [
+          540.8898315429688,
+          1399.8201904296875
+        ]
+      ],
+      "group_id": 11,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 11
+      }
+    }
+  ],
+  "imagePath": "hdr_hdri_AdobeLobby.png",
+  "imageData": null,
+  "imageHeight": 1704,
+  "imageWidth": 2272
+}

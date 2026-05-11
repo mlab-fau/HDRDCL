@@ -1,0 +1,28 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "chair",
+      "points": [
+        [
+          429.5740966796875,
+          764.47998046875
+        ],
+        [
+          458.37591552734375,
+          869.52001953125
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    }
+  ],
+  "imagePath": "images_korshunov_09_i09_03_4.png",
+  "imageData": null,
+  "imageHeight": 1080,
+  "imageWidth": 944
+}

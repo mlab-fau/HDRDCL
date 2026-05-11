@@ -1,0 +1,136 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "person",
+      "points": [
+        [
+          1555.233154296875,
+          170.92906188964844
+        ],
+        [
+          2977.68359375,
+          2081.067138671875
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "cup",
+      "points": [
+        [
+          2637.71484375,
+          1615.50439453125
+        ],
+        [
+          3025.2685546875,
+          2085.21044921875
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "dining table",
+      "points": [
+        [
+          238.24166870117188,
+          1879.8673095703125
+        ],
+        [
+          4047.0,
+          3035.62890625
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "cup",
+      "points": [
+        [
+          3153.687255859375,
+          1615.08154296875
+        ],
+        [
+          3656.2294921875,
+          2170.188720703125
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "cup",
+      "points": [
+        [
+          0.0,
+          1857.1641845703125
+        ],
+        [
+          387.7541198730469,
+          3043.0
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "bowl",
+      "points": [
+        [
+          1161.870849609375,
+          1858.643798828125
+        ],
+        [
+          1551.5540771484375,
+          2177.474609375
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    },
+    {
+      "label": "cup",
+      "points": [
+        [
+          3134.480224609375,
+          2133.040771484375
+        ],
+        [
+          3683.86962890625,
+          2819.096435546875
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 6
+      }
+    }
+  ],
+  "imagePath": "hdr_03226.png",
+  "imageData": null,
+  "imageHeight": 3044,
+  "imageWidth": 4048
+}

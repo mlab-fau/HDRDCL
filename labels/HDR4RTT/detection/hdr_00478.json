@@ -1,0 +1,82 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "person",
+      "points": [
+        [
+          972.77001953125,
+          77.06500244140625
+        ],
+        [
+          1625.22998046875,
+          1073.93505859375
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "vase",
+      "points": [
+        [
+          115.5250015258789,
+          555.1649780273438
+        ],
+        [
+          211.47500610351562,
+          723.8350219726562
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          425.1700134277344,
+          174.9949951171875
+        ],
+        [
+          794.8300170898438,
+          782.0050048828125
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          1.5049999952316284,
+          257.6700134277344
+        ],
+        [
+          505.4949951171875,
+          728.3300170898438
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    }
+  ],
+  "imagePath": "hdr_00478.png",
+  "imageData": null,
+  "imageHeight": 1080,
+  "imageWidth": 1920
+}

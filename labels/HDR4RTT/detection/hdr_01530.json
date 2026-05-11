@@ -1,0 +1,424 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "person",
+      "points": [
+        [
+          35.404998779296875,
+          151.4949951171875
+        ],
+        [
+          357.5950012207031,
+          859.5050048828125
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          645.85498046875,
+          360.260009765625
+        ],
+        [
+          877.14501953125,
+          711.739990234375
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          1514.594970703125,
+          308.6199951171875
+        ],
+        [
+          1798.405029296875,
+          991.3800048828125
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "bottle",
+      "points": [
+        [
+          1523.7650146484375,
+          472.260009765625
+        ],
+        [
+          1571.2349853515625,
+          621.739990234375
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "cup",
+      "points": [
+        [
+          738.6500244140625,
+          635.3599853515625
+        ],
+        [
+          809.3499755859375,
+          764.6400146484375
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          35.650001525878906,
+          561.9299926757812
+        ],
+        [
+          308.3500061035156,
+          980.0700073242188
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          675.8150024414062,
+          816.7349853515625
+        ],
+        [
+          1117.18505859375,
+          1072.2650146484375
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 6
+      }
+    },
+    {
+      "label": "wine glass",
+      "points": [
+        [
+          1571.75,
+          477.3599853515625
+        ],
+        [
+          1622.25,
+          606.6400146484375
+        ]
+      ],
+      "group_id": 7,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 7
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          403.760009765625,
+          412.4049987792969
+        ],
+        [
+          654.239990234375,
+          734.594970703125
+        ]
+      ],
+      "group_id": 8,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 8
+      }
+    },
+    {
+      "label": "cup",
+      "points": [
+        [
+          618.6699829101562,
+          723.7650146484375
+        ],
+        [
+          685.3300170898438,
+          771.2349853515625
+        ]
+      ],
+      "group_id": 9,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 9
+      }
+    },
+    {
+      "label": "bottle",
+      "points": [
+        [
+          999.8400268554688,
+          336.44000244140625
+        ],
+        [
+          1032.1600341796875,
+          449.55999755859375
+        ]
+      ],
+      "group_id": 10,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 10
+      }
+    },
+    {
+      "label": "bottle",
+      "points": [
+        [
+          1071.885009765625,
+          335.42498779296875
+        ],
+        [
+          1095.114990234375,
+          451.57501220703125
+        ]
+      ],
+      "group_id": 11,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 11
+      }
+    },
+    {
+      "label": "bottle",
+      "points": [
+        [
+          1036.844970703125,
+          334.42999267578125
+        ],
+        [
+          1068.155029296875,
+          449.57000732421875
+        ]
+      ],
+      "group_id": 12,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 12
+      }
+    },
+    {
+      "label": "cup",
+      "points": [
+        [
+          825.7550048828125,
+          481.9049987792969
+        ],
+        [
+          875.2449951171875,
+          501.0950012207031
+        ]
+      ],
+      "group_id": 13,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 13
+      }
+    },
+    {
+      "label": "bottle",
+      "points": [
+        [
+          1008.8350219726562,
+          222.60000610351562
+        ],
+        [
+          1042.1650390625,
+          303.3999938964844
+        ]
+      ],
+      "group_id": 14,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 14
+      }
+    },
+    {
+      "label": "wine glass",
+      "points": [
+        [
+          7.820000171661377,
+          461.3349914550781
+        ],
+        [
+          44.18000030517578,
+          595.6649780273438
+        ]
+      ],
+      "group_id": 15,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 15
+      }
+    },
+    {
+      "label": "bottle",
+      "points": [
+        [
+          1042.800048828125,
+          190.43499755859375
+        ],
+        [
+          1083.199951171875,
+          304.56500244140625
+        ]
+      ],
+      "group_id": 16,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 16
+      }
+    },
+    {
+      "label": "dining table",
+      "points": [
+        [
+          374.75,
+          707.1849975585938
+        ],
+        [
+          1031.25,
+          1073.81494140625
+        ]
+      ],
+      "group_id": 17,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 17
+      }
+    },
+    {
+      "label": "dining table",
+      "points": [
+        [
+          1374.6300048828125,
+          593.7899780273438
+        ],
+        [
+          1853.3699951171875,
+          1040.2099609375
+        ]
+      ],
+      "group_id": 18,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 18
+      }
+    },
+    {
+      "label": "dining table",
+      "points": [
+        [
+          5.159999847412109,
+          572.9849853515625
+        ],
+        [
+          174.83999633789062,
+          980.0150146484375
+        ]
+      ],
+      "group_id": 19,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 19
+      }
+    },
+    {
+      "label": "book",
+      "points": [
+        [
+          1689.449951171875,
+          474.3949890136719
+        ],
+        [
+          1800.550048828125,
+          596.60498046875
+        ]
+      ],
+      "group_id": 20,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 20
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          647.9849853515625,
+          415.510009765625
+        ],
+        [
+          853.0150146484375,
+          716.489990234375
+        ]
+      ],
+      "group_id": 21,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 21
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          1757.2099609375,
+          593.7650146484375
+        ],
+        [
+          1916.7900390625,
+          1045.2349853515625
+        ]
+      ],
+      "group_id": 22,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 22
+      }
+    }
+  ],
+  "imagePath": "hdr_01530.png",
+  "imageData": null,
+  "imageHeight": 1080,
+  "imageWidth": 1920
+}

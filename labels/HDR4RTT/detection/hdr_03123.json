@@ -1,0 +1,244 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "person",
+      "points": [
+        [
+          541.4937744140625,
+          1676.8699951171875
+        ],
+        [
+          611.7645263671875,
+          1952.2745361328125
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "sheep",
+      "points": [
+        [
+          2262.737060546875,
+          1718.867919921875
+        ],
+        [
+          2588.537841796875,
+          2028.3431396484375
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          737.51611328125,
+          1699.977294921875
+        ],
+        [
+          818.4338989257812,
+          1850.4560546875
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          836.5234375,
+          1668.5631103515625
+        ],
+        [
+          934.4765625,
+          1918.4146728515625
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          220.85845947265625,
+          1697.3067626953125
+        ],
+        [
+          325.19989013671875,
+          1819.393310546875
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          1024.1229248046875,
+          1674.7054443359375
+        ],
+        [
+          1130.59375,
+          1819.5057373046875
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          1258.284912109375,
+          1688.760986328125
+        ],
+        [
+          1337.0733642578125,
+          1833.561279296875
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 6
+      }
+    },
+    {
+      "label": "sheep",
+      "points": [
+        [
+          2548.10009765625,
+          1823.30078125
+        ],
+        [
+          2859.48388671875,
+          2048.645263671875
+        ]
+      ],
+      "group_id": 7,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 7
+      }
+    },
+    {
+      "label": "sheep",
+      "points": [
+        [
+          616.2869262695312,
+          1997.22412109375
+        ],
+        [
+          910.1464233398438,
+          2295.342529296875
+        ]
+      ],
+      "group_id": 8,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 8
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          1133.787841796875,
+          1657.68408203125
+        ],
+        [
+          1233.8704833984375,
+          1833.7159423828125
+        ]
+      ],
+      "group_id": 9,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 9
+      }
+    },
+    {
+      "label": "horse",
+      "points": [
+        [
+          1050.4771728515625,
+          1820.4830322265625
+        ],
+        [
+          1395.4427490234375,
+          2064.656005859375
+        ]
+      ],
+      "group_id": 10,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 10
+      }
+    },
+    {
+      "label": "sheep",
+      "points": [
+        [
+          1485.73193359375,
+          1651.6964111328125
+        ],
+        [
+          1615.6263427734375,
+          1901.5479736328125
+        ]
+      ],
+      "group_id": 11,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 11
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          309.53497314453125,
+          1691.572021484375
+        ],
+        [
+          388.3233642578125,
+          1836.3724365234375
+        ]
+      ],
+      "group_id": 12,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 12
+      }
+    }
+  ],
+  "imagePath": "hdr_03123.png",
+  "imageData": null,
+  "imageHeight": 3036,
+  "imageWidth": 4048
+}

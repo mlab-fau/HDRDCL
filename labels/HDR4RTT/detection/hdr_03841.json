@@ -1,0 +1,136 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "bicycle",
+      "points": [
+        [
+          774.9843139648438,
+          2798.134521484375
+        ],
+        [
+          949.8573608398438,
+          3040.31005859375
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          2640.213134765625,
+          2829.984375
+        ],
+        [
+          2790.73681640625,
+          3057.571044921875
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          1622.940185546875,
+          2789.409912109375
+        ],
+        [
+          1842.0848388671875,
+          3043.256591796875
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          3803.714111328125,
+          2844.327880859375
+        ],
+        [
+          4009.577392578125,
+          3092.3388671875
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          1494.1468505859375,
+          2714.732177734375
+        ],
+        [
+          1609.253173828125,
+          2881.045654296875
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          2760.5576171875,
+          2644.719970703125
+        ],
+        [
+          2950.92578125,
+          2948.1689453125
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    },
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          3286.6123046875,
+          2708.8388671875
+        ],
+        [
+          3465.91259765625,
+          2898.494384765625
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 6
+      }
+    }
+  ],
+  "imagePath": "hdr_03841.png",
+  "imageData": null,
+  "imageHeight": 3120,
+  "imageWidth": 4208
+}

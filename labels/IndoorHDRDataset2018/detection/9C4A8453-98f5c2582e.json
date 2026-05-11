@@ -1,0 +1,100 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "bed",
+      "points": [
+        [
+          5373.109375,
+          2003.298828125
+        ],
+        [
+          7767.0,
+          3423.51220703125
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          2799.2109375,
+          2458.859619140625
+        ],
+        [
+          3718.62646484375,
+          3388.718017578125
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          3122.1494140625,
+          1576.32861328125
+        ],
+        [
+          3371.4130859375,
+          2070.31591796875
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "laptop",
+      "points": [
+        [
+          3703.919921875,
+          2584.46044921875
+        ],
+        [
+          4120.7216796875,
+          2842.350830078125
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "bed",
+      "points": [
+        [
+          0.0,
+          2632.21923828125
+        ],
+        [
+          654.6360473632812,
+          3413.155029296875
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    }
+  ],
+  "imagePath": "9C4A8453-98f5c2582e.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

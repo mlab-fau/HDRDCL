@@ -1,0 +1,370 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "person",
+      "points": [
+        [
+          1811.456298828125,
+          2210.4912109375
+        ],
+        [
+          2023.9603271484375,
+          2694.84228515625
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          1713.7628173828125,
+          1730.0833740234375
+        ],
+        [
+          1738.1121826171875,
+          1803.02783203125
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          1748.8294677734375,
+          1727.2088623046875
+        ],
+        [
+          1773.1788330078125,
+          1797.235595703125
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          3971.179443359375,
+          1828.36328125
+        ],
+        [
+          3995.52880859375,
+          1889.63671875
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          3592.04296875,
+          1721.4744873046875
+        ],
+        [
+          3611.96533203125,
+          1782.747802734375
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          3556.9873046875,
+          1709.9044189453125
+        ],
+        [
+          3574.696044921875,
+          1774.0955810546875
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          3824.359619140625,
+          1738.7789306640625
+        ],
+        [
+          3844.281982421875,
+          1805.8878173828125
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 6
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          2842.50390625,
+          1825.546630859375
+        ],
+        [
+          2860.212646484375,
+          1872.2310791015625
+        ]
+      ],
+      "group_id": 7,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 7
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          2467.72900390625,
+          1660.822265625
+        ],
+        [
+          2485.437744140625,
+          1719.177734375
+        ]
+      ],
+      "group_id": 8,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 8
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          3622.693603515625,
+          1825.5322265625
+        ],
+        [
+          3649.256591796875,
+          1875.1343994140625
+        ]
+      ],
+      "group_id": 9,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 9
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          2875.37890625,
+          1819.7833251953125
+        ],
+        [
+          2893.087646484375,
+          1863.550048828125
+        ]
+      ],
+      "group_id": 10,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 10
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          1084.7763671875,
+          1559.7689208984375
+        ],
+        [
+          1104.6986083984375,
+          1606.453369140625
+        ]
+      ],
+      "group_id": 11,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 11
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          1049.709716796875,
+          1565.5611572265625
+        ],
+        [
+          1069.6319580078125,
+          1609.3277587890625
+        ]
+      ],
+      "group_id": 12,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 12
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          2708.812255859375,
+          1799.5322265625
+        ],
+        [
+          2726.52099609375,
+          1849.1343994140625
+        ]
+      ],
+      "group_id": 13,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 13
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          1823.587646484375,
+          1724.2911376953125
+        ],
+        [
+          1852.45361328125,
+          1797.9381103515625
+        ]
+      ],
+      "group_id": 14,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 14
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          3727.9482421875,
+          1819.75439453125
+        ],
+        [
+          3743.443359375,
+          1869.356689453125
+        ]
+      ],
+      "group_id": 15,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 15
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          3226.03466796875,
+          1730.2421875
+        ],
+        [
+          3245.95703125,
+          1771.091064453125
+        ]
+      ],
+      "group_id": 16,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 16
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          3133.99560546875,
+          1562.6578369140625
+        ],
+        [
+          3151.704345703125,
+          1609.3421630859375
+        ]
+      ],
+      "group_id": 17,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 17
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          2095.123779296875,
+          1709.933349609375
+        ],
+        [
+          2117.259521484375,
+          1768.2889404296875
+        ]
+      ],
+      "group_id": 18,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 18
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          4109.29833984375,
+          1715.6822509765625
+        ],
+        [
+          4124.79345703125,
+          1779.873291015625
+        ]
+      ],
+      "group_id": 19,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 19
+      }
+    }
+  ],
+  "imagePath": "hdr_04047.png",
+  "imageData": null,
+  "imageHeight": 3120,
+  "imageWidth": 4208
+}

@@ -1,0 +1,154 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "person",
+      "points": [
+        [
+          1703.1551513671875,
+          1480.9744873046875
+        ],
+        [
+          2099.386474609375,
+          2271.692138671875
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          2334.585205078125,
+          1475.167724609375
+        ],
+        [
+          2684.331298828125,
+          2271.72119140625
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "bench",
+      "points": [
+        [
+          3344.58203125,
+          1915.9688720703125
+        ],
+        [
+          4207.0,
+          2371.142333984375
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "bench",
+      "points": [
+        [
+          1616.211669921875,
+          1672.6378173828125
+        ],
+        [
+          2751.780029296875,
+          2262.02880859375
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          2718.25830078125,
+          1566.25439453125
+        ],
+        [
+          3041.441650390625,
+          2053.5234375
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          2856.78271484375,
+          1592.39892578125
+        ],
+        [
+          3089.208984375,
+          2050.489990234375
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    },
+    {
+      "label": "bird",
+      "points": [
+        [
+          1895.397216796875,
+          363.20556640625
+        ],
+        [
+          1975.086181640625,
+          523.683349609375
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 6
+      }
+    },
+    {
+      "label": "bird",
+      "points": [
+        [
+          1498.2342529296875,
+          366.0655517578125
+        ],
+        [
+          1673.107421875,
+          532.37890625
+        ]
+      ],
+      "group_id": 7,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 7
+      }
+    }
+  ],
+  "imagePath": "hdr_03015.png",
+  "imageData": null,
+  "imageHeight": 3120,
+  "imageWidth": 4208
+}

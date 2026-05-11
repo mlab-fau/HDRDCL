@@ -1,0 +1,28 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "chair",
+      "points": [
+        [
+          470.3135986328125,
+          524.7813720703125
+        ],
+        [
+          492.1864013671875,
+          557.7176513671875
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    }
+  ],
+  "imagePath": "hdr_Meylan_coupole.png",
+  "imageData": null,
+  "imageHeight": 859,
+  "imageWidth": 1155
+}

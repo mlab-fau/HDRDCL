@@ -1,0 +1,82 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "bottle",
+      "points": [
+        [
+          6400.1240234375,
+          2034.4068603515625
+        ],
+        [
+          6477.763671875,
+          2255.974609375
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "bottle",
+      "points": [
+        [
+          6780.47265625,
+          2020.0755615234375
+        ],
+        [
+          6849.93994140625,
+          2230.74658203125
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "sink",
+      "points": [
+        [
+          5744.65869140625,
+          2234.648681640625
+        ],
+        [
+          6647.72900390625,
+          2688.680908203125
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "cup",
+      "points": [
+        [
+          6476.751953125,
+          2023.635986328125
+        ],
+        [
+          6603.42724609375,
+          2241.571533203125
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    }
+  ],
+  "imagePath": "9C4A5627-41a51583dd.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

@@ -1,0 +1,64 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "person",
+      "points": [
+        [
+          452.3085021972656,
+          1239.2939453125
+        ],
+        [
+          713.1915283203125,
+          1462.7060546875
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          1584.0615234375,
+          1448.845947265625
+        ],
+        [
+          1874.6385498046875,
+          1762.7540283203125
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          3486.924072265625,
+          1304.072021484375
+        ],
+        [
+          3724.47607421875,
+          1451.1280517578125
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    }
+  ],
+  "imagePath": "hdr_03417.png",
+  "imageData": null,
+  "imageHeight": 3024,
+  "imageWidth": 4032
+}

@@ -1,0 +1,118 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "tie",
+      "points": [
+        [
+          1462.4849853515625,
+          465.510009765625
+        ],
+        [
+          1566.5150146484375,
+          766.489990234375
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          1261.8349609375,
+          133.34500122070312
+        ],
+        [
+          1901.1650390625,
+          1073.655029296875
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          383.3599853515625,
+          2.680000066757202
+        ],
+        [
+          1724.6400146484375,
+          1077.3199462890625
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          493.92498779296875,
+          137.86500549316406
+        ],
+        [
+          913.0750122070312,
+          771.135009765625
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          326.1300048828125,
+          685.0850219726562
+        ],
+        [
+          501.8699951171875,
+          1071.9150390625
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "cup",
+      "points": [
+        [
+          1518.4100341796875,
+          810.5150146484375
+        ],
+        [
+          1637.5899658203125,
+          908.4849853515625
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    }
+  ],
+  "imagePath": "hdr_01601.png",
+  "imageData": null,
+  "imageHeight": 1080,
+  "imageWidth": 1920
+}

@@ -1,0 +1,100 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "car",
+      "points": [
+        [
+          2535.50341796875,
+          1826.1273193359375
+        ],
+        [
+          2784.767333984375,
+          1985.94677734375
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          3202.58056640625,
+          1818.7908935546875
+        ],
+        [
+          3549.915283203125,
+          2007.6683349609375
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          4590.01806640625,
+          1908.1229248046875
+        ],
+        [
+          4994.56103515625,
+          2213.232666015625
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "couch",
+      "points": [
+        [
+          2393.555419921875,
+          1948.365478515625
+        ],
+        [
+          2712.2861328125,
+          2115.449462890625
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          4555.123046875,
+          1937.5765380859375
+        ],
+        [
+          4653.19384765625,
+          2104.660400390625
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    }
+  ],
+  "imagePath": "AG8A8227-c4bbd91636.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

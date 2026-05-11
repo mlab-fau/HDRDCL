@@ -1,0 +1,28 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "clock",
+      "points": [
+        [
+          678.5280151367188,
+          473.4956970214844
+        ],
+        [
+          814.27197265625,
+          590.3265380859375
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    }
+  ],
+  "imagePath": "hdr_hdri_ClockBuilding.png",
+  "imageData": null,
+  "imageHeight": 2048,
+  "imageWidth": 1536
+}

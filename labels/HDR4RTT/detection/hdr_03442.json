@@ -1,0 +1,226 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "car",
+      "points": [
+        [
+          813.823486328125,
+          2031.2879638671875
+        ],
+        [
+          1435.2764892578125,
+          2336.7119140625
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          798.8715209960938,
+          1950.8719482421875
+        ],
+        [
+          1047.0284423828125,
+          2097.927978515625
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "clock",
+      "points": [
+        [
+          2019.2130126953125,
+          1334.592041015625
+        ],
+        [
+          2218.5869140625,
+          1538.2080078125
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          0.0,
+          1961.6939697265625
+        ],
+        [
+          793.5479736328125,
+          2750.7060546875
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "stop sign",
+      "points": [
+        [
+          3052.70703125,
+          1752.1419677734375
+        ],
+        [
+          3192.693115234375,
+          1885.0579833984375
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          3609.14404296875,
+          1944.1240234375
+        ],
+        [
+          3761.85595703125,
+          2323.075927734375
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          3072.142578125,
+          1976.2259521484375
+        ],
+        [
+          3103.95751953125,
+          2092.174072265625
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 6
+      }
+    },
+    {
+      "label": "stop sign",
+      "points": [
+        [
+          1356.1064453125,
+          1802.654052734375
+        ],
+        [
+          1455.79345703125,
+          1912.946044921875
+        ]
+      ],
+      "group_id": 7,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 7
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          1139.9744873046875,
+          1945.5379638671875
+        ],
+        [
+          1205.7254638671875,
+          2038.862060546875
+        ]
+      ],
+      "group_id": 8,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 8
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          2284.506103515625,
+          1746.4439697265625
+        ],
+        [
+          2343.89404296875,
+          1899.156005859375
+        ]
+      ],
+      "group_id": 9,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 9
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          1301.72705078125,
+          1962.1419677734375
+        ],
+        [
+          1356.873046875,
+          2095.05810546875
+        ]
+      ],
+      "group_id": 10,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 10
+      }
+    },
+    {
+      "label": "truck",
+      "points": [
+        [
+          1191.2144775390625,
+          1925.531982421875
+        ],
+        [
+          1511.4854736328125,
+          2100.867919921875
+        ]
+      ],
+      "group_id": 11,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 11
+      }
+    }
+  ],
+  "imagePath": "hdr_03442.png",
+  "imageData": null,
+  "imageHeight": 3024,
+  "imageWidth": 4032
+}

@@ -1,0 +1,172 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "tv",
+      "points": [
+        [
+          5326.521484375,
+          1965.5916748046875
+        ],
+        [
+          5698.3740234375,
+          2285.23046875
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "couch",
+      "points": [
+        [
+          400.51727294921875,
+          2151.55615234375
+        ],
+        [
+          3673.636962890625,
+          3408.31787109375
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "couch",
+      "points": [
+        [
+          6775.90087890625,
+          2059.544921875
+        ],
+        [
+          7767.0,
+          3014.8291015625
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "vase",
+      "points": [
+        [
+          4988.16845703125,
+          1790.290283203125
+        ],
+        [
+          5057.6357421875,
+          1924.683837890625
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "book",
+      "points": [
+        [
+          5823.2890625,
+          3034.35693359375
+        ],
+        [
+          6370.8525390625,
+          3219.602294921875
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "dining table",
+      "points": [
+        [
+          5078.451171875,
+          2534.669677734375
+        ],
+        [
+          6524.99853515625,
+          3406.411865234375
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    },
+    {
+      "label": "remote",
+      "points": [
+        [
+          5955.35693359375,
+          2840.75048828125
+        ],
+        [
+          6296.2470703125,
+          2919.642822265625
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 6
+      }
+    },
+    {
+      "label": "remote",
+      "points": [
+        [
+          5950.8544921875,
+          2534.885498046875
+        ],
+        [
+          6065.2705078125,
+          2636.588623046875
+        ]
+      ],
+      "group_id": 7,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 7
+      }
+    },
+    {
+      "label": "book",
+      "points": [
+        [
+          5836.66064453125,
+          2548.85693359375
+        ],
+        [
+          6134.9599609375,
+          2734.102294921875
+        ]
+      ],
+      "group_id": 8,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 8
+      }
+    }
+  ],
+  "imagePath": "9C4A9141-0afbc7b366.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

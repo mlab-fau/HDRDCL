@@ -1,0 +1,118 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "car",
+      "points": [
+        [
+          0.0,
+          1634.484130859375
+        ],
+        [
+          262.9079895019531,
+          2042.434326171875
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          0.0,
+          1535.6396484375
+        ],
+        [
+          36.98400115966797,
+          1608.4195556640625
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          457.31201171875,
+          1507.3375244140625
+        ],
+        [
+          515.4879760742188,
+          1551.388427734375
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          402.8840026855469,
+          1512.9979248046875
+        ],
+        [
+          466.71600341796875,
+          1562.794677734375
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          1075.85205078125,
+          1451.9940185546875
+        ],
+        [
+          1105.748046875,
+          1566.90966796875
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          1023.8319702148438,
+          1456.0142822265625
+        ],
+        [
+          1057.7679443359375,
+          1524.9635009765625
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    }
+  ],
+  "imagePath": "hdr_hdri_StreetLamp.png",
+  "imageData": null,
+  "imageHeight": 2048,
+  "imageWidth": 1536
+}

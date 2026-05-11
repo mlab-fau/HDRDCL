@@ -1,0 +1,46 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "bed",
+      "points": [
+        [
+          2327.8916015625,
+          1888.3612060546875
+        ],
+        [
+          4469.1083984375,
+          3279.5166015625
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          2167.029296875,
+          2145.28076171875
+        ],
+        [
+          2477.58740234375,
+          2490.34521484375
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    }
+  ],
+  "imagePath": "9C4A8241-149ce906fc.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

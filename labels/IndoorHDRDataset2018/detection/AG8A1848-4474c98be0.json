@@ -1,0 +1,28 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "person",
+      "points": [
+        [
+          3151.31982421875,
+          1876.403564453125
+        ],
+        [
+          3228.95947265625,
+          2050.751953125
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    }
+  ],
+  "imagePath": "AG8A1848-4474c98be0.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

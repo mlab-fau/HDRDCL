@@ -1,0 +1,118 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "person",
+      "points": [
+        [
+          977.5399780273438,
+          181.55999755859375
+        ],
+        [
+          1676.4599609375,
+          1078.43994140625
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          389.7550048828125,
+          241.97500610351562
+        ],
+        [
+          843.2449951171875,
+          853.0250244140625
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "vase",
+      "points": [
+        [
+          65.5199966430664,
+          588.14501953125
+        ],
+        [
+          162.47999572753906,
+          760.85498046875
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "bottle",
+      "points": [
+        [
+          1349.5250244140625,
+          435.7900085449219
+        ],
+        [
+          1445.4749755859375,
+          680.2100219726562
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "bottle",
+      "points": [
+        [
+          1006.5800170898438,
+          565.27001953125
+        ],
+        [
+          1091.4200439453125,
+          712.72998046875
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          0.0,
+          285.93328857421875
+        ],
+        [
+          430.7317199707031,
+          745.48779296875
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    }
+  ],
+  "imagePath": "hdr_00543.png",
+  "imageData": null,
+  "imageHeight": 1080,
+  "imageWidth": 1920
+}

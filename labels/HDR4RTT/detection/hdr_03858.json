@@ -1,0 +1,64 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "cow",
+      "points": [
+        [
+          1987.0635986328125,
+          1666.3978271484375
+        ],
+        [
+          2144.22802734375,
+          1765.6021728515625
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "cow",
+      "points": [
+        [
+          2364.085205078125,
+          1732.856689453125
+        ],
+        [
+          2510.181640625,
+          1829.143310546875
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "cow",
+      "points": [
+        [
+          2048.72607421875,
+          1620.421142578125
+        ],
+        [
+          2146.123779296875,
+          1670.0233154296875
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    }
+  ],
+  "imagePath": "hdr_03858.png",
+  "imageData": null,
+  "imageHeight": 3120,
+  "imageWidth": 4208
+}

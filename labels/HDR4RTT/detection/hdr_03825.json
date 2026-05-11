@@ -1,0 +1,154 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "person",
+      "points": [
+        [
+          1796.6954345703125,
+          2434.10546875
+        ],
+        [
+          1891.8795166015625,
+          2682.11669921875
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          2046.0194091796875,
+          2286.2666015625
+        ],
+        [
+          2247.45556640625,
+          2636.39990234375
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "clock",
+      "points": [
+        [
+          2404.587158203125,
+          1566.8177490234375
+        ],
+        [
+          2780.896240234375,
+          1940.2933349609375
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          1621.0333251953125,
+          2668.538818359375
+        ],
+        [
+          1782.625,
+          2829.0166015625
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          3082.984619140625,
+          2642.177734375
+        ],
+        [
+          3222.4404296875,
+          2875.60009765625
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          2924.888671875,
+          2587.24560546875
+        ],
+        [
+          3124.111328125,
+          2829.421142578125
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    },
+    {
+      "label": "truck",
+      "points": [
+        [
+          0.0,
+          2770.60009765625
+        ],
+        [
+          1444.244384765625,
+          3119.0
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 6
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          3569.425048828125,
+          2214.448974609375
+        ],
+        [
+          3731.0166015625,
+          2482.884521484375
+        ]
+      ],
+      "group_id": 7,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 7
+      }
+    }
+  ],
+  "imagePath": "hdr_03825.png",
+  "imageData": null,
+  "imageHeight": 3120,
+  "imageWidth": 4208
+}

@@ -1,0 +1,172 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "person",
+      "points": [
+        [
+          1974.30810546875,
+          1561.68994140625
+        ],
+        [
+          2051.783447265625,
+          1803.8656005859375
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          2453.8447265625,
+          1398.5400390625
+        ],
+        [
+          2619.863525390625,
+          1917.9044189453125
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          2967.944091796875,
+          1409.08447265625
+        ],
+        [
+          3324.3310546875,
+          2716.248779296875
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "boat",
+      "points": [
+        [
+          1952.5010986328125,
+          1470.1700439453125
+        ],
+        [
+          2007.840576171875,
+          1525.6077880859375
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "umbrella",
+      "points": [
+        [
+          2157.608154296875,
+          1536.2244873046875
+        ],
+        [
+          2396.675048828125,
+          1670.4422607421875
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "boat",
+      "points": [
+        [
+          1669.6116943359375,
+          1461.5755615234375
+        ],
+        [
+          1758.155029296875,
+          1502.4244384765625
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    },
+    {
+      "label": "boat",
+      "points": [
+        [
+          1448.2862548828125,
+          1444.314453125
+        ],
+        [
+          1530.1888427734375,
+          1470.574462890625
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 6
+      }
+    },
+    {
+      "label": "boat",
+      "points": [
+        [
+          1340.982177734375,
+          1481.7977294921875
+        ],
+        [
+          1405.1761474609375,
+          1522.6466064453125
+        ]
+      ],
+      "group_id": 7,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 7
+      }
+    },
+    {
+      "label": "boat",
+      "points": [
+        [
+          1743.7447509765625,
+          1548.155517578125
+        ],
+        [
+          1909.7635498046875,
+          1606.5111083984375
+        ]
+      ],
+      "group_id": 8,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 8
+      }
+    }
+  ],
+  "imagePath": "hdr_03695.png",
+  "imageData": null,
+  "imageHeight": 3120,
+  "imageWidth": 4208
+}

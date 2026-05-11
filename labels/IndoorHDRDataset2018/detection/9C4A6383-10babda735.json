@@ -1,0 +1,208 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "keyboard",
+      "points": [
+        [
+          4475.763671875,
+          2318.927734375
+        ],
+        [
+          5076.44873046875,
+          2456.95361328125
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "mouse",
+      "points": [
+        [
+          5105.23486328125,
+          2376.75634765625
+        ],
+        [
+          5227.82373046875,
+          2456.666015625
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "tv",
+      "points": [
+        [
+          4375.54833984375,
+          1857.6129150390625
+        ],
+        [
+          4788.26416015625,
+          2195.4130859375
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "sink",
+      "points": [
+        [
+          1490.869384765625,
+          2114.280517578125
+        ],
+        [
+          1903.5848388671875,
+          2183.29345703125
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          6584.61376953125,
+          2355.77197265625
+        ],
+        [
+          6989.15673828125,
+          3042.268798828125
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          6850.99169921875,
+          2528.91552734375
+        ],
+        [
+          7386.2958984375,
+          3110.0771484375
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    },
+    {
+      "label": "mouse",
+      "points": [
+        [
+          6857.14111328125,
+          2222.27734375
+        ],
+        [
+          6967.47119140625,
+          2269.496826171875
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 6
+      }
+    },
+    {
+      "label": "tv",
+      "points": [
+        [
+          820.4545288085938,
+          1854.9696044921875
+        ],
+        [
+          992.0787963867188,
+          2000.260009765625
+        ]
+      ],
+      "group_id": 7,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 7
+      }
+    },
+    {
+      "label": "cup",
+      "points": [
+        [
+          1035.40966796875,
+          1999.0732421875
+        ],
+        [
+          1100.790283203125,
+          2093.511962890625
+        ]
+      ],
+      "group_id": 8,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 8
+      }
+    },
+    {
+      "label": "sink",
+      "points": [
+        [
+          1086.7513427734375,
+          2074.685302734375
+        ],
+        [
+          1405.4820556640625,
+          2150.962890625
+        ]
+      ],
+      "group_id": 9,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 9
+      }
+    },
+    {
+      "label": "keyboard",
+      "points": [
+        [
+          824.2171630859375,
+          2071.2509765625
+        ],
+        [
+          1053.049560546875,
+          2114.837890625
+        ]
+      ],
+      "group_id": 10,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 10
+      }
+    }
+  ],
+  "imagePath": "9C4A6383-10babda735.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

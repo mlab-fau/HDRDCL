@@ -1,0 +1,82 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "horse",
+      "points": [
+        [
+          2927.047607421875,
+          1736.207763671875
+        ],
+        [
+          4018.34423828125,
+          2322.68115234375
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "horse",
+      "points": [
+        [
+          1494.20166015625,
+          1627.195556640625
+        ],
+        [
+          2040.9566650390625,
+          2059.026611328125
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          2433.791015625,
+          1477.941162109375
+        ],
+        [
+          3108.933837890625,
+          1714.2811279296875
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "horse",
+      "points": [
+        [
+          2100.537109375,
+          1563.4666748046875
+        ],
+        [
+          2800.029541015625,
+          2030.3111572265625
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    }
+  ],
+  "imagePath": "hdr_03818.png",
+  "imageData": null,
+  "imageHeight": 3120,
+  "imageWidth": 4208
+}

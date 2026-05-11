@@ -1,0 +1,82 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "couch",
+      "points": [
+        [
+          6629.52294921875,
+          2143.752197265625
+        ],
+        [
+          7767.0,
+          2797.558837890625
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "remote",
+      "points": [
+        [
+          7050.43115234375,
+          3135.035400390625
+        ],
+        [
+          7344.64404296875,
+          3323.912841796875
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "couch",
+      "points": [
+        [
+          165.25205993652344,
+          2141.4326171875
+        ],
+        [
+          1926.4437255859375,
+          3263.80078125
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "tv",
+      "points": [
+        [
+          3608.761962890625,
+          2198.631591796875
+        ],
+        [
+          4450.5380859375,
+          2663.560791015625
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    }
+  ],
+  "imagePath": "AG8A6383-695ecde991.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

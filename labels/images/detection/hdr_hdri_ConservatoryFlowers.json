@@ -1,0 +1,118 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "person",
+      "points": [
+        [
+          406.9483337402344,
+          1033.057861328125
+        ],
+        [
+          430.8516540527344,
+          1111.14208984375
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          457.81982421875,
+          1023.5596923828125
+        ],
+        [
+          484.1134948730469,
+          1108.01806640625
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          1946.4886474609375,
+          979.5712280273438
+        ],
+        [
+          1965.611328125,
+          1025.7843017578125
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          1965.433837890625,
+          993.8343505859375
+        ],
+        [
+          1982.1661376953125,
+          1027.2989501953125
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          551.1611938476562,
+          1094.70166015625
+        ],
+        [
+          606.1388549804688,
+          1150.47607421875
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          800.8859252929688,
+          968.4794311523438
+        ],
+        [
+          847.4974365234375,
+          1024.25390625
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    }
+  ],
+  "imagePath": "hdr_hdri_ConservatoryFlowers.png",
+  "imageData": null,
+  "imageHeight": 1704,
+  "imageWidth": 2272
+}

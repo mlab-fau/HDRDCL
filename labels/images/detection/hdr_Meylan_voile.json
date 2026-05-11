@@ -1,0 +1,46 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "bicycle",
+      "points": [
+        [
+          1307.731201171875,
+          1035.329833984375
+        ],
+        [
+          1516.8853759765625,
+          1291.892333984375
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "bench",
+      "points": [
+        [
+          2093.618408203125,
+          1600.9473876953125
+        ],
+        [
+          2271.0,
+          1701.3414306640625
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    }
+  ],
+  "imagePath": "hdr_Meylan_voile.png",
+  "imageData": null,
+  "imageHeight": 1704,
+  "imageWidth": 2272
+}

@@ -1,0 +1,244 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "bus",
+      "points": [
+        [
+          0.0,
+          1138.3436279296875
+        ],
+        [
+          1310.553466796875,
+          1806.9730224609375
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          1566.708984375,
+          1360.853759765625
+        ],
+        [
+          1870.4306640625,
+          1489.5333251953125
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          2227.859375,
+          1363.6141357421875
+        ],
+        [
+          2389.655029296875,
+          1439.30810546875
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          2118.506103515625,
+          1361.19091796875
+        ],
+        [
+          2229.20849609375,
+          1421.74609375
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          4122.30517578125,
+          1346.1146240234375
+        ],
+        [
+          4238.6845703125,
+          1424.3316650390625
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          5181.3544921875,
+          1394.40380859375
+        ],
+        [
+          5394.24365234375,
+          1810.72021484375
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          4667.6806640625,
+          1338.7076416015625
+        ],
+        [
+          4752.8359375,
+          1399.2626953125
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 6
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          3439.514404296875,
+          1346.302001953125
+        ],
+        [
+          3527.508544921875,
+          1386.672119140625
+        ]
+      ],
+      "group_id": 7,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 7
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          1829.201904296875,
+          1356.0697021484375
+        ],
+        [
+          1905.8419189453125,
+          1441.856201171875
+        ]
+      ],
+      "group_id": 8,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 8
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          2056.8173828125,
+          1358.7177734375
+        ],
+        [
+          2139.134521484375,
+          1414.2266845703125
+        ]
+      ],
+      "group_id": 9,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 9
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          4389.0419921875,
+          1336.134521484375
+        ],
+        [
+          4556.5146484375,
+          1411.828369140625
+        ]
+      ],
+      "group_id": 10,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 10
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          1975.3856201171875,
+          1353.771484375
+        ],
+        [
+          2043.5101318359375,
+          1399.187744140625
+        ]
+      ],
+      "group_id": 11,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 11
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          3335.62744140625,
+          1343.84130859375
+        ],
+        [
+          3403.751953125,
+          1376.6419677734375
+        ]
+      ],
+      "group_id": 12,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 12
+      }
+    }
+  ],
+  "imagePath": "Scenes_Outdoor_scene 67_rep2.png",
+  "imageData": null,
+  "imageHeight": 2698,
+  "imageWidth": 5396
+}

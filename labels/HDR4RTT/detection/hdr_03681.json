@@ -1,0 +1,100 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "person",
+      "points": [
+        [
+          1273.33642578125,
+          832.260009765625
+        ],
+        [
+          3048.63037109375,
+          3113.962158203125
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          2470.512451171875,
+          1486.6221923828125
+        ],
+        [
+          2811.404296875,
+          1720.04443359375
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "fire hydrant",
+      "points": [
+        [
+          4018.727783203125,
+          1610.1221923828125
+        ],
+        [
+          4178.10546875,
+          1989.433349609375
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          3489.97705078125,
+          1510.4266357421875
+        ],
+        [
+          3762.247802734375,
+          1603.7955322265625
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "stop sign",
+      "points": [
+        [
+          3324.1884765625,
+          1276.3255615234375
+        ],
+        [
+          3439.294921875,
+          1390.118896484375
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    }
+  ],
+  "imagePath": "hdr_03681.png",
+  "imageData": null,
+  "imageHeight": 3120,
+  "imageWidth": 4208
+}

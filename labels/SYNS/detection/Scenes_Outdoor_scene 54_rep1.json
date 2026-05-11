@@ -1,0 +1,46 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "truck",
+      "points": [
+        [
+          0.0,
+          1254.20166015625
+        ],
+        [
+          304.8164978027344,
+          1544.146484375
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "truck",
+      "points": [
+        [
+          332.689208984375,
+          1319.8917236328125
+        ],
+        [
+          636.185791015625,
+          1450.9971923828125
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    }
+  ],
+  "imagePath": "Scenes_Outdoor_scene 54_rep1.png",
+  "imageData": null,
+  "imageHeight": 2696,
+  "imageWidth": 5392
+}

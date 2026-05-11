@@ -1,0 +1,586 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "sink",
+      "points": [
+        [
+          1287.02001953125,
+          2228.69677734375
+        ],
+        [
+          2014.3800048828125,
+          2432.103271484375
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "refrigerator",
+      "points": [
+        [
+          55.084022521972656,
+          1755.3521728515625
+        ],
+        [
+          369.7284851074219,
+          2409.158935546875
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          4889.83447265625,
+          2105.05615234375
+        ],
+        [
+          5208.5654296875,
+          2584.514404296875
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          4550.02490234375,
+          2130.032470703125
+        ],
+        [
+          4860.5830078125,
+          2649.4453125
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          6261.77685546875,
+          2081.428466796875
+        ],
+        [
+          6498.78173828125,
+          2248.512451171875
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "bowl",
+      "points": [
+        [
+          1944.7916259765625,
+          2268.39990234375
+        ],
+        [
+          2198.1416015625,
+          2442.748291015625
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    },
+    {
+      "label": "bottle",
+      "points": [
+        [
+          2192.416748046875,
+          2069.956298828125
+        ],
+        [
+          2278.22900390625,
+          2375.06591796875
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 6
+      }
+    },
+    {
+      "label": "microwave",
+      "points": [
+        [
+          2825.69091796875,
+          2109.46142578125
+        ],
+        [
+          3299.70068359375,
+          2425.468017578125
+        ]
+      ],
+      "group_id": 7,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 7
+      }
+    },
+    {
+      "label": "dining table",
+      "points": [
+        [
+          4454.30078125,
+          2115.934814453125
+        ],
+        [
+          5304.24951171875,
+          2577.231689453125
+        ]
+      ],
+      "group_id": 8,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 8
+      }
+    },
+    {
+      "label": "bottle",
+      "points": [
+        [
+          2293.6435546875,
+          1936.9652099609375
+        ],
+        [
+          2363.110595703125,
+          2227.5458984375
+        ]
+      ],
+      "group_id": 9,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 9
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          4814.05615234375,
+          2045.7890625
+        ],
+        [
+          4912.126953125,
+          2147.492431640625
+        ]
+      ],
+      "group_id": 10,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 10
+      }
+    },
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          6904.841796875,
+          1408.2197265625
+        ],
+        [
+          7186.7958984375,
+          1716.9617919921875
+        ]
+      ],
+      "group_id": 11,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 11
+      }
+    },
+    {
+      "label": "microwave",
+      "points": [
+        [
+          597.8123168945312,
+          1952.2493896484375
+        ],
+        [
+          793.954345703125,
+          2061.21728515625
+        ]
+      ],
+      "group_id": 12,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 12
+      }
+    },
+    {
+      "label": "vase",
+      "points": [
+        [
+          6864.9296875,
+          2052.1904296875
+        ],
+        [
+          7036.5537109375,
+          2313.713134765625
+        ]
+      ],
+      "group_id": 13,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 13
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          6767.20263671875,
+          2059.922607421875
+        ],
+        [
+          7065.501953125,
+          2212.4775390625
+        ]
+      ],
+      "group_id": 14,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 14
+      }
+    },
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          4696.58544921875,
+          1984.38232421875
+        ],
+        [
+          4823.26025390625,
+          2140.569580078125
+        ]
+      ],
+      "group_id": 15,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 15
+      }
+    },
+    {
+      "label": "orange",
+      "points": [
+        [
+          6561.85595703125,
+          2294.0234375
+        ],
+        [
+          6659.92724609375,
+          2377.5654296875
+        ]
+      ],
+      "group_id": 16,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 16
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          4530.54443359375,
+          2047.6412353515625
+        ],
+        [
+          4689.90966796875,
+          2501.673583984375
+        ]
+      ],
+      "group_id": 17,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 17
+      }
+    },
+    {
+      "label": "bottle",
+      "points": [
+        [
+          2378.54541015625,
+          1962.2291259765625
+        ],
+        [
+          2460.271240234375,
+          2234.648681640625
+        ]
+      ],
+      "group_id": 18,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 18
+      }
+    },
+    {
+      "label": "bottle",
+      "points": [
+        [
+          2487.843505859375,
+          2038.0211181640625
+        ],
+        [
+          2557.310546875,
+          2255.956787109375
+        ]
+      ],
+      "group_id": 19,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 19
+      }
+    },
+    {
+      "label": "orange",
+      "points": [
+        [
+          6659.037109375,
+          2272.427734375
+        ],
+        [
+          6740.7626953125,
+          2359.601806640625
+        ]
+      ],
+      "group_id": 20,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 20
+      }
+    },
+    {
+      "label": "bottle",
+      "points": [
+        [
+          1775.7769775390625,
+          2052.478271484375
+        ],
+        [
+          1845.243896484375,
+          2255.884765625
+        ]
+      ],
+      "group_id": 21,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 21
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          4449.58740234375,
+          2152.257568359375
+        ],
+        [
+          4617.125,
+          2540.9091796875
+        ]
+      ],
+      "group_id": 22,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 22
+      }
+    },
+    {
+      "label": "apple",
+      "points": [
+        [
+          6181.50732421875,
+          2254.464111328125
+        ],
+        [
+          6287.7509765625,
+          2338.006103515625
+        ]
+      ],
+      "group_id": 23,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 23
+      }
+    },
+    {
+      "label": "apple",
+      "points": [
+        [
+          6302.88232421875,
+          2258.04248046875
+        ],
+        [
+          6409.1259765625,
+          2345.216796875
+        ]
+      ],
+      "group_id": 24,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 24
+      }
+    },
+    {
+      "label": "bottle",
+      "points": [
+        [
+          2556.663330078125,
+          2052.388427734375
+        ],
+        [
+          2617.95751953125,
+          2273.9560546875
+        ]
+      ],
+      "group_id": 25,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 25
+      }
+    },
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          6742.21923828125,
+          1651.0057373046875
+        ],
+        [
+          7183.5390625,
+          2315.709228515625
+        ]
+      ],
+      "group_id": 26,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 26
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          5170.10986328125,
+          2045.80712890625
+        ],
+        [
+          5264.09423828125,
+          2143.878173828125
+        ]
+      ],
+      "group_id": 27,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 27
+      }
+    },
+    {
+      "label": "bottle",
+      "points": [
+        [
+          2597.060791015625,
+          2088.549072265625
+        ],
+        [
+          2670.614013671875,
+          2270.162109375
+        ]
+      ],
+      "group_id": 28,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 28
+      }
+    },
+    {
+      "label": "bowl",
+      "points": [
+        [
+          2050.448486328125,
+          2204.2060546875
+        ],
+        [
+          2209.81396484375,
+          2269.586669921875
+        ]
+      ],
+      "group_id": 29,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 29
+      }
+    },
+    {
+      "label": "orange",
+      "points": [
+        [
+          6557.689453125,
+          2245.833251953125
+        ],
+        [
+          6652.75,
+          2297.22216796875
+        ]
+      ],
+      "group_id": 30,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 30
+      }
+    },
+    {
+      "label": "orange",
+      "points": [
+        [
+          6624.35595703125,
+          2226.388916015625
+        ],
+        [
+          6698.58349609375,
+          2283.333251953125
+        ]
+      ],
+      "group_id": 31,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 31
+      }
+    }
+  ],
+  "imagePath": "9C4A7359-2f7b3d8275.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

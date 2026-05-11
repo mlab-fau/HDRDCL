@@ -1,0 +1,550 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "car",
+      "points": [
+        [
+          5076.71142578125,
+          2218.609130859375
+        ],
+        [
+          5240.16357421875,
+          2280.357421875
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          1574.274169921875,
+          1654.0445556640625
+        ],
+        [
+          2301.634033203125,
+          2431.34814453125
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          964.546875,
+          1901.05615234375
+        ],
+        [
+          1467.741943359375,
+          2993.54833984375
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          4603.49072265625,
+          2254.55419921875
+        ],
+        [
+          4738.33837890625,
+          2319.934814453125
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "book",
+      "points": [
+        [
+          731.7091674804688,
+          2250.634033203125
+        ],
+        [
+          850.211669921875,
+          2381.3955078125
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "book",
+      "points": [
+        [
+          192.9862518310547,
+          2200.17822265625
+        ],
+        [
+          438.16375732421875,
+          2352.73291015625
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    },
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          3503.084716796875,
+          1941.0469970703125
+        ],
+        [
+          3625.673583984375,
+          2133.556640625
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 6
+      }
+    },
+    {
+      "label": "book",
+      "points": [
+        [
+          335.3388977050781,
+          2049.29541015625
+        ],
+        [
+          429.3236083984375,
+          2169.16015625
+        ]
+      ],
+      "group_id": 7,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 7
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          4559.2900390625,
+          2146.773193359375
+        ],
+        [
+          4632.84326171875,
+          2190.360107421875
+        ]
+      ],
+      "group_id": 8,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 8
+      }
+    },
+    {
+      "label": "book",
+      "points": [
+        [
+          865.3430786132812,
+          2272.337890625
+        ],
+        [
+          959.3277587890625,
+          2377.67333984375
+        ]
+      ],
+      "group_id": 9,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 9
+      }
+    },
+    {
+      "label": "book",
+      "points": [
+        [
+          626.61865234375,
+          2239.809326171875
+        ],
+        [
+          724.6896362304688,
+          2377.835205078125
+        ]
+      ],
+      "group_id": 10,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 10
+      }
+    },
+    {
+      "label": "book",
+      "points": [
+        [
+          865.1407470703125,
+          2034.74853515625
+        ],
+        [
+          999.9884033203125,
+          2187.303466796875
+        ]
+      ],
+      "group_id": 11,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 11
+      }
+    },
+    {
+      "label": "book",
+      "points": [
+        [
+          634.5687255859375,
+          2056.4521484375
+        ],
+        [
+          761.2437744140625,
+          2183.581298828125
+        ]
+      ],
+      "group_id": 12,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 12
+      }
+    },
+    {
+      "label": "book",
+      "points": [
+        [
+          27.511667251586914,
+          2178.654296875
+        ],
+        [
+          190.9633331298828,
+          2320.3125
+        ]
+      ],
+      "group_id": 13,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 13
+      }
+    },
+    {
+      "label": "book",
+      "points": [
+        [
+          1006.927001953125,
+          2243.423583984375
+        ],
+        [
+          1104.998046875,
+          2377.817138671875
+        ]
+      ],
+      "group_id": 14,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 14
+      }
+    },
+    {
+      "label": "book",
+      "points": [
+        [
+          189.72935485839844,
+          2052.981689453125
+        ],
+        [
+          275.5414733886719,
+          2154.68505859375
+        ]
+      ],
+      "group_id": 15,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 15
+      }
+    },
+    {
+      "label": "book",
+      "points": [
+        [
+          772.349609375,
+          2067.294921875
+        ],
+        [
+          854.075439453125,
+          2183.52734375
+        ]
+      ],
+      "group_id": 16,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 16
+      }
+    },
+    {
+      "label": "book",
+      "points": [
+        [
+          327.2674560546875,
+          1865.9383544921875
+        ],
+        [
+          417.1658630371094,
+          1974.9061279296875
+        ]
+      ],
+      "group_id": 17,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 17
+      }
+    },
+    {
+      "label": "book",
+      "points": [
+        [
+          966.5293579101562,
+          1873.184814453125
+        ],
+        [
+          1052.3414306640625,
+          1971.255859375
+        ]
+      ],
+      "group_id": 18,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 18
+      }
+    },
+    {
+      "label": "book",
+      "points": [
+        [
+          998.8757934570312,
+          2067.294921875
+        ],
+        [
+          1088.774169921875,
+          2183.52734375
+        ]
+      ],
+      "group_id": 19,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 19
+      }
+    },
+    {
+      "label": "book",
+      "points": [
+        [
+          772.3900146484375,
+          1887.6240234375
+        ],
+        [
+          845.9432983398438,
+          1974.7982177734375
+        ]
+      ],
+      "group_id": 20,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 20
+      }
+    },
+    {
+      "label": "book",
+      "points": [
+        [
+          209.9989776611328,
+          1869.62451171875
+        ],
+        [
+          287.6385192871094,
+          1960.4310302734375
+        ]
+      ],
+      "group_id": 21,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 21
+      }
+    },
+    {
+      "label": "book",
+      "points": [
+        [
+          137.17398071289062,
+          1866.0281982421875
+        ],
+        [
+          214.8135223388672,
+          1956.834716796875
+        ]
+      ],
+      "group_id": 22,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 22
+      }
+    },
+    {
+      "label": "book",
+      "points": [
+        [
+          298.74432373046875,
+          2211.038818359375
+        ],
+        [
+          429.50567626953125,
+          2349.064697265625
+        ]
+      ],
+      "group_id": 23,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 23
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          4267.94970703125,
+          2186.2783203125
+        ],
+        [
+          4349.67529296875,
+          2240.76220703125
+        ]
+      ],
+      "group_id": 24,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 24
+      }
+    },
+    {
+      "label": "book",
+      "points": [
+        [
+          193.65380859375,
+          2196.65380859375
+        ],
+        [
+          303.9836730957031,
+          2334.6796875
+        ]
+      ],
+      "group_id": 25,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 25
+      }
+    },
+    {
+      "label": "book",
+      "points": [
+        [
+          703.631103515625,
+          1887.6060791015625
+        ],
+        [
+          773.0980834960938,
+          1978.4124755859375
+        ]
+      ],
+      "group_id": 26,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 26
+      }
+    },
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          3385.9580078125,
+          1959.118408203125
+        ],
+        [
+          3467.683837890625,
+          2133.466796875
+        ]
+      ],
+      "group_id": 27,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 27
+      }
+    },
+    {
+      "label": "book",
+      "points": [
+        [
+          262.5948181152344,
+          2063.78857421875
+        ],
+        [
+          340.2343444824219,
+          2161.859619140625
+        ]
+      ],
+      "group_id": 28,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 28
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          4699.25341796875,
+          2227.435546875
+        ],
+        [
+          4783.8984375,
+          2294.915283203125
+        ]
+      ],
+      "group_id": 29,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 29
+      }
+    }
+  ],
+  "imagePath": "AG8A0195-3befa1376c.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

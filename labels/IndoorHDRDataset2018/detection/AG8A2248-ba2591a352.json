@@ -1,0 +1,190 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "sink",
+      "points": [
+        [
+          3579.67236328125,
+          2414.67919921875
+        ],
+        [
+          4576.7275390625,
+          2825.12451171875
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "sink",
+      "points": [
+        [
+          3646.52978515625,
+          2250.741943359375
+        ],
+        [
+          4214.5244140625,
+          2359.709716796875
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "toilet",
+      "points": [
+        [
+          7381.744140625,
+          2394.6298828125
+        ],
+        [
+          7765.85546875,
+          3222.784912109375
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "toilet",
+      "points": [
+        [
+          0.0,
+          2427.1943359375
+        ],
+        [
+          211.4352569580078,
+          3215.39453125
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          5874.5498046875,
+          2333.870361328125
+        ],
+        [
+          6691.80810546875,
+          3085.748046875
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "bottle",
+      "points": [
+        [
+          3118.892578125,
+          2203.109130859375
+        ],
+        [
+          3208.790771484375,
+          2490.0576171875
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    },
+    {
+      "label": "bottle",
+      "points": [
+        [
+          3199.869873046875,
+          2185.109619140625
+        ],
+        [
+          3277.50927734375,
+          2475.6904296875
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 6
+      }
+    },
+    {
+      "label": "hair drier",
+      "points": [
+        [
+          4639.21533203125,
+          2211.038818359375
+        ],
+        [
+          4912.9970703125,
+          2349.064697265625
+        ]
+      ],
+      "group_id": 7,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 7
+      }
+    },
+    {
+      "label": "toothbrush",
+      "points": [
+        [
+          3438.73583984375,
+          2005.6004638671875
+        ],
+        [
+          3483.68505859375,
+          2234.432861328125
+        ]
+      ],
+      "group_id": 8,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 8
+      }
+    },
+    {
+      "label": "bottle",
+      "points": [
+        [
+          6060.375,
+          1837.024169921875
+        ],
+        [
+          6117.5830078125,
+          1975.0499267578125
+        ]
+      ],
+      "group_id": 9,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 9
+      }
+    }
+  ],
+  "imagePath": "AG8A2248-ba2591a352.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

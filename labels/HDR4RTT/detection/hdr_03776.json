@@ -1,0 +1,190 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "wine glass",
+      "points": [
+        [
+          1275.604736328125,
+          1026.0755615234375
+        ],
+        [
+          1707.2535400390625,
+          2088.146728515625
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "wine glass",
+      "points": [
+        [
+          2744.229736328125,
+          1119.6611328125
+        ],
+        [
+          3576.537109375,
+          3118.3388671875
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          1258.444091796875,
+          305.1533203125
+        ],
+        [
+          2942.98095703125,
+          2271.735595703125
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "bottle",
+      "points": [
+        [
+          3271.28173828125,
+          676.9677734375
+        ],
+        [
+          3891.0849609375,
+          2815.698974609375
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "bowl",
+      "points": [
+        [
+          268.5120544433594,
+          2405.852294921875
+        ],
+        [
+          1368.6629638671875,
+          3109.03662109375
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "knife",
+      "points": [
+        [
+          1351.1954345703125,
+          2262.852294921875
+        ],
+        [
+          1565.9129638671875,
+          2674.2587890625
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    },
+    {
+      "label": "bowl",
+      "points": [
+        [
+          3500.96826171875,
+          2768.739990234375
+        ],
+        [
+          4207.0,
+          3113.037841796875
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 6
+      }
+    },
+    {
+      "label": "knife",
+      "points": [
+        [
+          1250.31298828125,
+          2272.05322265625
+        ],
+        [
+          1478.31201171875,
+          2575.502197265625
+        ]
+      ],
+      "group_id": 7,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 7
+      }
+    },
+    {
+      "label": "dining table",
+      "points": [
+        [
+          776.3212280273438,
+          2222.942138671875
+        ],
+        [
+          4207.0,
+          3109.94677734375
+        ]
+      ],
+      "group_id": 8,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 8
+      }
+    },
+    {
+      "label": "bottle",
+      "points": [
+        [
+          0.0,
+          2394.2099609375
+        ],
+        [
+          325.9884948730469,
+          3114.901123046875
+        ]
+      ],
+      "group_id": 9,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 9
+      }
+    }
+  ],
+  "imagePath": "hdr_03776.png",
+  "imageData": null,
+  "imageHeight": 3120,
+  "imageWidth": 4208
+}

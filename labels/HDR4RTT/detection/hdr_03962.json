@@ -1,0 +1,64 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "person",
+      "points": [
+        [
+          1487.676513671875,
+          196.4241485595703
+        ],
+        [
+          3270.031982421875,
+          2456.938720703125
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "laptop",
+      "points": [
+        [
+          305.38165283203125,
+          1463.0113525390625
+        ],
+        [
+          1078.3682861328125,
+          1806.3515625
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "dining table",
+      "points": [
+        [
+          0.0,
+          1487.286376953125
+        ],
+        [
+          1342.5877685546875,
+          2457.39501953125
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    }
+  ],
+  "imagePath": "hdr_03962.png",
+  "imageData": null,
+  "imageHeight": 2464,
+  "imageWidth": 3280
+}

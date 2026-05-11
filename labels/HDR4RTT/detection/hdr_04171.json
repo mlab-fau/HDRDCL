@@ -1,0 +1,244 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "bench",
+      "points": [
+        [
+          1490.727783203125,
+          1478.056640625
+        ],
+        [
+          2739.188720703125,
+          2858.16552734375
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "bench",
+      "points": [
+        [
+          2452.343505859375,
+          1341.4989013671875
+        ],
+        [
+          3364.33984375,
+          2295.6123046875
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          112.46537780761719,
+          1587.921142578125
+        ],
+        [
+          1301.15966796875,
+          2950.5234375
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          1113.640625,
+          1391.606689453125
+        ],
+        [
+          1943.734375,
+          2727.948974609375
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          1903.1337890625,
+          770.3944702148438
+        ],
+        [
+          2190.899658203125,
+          1543.6055908203125
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          0.0,
+          539.5722045898438
+        ],
+        [
+          59.47087478637695,
+          670.8721923828125
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    },
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          2420.99169921875,
+          245.8877716064453
+        ],
+        [
+          3025.300048828125,
+          762.33447265625
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 6
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          1588.0926513671875,
+          608.3277587890625
+        ],
+        [
+          1762.9656982421875,
+          856.3388671875
+        ]
+      ],
+      "group_id": 7,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 7
+      }
+    },
+    {
+      "label": "truck",
+      "points": [
+        [
+          55.661373138427734,
+          553.0411376953125
+        ],
+        [
+          341.213623046875,
+          701.8477783203125
+        ]
+      ],
+      "group_id": 8,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 8
+      }
+    },
+    {
+      "label": "truck",
+      "points": [
+        [
+          312.7528381347656,
+          553.727783203125
+        ],
+        [
+          675.780517578125,
+          743.3833618164062
+        ]
+      ],
+      "group_id": 9,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 9
+      }
+    },
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          2265.843505859375,
+          1486.9832763671875
+        ],
+        [
+          2777.181396484375,
+          2231.0166015625
+        ]
+      ],
+      "group_id": 10,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 10
+      }
+    },
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          1990.5155029296875,
+          938.1377563476562
+        ],
+        [
+          2778.55126953125,
+          2256.973388671875
+        ]
+      ],
+      "group_id": 11,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 11
+      }
+    },
+    {
+      "label": "bench",
+      "points": [
+        [
+          2959.133544921875,
+          2057.943359375
+        ],
+        [
+          4207.0,
+          3012.056640625
+        ]
+      ],
+      "group_id": 12,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 12
+      }
+    }
+  ],
+  "imagePath": "hdr_04171.png",
+  "imageData": null,
+  "imageHeight": 3120,
+  "imageWidth": 4208
+}

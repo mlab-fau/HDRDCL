@@ -1,0 +1,46 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "person",
+      "points": [
+        [
+          1357.1324462890625,
+          764.3444213867188
+        ],
+        [
+          1374.996826171875,
+          833.5556030273438
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          1446.772705078125,
+          780.0508422851562
+        ],
+        [
+          1459.8731689453125,
+          822.5213623046875
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    }
+  ],
+  "imagePath": "hdr_hdri_SunolBridge.png",
+  "imageData": null,
+  "imageHeight": 1682,
+  "imageWidth": 2264
+}

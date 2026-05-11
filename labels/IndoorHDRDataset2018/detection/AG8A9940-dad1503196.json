@@ -1,0 +1,118 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "sink",
+      "points": [
+        [
+          7271.96044921875,
+          2361.34619140625
+        ],
+        [
+          7766.40185546875,
+          2648.294677734375
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "toilet",
+      "points": [
+        [
+          4145.6845703125,
+          2205.71630859375
+        ],
+        [
+          4407.20703125,
+          2692.439208984375
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "sink",
+      "points": [
+        [
+          6649.5498046875,
+          2239.701416015625
+        ],
+        [
+          7013.2294921875,
+          2399.520751953125
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "cup",
+      "points": [
+        [
+          76.46624755859375,
+          2326.15625
+        ],
+        [
+          158.19207763671875,
+          2456.917724609375
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "bottle",
+      "points": [
+        [
+          7346.97021484375,
+          2257.790771484375
+        ],
+        [
+          7400.09228515625,
+          2395.816650390625
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "bottle",
+      "points": [
+        [
+          177.6929931640625,
+          2034.7125244140625
+        ],
+        [
+          243.07366943359375,
+          2194.531982421875
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    }
+  ],
+  "imagePath": "AG8A9940-dad1503196.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

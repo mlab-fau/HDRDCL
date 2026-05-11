@@ -1,0 +1,118 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "tv",
+      "points": [
+        [
+          5575.724609375,
+          1583.7550048828125
+        ],
+        [
+          6278.56689453125,
+          2030.5228271484375
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          6907.228515625,
+          2315.888916015625
+        ],
+        [
+          7524.2587890625,
+          3067.7666015625
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "laptop",
+      "points": [
+        [
+          4274.564453125,
+          2290.12158203125
+        ],
+        [
+          4654.58984375,
+          2435.411865234375
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "laptop",
+      "points": [
+        [
+          4727.455078125,
+          2372.980224609375
+        ],
+        [
+          5156.515625,
+          2489.21240234375
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          1777.98193359375,
+          2364.510986328125
+        ],
+        [
+          2219.301513671875,
+          2738.633544921875
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "dining table",
+      "points": [
+        [
+          632.3529663085938,
+          2352.294189453125
+        ],
+        [
+          2458.823486328125,
+          3334.64697265625
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    }
+  ],
+  "imagePath": "AG8A2504-da1bd8716a.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

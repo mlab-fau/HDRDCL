@@ -1,0 +1,118 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "person",
+      "points": [
+        [
+          1599.613525390625,
+          2609.44189453125
+        ],
+        [
+          1723.1197509765625,
+          3029.64697265625
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          1530.09130859375,
+          2544.744384765625
+        ],
+        [
+          1642.9503173828125,
+          2973.466796875
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          1698.547119140625,
+          2463.165771484375
+        ],
+        [
+          1853.9945068359375,
+          2903.245361328125
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          106.734375,
+          2213.834228515625
+        ],
+        [
+          266.44061279296875,
+          2480.72119140625
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          0.0,
+          2127.01318359375
+        ],
+        [
+          152.5590057373047,
+          2328.597900390625
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          2898.6630859375,
+          1907.8448486328125
+        ],
+        [
+          2958.286865234375,
+          2089.55517578125
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    }
+  ],
+  "imagePath": "hdr_03121.png",
+  "imageData": null,
+  "imageHeight": 3036,
+  "imageWidth": 4048
+}

@@ -1,0 +1,136 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "person",
+      "points": [
+        [
+          338.5150146484375,
+          403.6549987792969
+        ],
+        [
+          638.4849853515625,
+          1079.0
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          1090.2449951171875,
+          507.3949890136719
+        ],
+        [
+          1242.7550048828125,
+          831.60498046875
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          896.1199951171875,
+          521.489990234375
+        ],
+        [
+          1073.8800048828125,
+          826.510009765625
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          775.5349731445312,
+          544.60498046875
+        ],
+        [
+          869.4650268554688,
+          826.39501953125
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          1315.1500244140625,
+          568.5449829101562
+        ],
+        [
+          1890.8499755859375,
+          1064.4549560546875
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          677.5499877929688,
+          679.5150146484375
+        ],
+        [
+          768.4500122070312,
+          777.4849853515625
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          830.5599975585938,
+          692.6799926757812
+        ],
+        [
+          919.4400024414062,
+          757.3200073242188
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 6
+      }
+    }
+  ],
+  "imagePath": "hdr_00344.png",
+  "imageData": null,
+  "imageHeight": 1080,
+  "imageWidth": 1920
+}

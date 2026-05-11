@@ -1,0 +1,100 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "chair",
+      "points": [
+        [
+          2093.75927734375,
+          2101.18994140625
+        ],
+        [
+          2494.2158203125,
+          2635.132080078125
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "tv",
+      "points": [
+        [
+          992.908203125,
+          1699.4298095703125
+        ],
+        [
+          1471.0042724609375,
+          2026.3331298828125
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "book",
+      "points": [
+        [
+          2954.773193359375,
+          2125.8427734375
+        ],
+        [
+          4323.68115234375,
+          2765.120361328125
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          5093.17822265625,
+          1891.0045166015625
+        ],
+        [
+          5199.421875,
+          2021.765869140625
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          5097.244140625,
+          1664.4918212890625
+        ],
+        [
+          5199.4013671875,
+          1784.3563232421875
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    }
+  ],
+  "imagePath": "9C4A3195-f42e5ef293.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

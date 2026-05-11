@@ -1,0 +1,64 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "bed",
+      "points": [
+        [
+          2692.62353515625,
+          1909.1298828125
+        ],
+        [
+          5528.509765625,
+          3463.73681640625
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "tv",
+      "points": [
+        [
+          992.463134765625,
+          1950.433349609375
+        ],
+        [
+          1560.4576416015625,
+          2426.25927734375
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          1352.8052978515625,
+          2316.03271484375
+        ],
+        [
+          1867.6781005859375,
+          3038.852294921875
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    }
+  ],
+  "imagePath": "AG8A6742-82c3a15378.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

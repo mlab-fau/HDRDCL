@@ -1,0 +1,136 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "toilet",
+      "points": [
+        [
+          6806.97314453125,
+          2155.2783203125
+        ],
+        [
+          7244.2060546875,
+          2660.162353515625
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "toilet",
+      "points": [
+        [
+          6269.4033203125,
+          2109.0478515625
+        ],
+        [
+          6600.392578125,
+          2508.596435546875
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "toilet",
+      "points": [
+        [
+          0.0,
+          2148.211669921875
+        ],
+        [
+          219.56736755371094,
+          2627.669921875
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "toilet",
+      "points": [
+        [
+          7580.9814453125,
+          2148.24755859375
+        ],
+        [
+          7764.8642578125,
+          2620.44140625
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "bench",
+      "points": [
+        [
+          1536.910888671875,
+          2139.8681640625
+        ],
+        [
+          2456.32666015625,
+          2851.791015625
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "sink",
+      "points": [
+        [
+          657.973876953125,
+          2167.847412109375
+        ],
+        [
+          960.3594360351562,
+          2313.1376953125
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    },
+    {
+      "label": "sink",
+      "points": [
+        [
+          844.4058837890625,
+          2110.50439453125
+        ],
+        [
+          1081.4107666015625,
+          2215.840087890625
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 6
+      }
+    }
+  ],
+  "imagePath": "AG8A9606-ada4c9fa6a.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

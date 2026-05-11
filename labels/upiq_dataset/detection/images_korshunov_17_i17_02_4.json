@@ -1,0 +1,82 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "person",
+      "points": [
+        [
+          550.6838989257812,
+          353.4150085449219
+        ],
+        [
+          943.0,
+          1077.5849609375
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          338.0773620605469,
+          506.6499938964844
+        ],
+        [
+          475.6309509277344,
+          981.3499755859375
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          193.07012939453125,
+          488.55999755859375
+        ],
+        [
+          323.6715393066406,
+          981.4400024414062
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          64.13053894042969,
+          560.89501953125
+        ],
+        [
+          120.24446105957031,
+          784.10498046875
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    }
+  ],
+  "imagePath": "images_korshunov_17_i17_02_4.png",
+  "imageData": null,
+  "imageHeight": 1080,
+  "imageWidth": 944
+}

@@ -1,0 +1,118 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "person",
+      "points": [
+        [
+          1332.8238525390625,
+          1286.9932861328125
+        ],
+        [
+          1492.9761962890625,
+          1701.3177490234375
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          0.0,
+          1275.8936767578125
+        ],
+        [
+          99.89700317382812,
+          1701.373046875
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          903.9306030273438,
+          1353.44140625
+        ],
+        [
+          931.41943359375,
+          1412.4029541015625
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          877.9386596679688,
+          1358.2930908203125
+        ],
+        [
+          897.0613403320312,
+          1393.351318359375
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "handbag",
+      "points": [
+        [
+          1340.4090576171875,
+          1368.690673828125
+        ],
+        [
+          1402.5576171875,
+          1534.42041015625
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          1003.3660888671875,
+          1351.9661865234375
+        ],
+        [
+          1023.6838989257812,
+          1390.2115478515625
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    }
+  ],
+  "imagePath": "hdr_hdri_NewLondon.png",
+  "imageData": null,
+  "imageHeight": 1704,
+  "imageWidth": 2272
+}

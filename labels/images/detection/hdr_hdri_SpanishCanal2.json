@@ -1,0 +1,118 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "car",
+      "points": [
+        [
+          51.30045700073242,
+          379.1912841796875
+        ],
+        [
+          86.55787658691406,
+          432.57537841796875
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          0.0,
+          380.6191711425781
+        ],
+        [
+          52.92162322998047,
+          464.28082275390625
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          63.70178985595703,
+          374.4934387207031
+        ],
+        [
+          103.73987579345703,
+          420.70654296875
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          32.375999450683594,
+          380.7059326171875
+        ],
+        [
+          65.84066772460938,
+          446.8385009765625
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          0.0,
+          401.1105651855469
+        ],
+        [
+          13.08174991607666,
+          488.756103515625
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          940.5843505859375,
+          382.5282897949219
+        ],
+        [
+          974.0490112304688,
+          399.2606201171875
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    }
+  ],
+  "imagePath": "hdr_hdri_SpanishCanal2.png",
+  "imageData": null,
+  "imageHeight": 852,
+  "imageWidth": 1136
+}

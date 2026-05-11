@@ -1,0 +1,46 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "chair",
+      "points": [
+        [
+          2859.837646484375,
+          2383.697021484375
+        ],
+        [
+          3791.51220703125,
+          3240.910400390625
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          4075.021728515625,
+          2371.834716796875
+        ],
+        [
+          5052.4208984375,
+          3176.21044921875
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    }
+  ],
+  "imagePath": "9C4A7318-4304724490.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

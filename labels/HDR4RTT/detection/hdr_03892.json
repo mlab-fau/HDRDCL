@@ -1,0 +1,118 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "person",
+      "points": [
+        [
+          939.1934814453125,
+          913.5700073242188
+        ],
+        [
+          2536.306396484375,
+          3020.429931640625
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          2571.50244140625,
+          1549.60400390625
+        ],
+        [
+          2772.99755859375,
+          1871.9959716796875
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          2395.952880859375,
+          912.4080200195312
+        ],
+        [
+          2425.64697265625,
+          991.5919799804688
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "backpack",
+      "points": [
+        [
+          1232.5634765625,
+          1665.6920166015625
+        ],
+        [
+          2108.53662109375,
+          2293.508056640625
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          2614.384521484375,
+          895.6079711914062
+        ],
+        [
+          2637.715576171875,
+          974.7919921875
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          2553.42138671875,
+          904.0079956054688
+        ],
+        [
+          2589.478515625,
+          983.1920166015625
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    }
+  ],
+  "imagePath": "hdr_03892.png",
+  "imageData": null,
+  "imageHeight": 3024,
+  "imageWidth": 4032
+}

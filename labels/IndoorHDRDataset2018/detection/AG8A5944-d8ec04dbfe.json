@@ -1,0 +1,82 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "chair",
+      "points": [
+        [
+          4388.9404296875,
+          1943.7261962890625
+        ],
+        [
+          4548.3056640625,
+          2321.481201171875
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          3513.80615234375,
+          1892.7667236328125
+        ],
+        [
+          3922.435302734375,
+          2394.0185546875
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          1568.97412109375,
+          2066.413818359375
+        ],
+        [
+          1732.42578125,
+          2360.626953125
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          1399.1705322265625,
+          2077.490478515625
+        ],
+        [
+          1538.1044921875,
+          2313.58740234375
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    }
+  ],
+  "imagePath": "AG8A5944-d8ec04dbfe.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

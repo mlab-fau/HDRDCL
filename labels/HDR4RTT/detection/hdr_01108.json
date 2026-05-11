@@ -1,0 +1,136 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "person",
+      "points": [
+        [
+          624.57666015625,
+          176.89666748046875
+        ],
+        [
+          777.42333984375,
+          669.1033325195312
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          136.4566650390625,
+          170.76666259765625
+        ],
+        [
+          313.5433349609375,
+          689.2333374023438
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          296.34332275390625,
+          98.93000030517578
+        ],
+        [
+          496.3233337402344,
+          719.0
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          501.29998779296875,
+          204.22999572753906
+        ],
+        [
+          642.7000122070312,
+          696.4366455078125
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          452.1499938964844,
+          174.336669921875
+        ],
+        [
+          556.5166625976562,
+          644.9966430664062
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "handbag",
+      "points": [
+        [
+          104.15333557128906,
+          402.0533447265625
+        ],
+        [
+          207.84666442871094,
+          525.9466552734375
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          0.33000001311302185,
+          265.1166687011719
+        ],
+        [
+          68.336669921875,
+          443.54998779296875
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 6
+      }
+    }
+  ],
+  "imagePath": "hdr_01108.png",
+  "imageData": null,
+  "imageHeight": 720,
+  "imageWidth": 1280
+}

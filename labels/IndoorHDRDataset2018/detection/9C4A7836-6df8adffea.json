@@ -1,0 +1,244 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "keyboard",
+      "points": [
+        [
+          4432.6552734375,
+          2283.0546875
+        ],
+        [
+          4751.38623046875,
+          2402.91943359375
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "keyboard",
+      "points": [
+        [
+          6552.53076171875,
+          2221.827880859375
+        ],
+        [
+          6899.865234375,
+          2359.853759765625
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "keyboard",
+      "points": [
+        [
+          4854.10986328125,
+          2178.97802734375
+        ],
+        [
+          5033.90673828125,
+          2255.25537109375
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "tv",
+      "points": [
+        [
+          4384.28759765625,
+          2005.3487548828125
+        ],
+        [
+          4666.24169921875,
+          2285.03271484375
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "tv",
+      "points": [
+        [
+          4724.623046875,
+          2005.726318359375
+        ],
+        [
+          4908.50634765625,
+          2209.1328125
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "tv",
+      "points": [
+        [
+          6427.37255859375,
+          1936.83935546875
+        ],
+        [
+          6721.58544921875,
+          2252.845947265625
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    },
+    {
+      "label": "mouse",
+      "points": [
+        [
+          4773.71923828125,
+          2276.2578125
+        ],
+        [
+          4847.2724609375,
+          2316.212646484375
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 6
+      }
+    },
+    {
+      "label": "mouse",
+      "points": [
+        [
+          6974.5107421875,
+          2229.488037109375
+        ],
+        [
+          7076.66845703125,
+          2273.074951171875
+        ]
+      ],
+      "group_id": 7,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 7
+      }
+    },
+    {
+      "label": "tv",
+      "points": [
+        [
+          6100.52978515625,
+          1951.9617919921875
+        ],
+        [
+          6219.03271484375,
+          2119.045654296875
+        ]
+      ],
+      "group_id": 8,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 8
+      }
+    },
+    {
+      "label": "tv",
+      "points": [
+        [
+          6266.1259765625,
+          1944.5714111328125
+        ],
+        [
+          6441.83642578125,
+          2151.610107421875
+        ]
+      ],
+      "group_id": 9,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 9
+      }
+    },
+    {
+      "label": "tv",
+      "points": [
+        [
+          6783.8916015625,
+          1969.7813720703125
+        ],
+        [
+          6980.03369140625,
+          2169.5556640625
+        ]
+      ],
+      "group_id": 10,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 10
+      }
+    },
+    {
+      "label": "mouse",
+      "points": [
+        [
+          7112.271484375,
+          2132.477783203125
+        ],
+        [
+          7173.56591796875,
+          2157.903564453125
+        ]
+      ],
+      "group_id": 11,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 11
+      }
+    },
+    {
+      "label": "keyboard",
+      "points": [
+        [
+          6120.27392578125,
+          2150.3154296875
+        ],
+        [
+          6336.84716796875,
+          2204.79931640625
+        ]
+      ],
+      "group_id": 12,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 12
+      }
+    }
+  ],
+  "imagePath": "9C4A7836-6df8adffea.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

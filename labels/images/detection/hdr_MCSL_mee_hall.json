@@ -1,0 +1,46 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          764.578125,
+          762.7639770507812
+        ],
+        [
+          1186.4635009765625,
+          1036.376708984375
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          128.8854217529297,
+          951.4247436523438
+        ],
+        [
+          185.6979217529297,
+          1151.419677734375
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    }
+  ],
+  "imagePath": "hdr_MCSL_mee_hall.png",
+  "imageData": null,
+  "imageHeight": 1312,
+  "imageWidth": 2000
+}

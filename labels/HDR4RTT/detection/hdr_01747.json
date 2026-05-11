@@ -1,0 +1,64 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "car",
+      "points": [
+        [
+          0.0,
+          21.774999618530273
+        ],
+        [
+          1919.0,
+          1077.2249755859375
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          1378.739990234375,
+          258.8550109863281
+        ],
+        [
+          1835.260009765625,
+          490.1449890136719
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          1593.4300537109375,
+          238.7100067138672
+        ],
+        [
+          1910.5699462890625,
+          499.2900085449219
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    }
+  ],
+  "imagePath": "hdr_01747.png",
+  "imageData": null,
+  "imageHeight": 1080,
+  "imageWidth": 1920
+}

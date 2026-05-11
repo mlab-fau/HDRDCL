@@ -1,0 +1,100 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "chair",
+      "points": [
+        [
+          2793.85009765625,
+          2299.59765625
+        ],
+        [
+          3978.874755859375,
+          3436.494873046875
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "mouse",
+      "points": [
+        [
+          4263.74169921875,
+          2624.720947265625
+        ],
+        [
+          4378.158203125,
+          2740.953125
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "laptop",
+      "points": [
+        [
+          3552.5654296875,
+          2433.2001953125
+        ],
+        [
+          4304.44287109375,
+          2734.677734375
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "clock",
+      "points": [
+        [
+          75.59639739990234,
+          1422.892578125
+        ],
+        [
+          333.03277587890625,
+          1673.5185546875
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "refrigerator",
+      "points": [
+        [
+          5052.96240234375,
+          1708.04296875
+        ],
+        [
+          5927.42919921875,
+          3200.901611328125
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    }
+  ],
+  "imagePath": "AG8A4551-df55f70998.png",
+  "imageData": null,
+  "imageHeight": 3884,
+  "imageWidth": 7768
+}

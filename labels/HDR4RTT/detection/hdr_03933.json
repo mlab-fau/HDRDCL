@@ -1,0 +1,136 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "person",
+      "points": [
+        [
+          1903.5531005859375,
+          843.0073852539062
+        ],
+        [
+          3188.988525390625,
+          2456.014892578125
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "giraffe",
+      "points": [
+        [
+          1618.287109375,
+          929.2587890625
+        ],
+        [
+          1863.2962646484375,
+          1249.5560302734375
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "giraffe",
+      "points": [
+        [
+          1470.5247802734375,
+          1057.1700439453125
+        ],
+        [
+          1541.266845703125,
+          1347.5113525390625
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "giraffe",
+      "points": [
+        [
+          495.66436767578125,
+          786.8031005859375
+        ],
+        [
+          2516.127197265625,
+          2231.596923828125
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "giraffe",
+      "points": [
+        [
+          1608.69482421875,
+          949.8834228515625
+        ],
+        [
+          1677.2152099609375,
+          1042.759521484375
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "giraffe",
+      "points": [
+        [
+          1235.88525390625,
+          990.6990966796875
+        ],
+        [
+          1427.406494140625,
+          1343.2564697265625
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    },
+    {
+      "label": "giraffe",
+      "points": [
+        [
+          494.04998779296875,
+          901.3220825195312
+        ],
+        [
+          770.1166381835938,
+          1334.52978515625
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 6
+      }
+    }
+  ],
+  "imagePath": "hdr_03933.png",
+  "imageData": null,
+  "imageHeight": 2464,
+  "imageWidth": 3280
+}

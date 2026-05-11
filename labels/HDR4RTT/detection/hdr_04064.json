@@ -1,0 +1,244 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "tv",
+      "points": [
+        [
+          3146.926513671875,
+          306.6844482421875
+        ],
+        [
+          3651.62353515625,
+          796.87109375
+        ]
+      ],
+      "group_id": 0,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 0
+      }
+    },
+    {
+      "label": "remote",
+      "points": [
+        [
+          2769.455810546875,
+          1989.3756103515625
+        ],
+        [
+          2933.260986328125,
+          2205.291015625
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 1
+      }
+    },
+    {
+      "label": "keyboard",
+      "points": [
+        [
+          3323.476318359375,
+          857.5377807617188
+        ],
+        [
+          3582.465576171875,
+          950.9066772460938
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 2
+      }
+    },
+    {
+      "label": "laptop",
+      "points": [
+        [
+          3912.859130859375,
+          301.8022155761719
+        ],
+        [
+          4207.0,
+          611.086669921875
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 3
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          3633.94775390625,
+          1049.8656005859375
+        ],
+        [
+          4043.460693359375,
+          1391.24560546875
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 4
+      }
+    },
+    {
+      "label": "cell phone",
+      "points": [
+        [
+          2206.41650390625,
+          1545.064453125
+        ],
+        [
+          2325.9501953125,
+          1644.2689208984375
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 5
+      }
+    },
+    {
+      "label": "couch",
+      "points": [
+        [
+          282.9222412109375,
+          794.48779296875
+        ],
+        [
+          4207.0,
+          3119.0
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 6
+      }
+    },
+    {
+      "label": "chair",
+      "points": [
+        [
+          4137.52685546875,
+          1061.8978271484375
+        ],
+        [
+          4206.14794921875,
+          1306.9910888671875
+        ]
+      ],
+      "group_id": 7,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 7
+      }
+    },
+    {
+      "label": "potted plant",
+      "points": [
+        [
+          2414.99755859375,
+          0.0
+        ],
+        [
+          3344.702392578125,
+          1103.2667236328125
+        ]
+      ],
+      "group_id": 8,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 8
+      }
+    },
+    {
+      "label": "dining table",
+      "points": [
+        [
+          3547.223388671875,
+          1276.888916015625
+        ],
+        [
+          4207.0,
+          1860.4444580078125
+        ]
+      ],
+      "group_id": 9,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 9
+      }
+    },
+    {
+      "label": "cup",
+      "points": [
+        [
+          3113.996826171875,
+          715.7366943359375
+        ],
+        [
+          3187.044921875,
+          858.707763671875
+        ]
+      ],
+      "group_id": 10,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 10
+      }
+    },
+    {
+      "label": "keyboard",
+      "points": [
+        [
+          3946.599853515625,
+          548.542236328125
+        ],
+        [
+          4066.13330078125,
+          618.5689086914062
+        ]
+      ],
+      "group_id": 11,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 11
+      }
+    },
+    {
+      "label": "cell phone",
+      "points": [
+        [
+          3370.39990234375,
+          2699.045654296875
+        ],
+        [
+          3890.591796875,
+          3116.287841796875
+        ]
+      ],
+      "group_id": 12,
+      "shape_type": "rectangle",
+      "flags": {
+        "instance_id": 12
+      }
+    }
+  ],
+  "imagePath": "hdr_04064.png",
+  "imageData": null,
+  "imageHeight": 3120,
+  "imageWidth": 4208
+}
